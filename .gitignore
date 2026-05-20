@@ -1,0 +1,7 @@
+fp-info-cache
+.DS_Store
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.net
+apple1-backups

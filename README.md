@@ -1,0 +1,40 @@
+![the Apple Company logo, 1979](https://www.designhill.com/design-blog/wp-content/uploads/2014/03/1976-Apple-Logo.png)
+# About
+This repository is meant to be a hub for technical documentation relating to building and preserving the Apple-1 Computer. There are a lot of passionate hobbyists out there trying to preserve the original computer as it was originally designed, and that is what interests me. While stripped down or altered replicas are cool, what interests me the most is the original thing, unaltered in its original state with the original schematics and components. 
+
+## Current Goals
+On the KiCad end, ultimately I want to create a self-contained KiCad project that houses a full set of schematics files that are at 1:1 parity with the manual (minus the mistakes in the original), which are then linked to footprints, which I can then be mapped perfectly on to a 1:1 replica mainboard and generate a part-complete 3D Step file, accurate gerber files, and an accurate BOM for production. This is going to require the creation of custom footprints, pin mappings, and step files, as well as close scrutiny at all steps. I would also like to create a clean, complete component bom list that KiCad complete, ergo also associated to the schematic labels, with acceptable substitute parts.
+
+As side projects, I would like to fill the repository with manuals, programs, and case build guides among other things I see relevant
+
+## Future Goals
+In the future, once the above goals are met and I'm satisfied with them, I may consider working on an altered version of the main board that, while maintaining the same number and nature of the components, makes adequate substitutes such that another curious hobbyist would be able to buy as many components as possible off-the-shelf without having to hunt for "unicorn" parts. I'd like the ability to build one to be cheap and available to anyone who wants to do it, without having to sacrifice much at all in the way of board or schematic integrity. I would also like to provide a BOM that includes all required sockets needed for all the DIP chips in the system
+
+## Acknowledgements
+
+This repository contains only a fraction of original work. mostly, it is an amalgamation of a few different projects related to documenting and reproducing the Apple-1 Computer, with my work being mainly relegated to tying the gerber files and schematics together into a cohesive whole KiCad project.
+* The gerber files are directly forked from [@kalinchuk](https://github.com/kalinchuk). The files can be found [here](https://github.com/kalinchuk/apple_1/tree/main/Gerbers) and I take no credit.
+* The Kicad schematic files were drawn by [@nicolas-robin](https://github.com/nicolas-robin) and are in large part unchanged. the source repo can be found [here](https://github.com/nicolas-robin/a1_schematics)
+* The manual files I originally obtained from the Briel Computers website probably 15+ years ago and have kept on my system since. They are probably the best scans I've seen on the internet: watermark free, clean white pages, and clean, readable text without an overreliance on the contrast and brightness dials.
+
+
+
+# Contents
+## Gerber Files
+`\gerbers\` Contains the gerber files as designed by GitHub user @kalinchuk [here](https://github.com/kalinchuk/apple_1/tree/main/Gerbers). Note: I have not generated or regenerated yet the gerber files based on the KiCad PCB. I want to ensure first that i can achieve parity between the base files and the KiCad export. As described below, these gerbers are the basis for the `.kicad_pcb` files in this project.
+
+## Schematics & PCB Files
+The schematics are in `*.kicad_sch` format. although it has been migrated from source to KiCad 6+.
+
+The PCB Files located within are based off importing the Gerber files mentioned above into KiCad PCB, and mapping the schematics provided by nicholas-robin to it by specifying footprints and mapping them to the appropriate traces.
+
+- `\aci\`: Contains Schematics and PCB files for the Apple Casette Interface.
+- `\mainboard\`: Contains Schematics and PCB files for the Apple-1 main board.
+- `\transformers\`: contains Schematics and PCB files for the transformers board.
+
+## Documents
+
+`\doc\` Contains the following
+- [`\doc\a1man.pdf`](./doc/A1Man.pdf): A very good scan of the original Apple-1 Manual 
+- [`\doc\basicman.pdf](./doc/BasicMan.pdf): A scan of the original apple
+basic manual

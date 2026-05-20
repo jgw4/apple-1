@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "apple1") (type "KiCad") (uri "${KIPRJMOD}/apple1.kicad_sym") (options "") (descr ""))
+	(lib (name "apple1-cache") (type "KiCad") (uri "${KIPRJMOD}/apple1-cache.kicad_sym") (options "") (descr "Legacy project cache library"))
+)
