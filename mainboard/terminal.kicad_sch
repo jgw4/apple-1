@@ -20576,7 +20576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 167.64 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -20587,7 +20587,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7410.shtml"
 			(at 167.64 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -20598,7 +20598,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 167.64 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21240,7 +21240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 256.54 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -21251,7 +21251,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7402.shtml"
 			(at 256.54 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -21262,7 +21262,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 256.54 243.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21588,7 +21588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 185.42 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -21599,7 +21599,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 185.42 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -21610,7 +21610,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 185.42 246.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21703,7 +21703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 48.26 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -21714,7 +21714,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 48.26 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -21725,7 +21725,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 48.26 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21819,7 +21819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 60.96 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21830,7 +21830,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls08.pdf?ts=1779367913652&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LS08%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-int-null-44700045336317929_prodfolderdynamic-cpc-pf-google-ww_en_int%2526utm_content%253Dprodfolddynamic%2526ds_k%253DDYNAMIC+SEARCH+ADS%2526DCM%253Dyes%2526gclsrc%253Daw.ds%2526gad_source%253D1%2526gad_campaignid%253D12514844049%2526gclid%253DCjwKCAjw2rrQBhBuEiwAarLWHWx_QNQbALFt2IgWJV-S5n-LY28ZOQM9yUHhG5f6aODST_t2Ov5OGxoCKG4QAvD_BwE"
 			(at 60.96 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21841,7 +21841,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT AND GATE"
 			(at 60.96 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21935,7 +21935,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 50.8 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21946,7 +21946,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7402.shtml"
 			(at 50.8 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21957,7 +21957,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 50.8 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22142,7 +22142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 60.96 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -22166,6 +22166,17 @@
 		)
 		(property "Description" ""
 			(at 60.96 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 60.96 167.64 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22222,7 +22233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 50.8 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -22246,6 +22257,17 @@
 		)
 		(property "Description" ""
 			(at 50.8 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 50.8 167.64 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23019,7 +23041,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 248.92 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -23030,7 +23052,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 248.92 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -23041,7 +23063,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 248.92 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23134,7 +23156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 271.78 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -23145,7 +23167,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 271.78 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -23156,7 +23178,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 271.78 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23327,7 +23349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 248.92 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -23338,7 +23360,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7432.shtml"
 			(at 248.92 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -23349,7 +23371,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT OR GATE"
 			(at 248.92 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23442,7 +23464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 383.54 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -23453,7 +23475,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls174.pdf?ts=1779344175972"
 			(at 383.54 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -23464,7 +23486,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX D-TYPE FLIP-FLOPS W/ CLEAR"
 			(at 383.54 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23563,7 +23585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 424.18 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -23574,7 +23596,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7410.shtml"
 			(at 424.18 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -23585,7 +23607,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 424.18 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23678,7 +23700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 424.18 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -23689,7 +23711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7410.shtml"
 			(at 424.18 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -23700,7 +23722,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 424.18 180.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23794,7 +23816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 441.96 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -23805,7 +23827,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7427.shtml"
 			(at 441.96 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -23816,7 +23838,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NOR GATE"
 			(at 441.96 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23909,7 +23931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 441.96 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -23920,7 +23942,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7427.shtml"
 			(at 441.96 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -23931,7 +23953,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NOR GATE"
 			(at 441.96 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24025,7 +24047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 462.28 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -24036,7 +24058,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7432.shtml"
 			(at 462.28 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -24047,7 +24069,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT OR GATE"
 			(at 462.28 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24141,7 +24163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 492.76 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -24152,7 +24174,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7432.shtml"
 			(at 492.76 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -24163,7 +24185,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT OR GATE"
 			(at 492.76 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24342,7 +24364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 457.2 158.115 0)
 			(hide yes)
 			(show_name no)
@@ -24353,7 +24375,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn5450.pdf?ts=1779367727182"
 			(at 457.2 158.115 0)
 			(hide yes)
 			(show_name no)
@@ -24364,7 +24386,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DUAL 2-2-INPUT AND-OR-INVERT GATE"
 			(at 459.74 185.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24451,7 +24473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 480.06 235.585 0)
 			(hide yes)
 			(show_name no)
@@ -24462,7 +24484,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn5450.pdf?ts=1779367727182"
 			(at 480.06 235.585 0)
 			(hide yes)
 			(show_name no)
@@ -24473,7 +24495,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DUAL 2-2-INPUT AND-OR-INVERT GATE"
 			(at 477.52 208.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24560,7 +24582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 480.06 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -24571,7 +24593,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 480.06 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -24582,7 +24604,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 480.06 185.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24676,7 +24698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 457.2 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -24687,7 +24709,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls08.pdf?ts=1779367913652&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LS08%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-int-null-44700045336317929_prodfolderdynamic-cpc-pf-google-ww_en_int%2526utm_content%253Dprodfolddynamic%2526ds_k%253DDYNAMIC+SEARCH+ADS%2526DCM%253Dyes%2526gclsrc%253Daw.ds%2526gad_source%253D1%2526gad_campaignid%253D12514844049%2526gclid%253DCjwKCAjw2rrQBhBuEiwAarLWHWx_QNQbALFt2IgWJV-S5n-LY28ZOQM9yUHhG5f6aODST_t2Ov5OGxoCKG4QAvD_BwE"
 			(at 457.2 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -24698,7 +24720,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT AND GATE"
 			(at 457.2 205.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24792,7 +24814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 502.92 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -25182,7 +25204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 145.542 251.46 90)
 			(hide yes)
 			(show_name no)
@@ -25262,7 +25284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 145.542 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -25341,7 +25363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 86.36 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -25352,7 +25374,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7402.shtml"
 			(at 86.36 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -25363,7 +25385,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 86.36 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25457,7 +25479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 86.36 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -25468,7 +25490,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7427.shtml"
 			(at 86.36 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -25479,7 +25501,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NOR GATE"
 			(at 86.36 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25573,7 +25595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 124.46 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -25584,7 +25606,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 124.46 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -25595,7 +25617,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 124.46 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25689,7 +25711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 147.32 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -25700,7 +25722,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 147.32 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -25711,7 +25733,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 147.32 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25804,7 +25826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 119.38 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -25815,7 +25837,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 119.38 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -25826,7 +25848,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 119.38 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25920,7 +25942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 147.32 127 0)
 			(hide yes)
 			(show_name no)
@@ -25931,7 +25953,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7432.shtml"
 			(at 147.32 127 0)
 			(hide yes)
 			(show_name no)
@@ -25942,7 +25964,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT OR GATE"
 			(at 147.32 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26036,7 +26058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 251.46 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -26047,7 +26069,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls08.pdf?ts=1779367913652&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LS08%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-int-null-44700045336317929_prodfolderdynamic-cpc-pf-google-ww_en_int%2526utm_content%253Dprodfolddynamic%2526ds_k%253DDYNAMIC+SEARCH+ADS%2526DCM%253Dyes%2526gclsrc%253Daw.ds%2526gad_source%253D1%2526gad_campaignid%253D12514844049%2526gclid%253DCjwKCAjw2rrQBhBuEiwAarLWHWx_QNQbALFt2IgWJV-S5n-LY28ZOQM9yUHhG5f6aODST_t2Ov5OGxoCKG4QAvD_BwE"
 			(at 251.46 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -26058,7 +26080,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT AND GATE"
 			(at 251.46 312.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26151,7 +26173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 266.7 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -26162,7 +26184,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7402.shtml"
 			(at 266.7 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -26173,7 +26195,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 266.7 314.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26267,7 +26289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 167.64 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -26278,7 +26300,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls175.pdf?ts=1779301315501"
 			(at 167.64 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -26289,7 +26311,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD D-EDGE-TRIGGERED FLIP-FLOP, SHARED CLOCK AND ASYNCHRONOUS CLEAR, Q&/Q OUTPUTS"
 			(at 167.64 292.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26752,7 +26774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 160.02 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -26763,7 +26785,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls166a.pdf?ts=1779368709608"
 			(at 160.02 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -26774,7 +26796,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PARALLEL-LOAD 8-BIT SHIFT REGISTER"
 			(at 160.02 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26996,7 +27018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 304.8 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -27007,7 +27029,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls158.pdf?ts=1779368560224"
 			(at 304.8 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -27018,7 +27040,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-LINE TO 1-LINE DATA SELECTOR/MULTIPLEXER, INVERTING OUTPUTS"
 			(at 304.8 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27117,7 +27139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 119.38 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -27128,7 +27150,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls161a.pdf?ts=1779368515711"
 			(at 119.38 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -27139,7 +27161,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 119.38 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27238,7 +27260,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 63.5 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27249,7 +27271,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls161a.pdf?ts=1779368515711"
 			(at 63.5 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27260,7 +27282,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT DECADE COUNTER, ASYNCHRONOUS CLEAR"
 			(at 63.5 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27359,7 +27381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 116.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27370,7 +27392,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls161a.pdf?ts=1779368515711"
 			(at 116.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27381,7 +27403,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 116.84 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27480,7 +27502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 170.18 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27491,7 +27513,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls161a.pdf?ts=1779368515711"
 			(at 170.18 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27502,7 +27524,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 170.18 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27601,7 +27623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 223.52 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27612,7 +27634,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls161a.pdf?ts=1779368515711"
 			(at 223.52 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27623,7 +27645,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 223.52 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27904,7 +27926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 71.12 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -27915,7 +27937,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 71.12 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -27926,7 +27948,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 71.12 355.6 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28019,7 +28041,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 101.6 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28030,7 +28052,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 101.6 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28041,7 +28063,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 101.6 355.6 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28133,7 +28155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 86.36 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28157,6 +28179,17 @@
 		)
 		(property "Description" ""
 			(at 86.36 355.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 86.36 355.6 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28211,7 +28244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 71.12 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -28289,7 +28322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 101.6 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -28446,7 +28479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 101.6 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -28470,6 +28503,17 @@
 		)
 		(property "Description" ""
 			(at 101.6 365.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 101.6 365.76 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28526,7 +28570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 205.74 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -28537,7 +28581,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls161a.pdf?ts=1779368515711"
 			(at 205.74 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -28548,7 +28592,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 205.74 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28647,7 +28691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 149.86 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -28658,7 +28702,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls08.pdf?ts=1779367913652&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LS08%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-int-null-44700045336317929_prodfolderdynamic-cpc-pf-google-ww_en_int%2526utm_content%253Dprodfolddynamic%2526ds_k%253DDYNAMIC+SEARCH+ADS%2526DCM%253Dyes%2526gclsrc%253Daw.ds%2526gad_source%253D1%2526gad_campaignid%253D12514844049%2526gclid%253DCjwKCAjw2rrQBhBuEiwAarLWHWx_QNQbALFt2IgWJV-S5n-LY28ZOQM9yUHhG5f6aODST_t2Ov5OGxoCKG4QAvD_BwE"
 			(at 149.86 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -28669,7 +28713,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT AND GATE"
 			(at 149.86 332.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28852,7 +28896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 182.88 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -29334,7 +29378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 248.92 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -29446,6 +29490,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 248.92 350.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85c493b3-f44b-4283-a9b8-18d3fab2d642")
 		)
@@ -29494,7 +29549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 248.92 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -29878,7 +29933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -30034,7 +30089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -30829,7 +30884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -30985,7 +31040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -31627,7 +31682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -31783,7 +31838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 358.14 0)
 			(hide yes)
 			(show_name no)
@@ -31939,7 +31994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 304.8 284.48 0)
 			(hide yes)
 			(show_name no)
@@ -31950,7 +32005,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls158.pdf?ts=1779368560224"
 			(at 304.8 284.48 0)
 			(hide yes)
 			(show_name no)
@@ -31961,7 +32016,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-LINE TO 1-LINE DATA SELECTOR/MULTIPLEXER, INVERTING OUTPUTS"
 			(at 304.8 284.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32214,7 +32269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 228.6 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32293,7 +32348,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 231.14 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32373,7 +32428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 226.06 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32453,7 +32508,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 223.52 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32533,7 +32588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 220.98 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32613,7 +32668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 218.44 187.96 0)
 			(hide yes)
 			(show_name no)

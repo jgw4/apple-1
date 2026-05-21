@@ -7,6 +7,16 @@ On the KiCad end, ultimately I want to create a self-contained KiCad project tha
 
 As side projects, I would like to fill the repository with manuals, programs, and case build guides among other things I see relevant
 
+## Progress
+
+### 3D Progress
+
+![3D Progress](./doc/progress3d.png)
+
+## Contributing
+
+If you'd like to contribute, I'm always happy to accept work on the kicad files, additional documents, programs, what have you. Footprint creation, pin mapping, and board placement are the biggest open items right now, so if you are good with kicad and are as passionate about preserving the integrity of the Apple-1 board as I am, please reach out!
+
 ## Future Goals
 In the future, once the above goals are met and I'm satisfied with them, I may consider working on an altered version of the main board that, while maintaining the same number and nature of the components, makes adequate substitutes such that another curious hobbyist would be able to buy as many components as possible off-the-shelf without having to hunt for "unicorn" parts. I'd like the ability to build one to be cheap and available to anyone who wants to do it, without having to sacrifice much at all in the way of board or schematic integrity. I would also like to provide a BOM that includes all required sockets needed for all the DIP chips in the system
 
@@ -21,7 +31,7 @@ This repository contains only a fraction of original work. mostly, it is an amal
 
 # Contents
 ## Gerber Files
-`\gerbers\` Contains the gerber files as designed by GitHub user @kalinchuk [here](https://github.com/kalinchuk/apple_1/tree/main/Gerbers). Note: I have not generated or regenerated yet the gerber files based on the KiCad PCB. I want to ensure first that i can achieve parity between the base files and the KiCad export. As described below, these gerbers are the basis for the `.kicad_pcb` files in this project.
+`[mainboard/serialboard/aci/transformers]\gerbers\` Contains the gerber files as designed by GitHub user @kalinchuk [here](https://github.com/kalinchuk/apple_1/tree/main/Gerbers). Note: I have not generated or regenerated yet the gerber files based on the KiCad PCB. I want to ensure first that i can achieve parity between the base files and the KiCad export. As described below, these gerbers are the basis for the `.kicad_pcb` files in this project.
 
 ## Schematics & PCB Files
 The schematics are in `*.kicad_sch` format. although it has been migrated from source to KiCad 6+.
@@ -30,11 +40,12 @@ The PCB Files located within are based off importing the Gerber files mentioned 
 
 - `\aci\`: Contains Schematics and PCB files for the Apple Casette Interface.
 - `\mainboard\`: Contains Schematics and PCB files for the Apple-1 main board.
-- `\transformers\`: contains Schematics and PCB files for the transformers board.
+- `\transformers\`: contains Schematics and PCB files for the ??.
+- `\serialboard\`: Currently contains only gerber files for the Serial Board
 
 ## Documents
 
 `\doc\` Contains the following
-- [`\doc\a1man.pdf`](./doc/A1Man.pdf): A very good scan of the original Apple-1 Manual 
-- [`\doc\basicman.pdf](./doc/BasicMan.pdf): A scan of the original apple
+- [`\doc\a1man.pdf`](./doc/a1man.pdf): A very good scan of the original Apple-1 Manual 
+- [`\doc\basicman.pdf](./doc/basicman.pdf): A scan of the original apple
 basic manual

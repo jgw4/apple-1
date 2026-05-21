@@ -10632,7 +10632,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm79.pdf"
 			(at 139.7 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10645,6 +10645,17 @@
 		)
 		(property "Description" ""
 			(at 144.78 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: LM7905"
+			(at 144.78 33.02 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10713,7 +10724,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm79.pdf"
 			(at 139.7 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -10726,6 +10737,17 @@
 		)
 		(property "Description" ""
 			(at 144.78 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: LM7912"
+			(at 144.78 73.66 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10888,6 +10910,17 @@
 		)
 		(property "Description" ""
 			(at 144.78 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: LM7812"
+			(at 144.78 93.98 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11146,6 +11179,17 @@
 				(justify left)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 124.46 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a9af9e6e-9f66-40c9-9abd-68f54f81c96c")
 		)
@@ -11315,6 +11359,17 @@
 				(justify left)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 170.18 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e7617e31-c0ce-413f-9477-f273374b8279")
 		)
@@ -11404,6 +11459,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 170.18 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11497,6 +11563,17 @@
 				(justify left)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 170.18 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d43fb16c-db2f-478a-9d27-9c042ea51c59")
 		)
@@ -11588,6 +11665,17 @@
 				(justify left)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 124.46 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3c15d456-a52c-4a22-86e6-d0def7ac97a2")
 		)
@@ -11677,6 +11765,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 170.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -12157,6 +12256,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 124.46 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13986,7 +14096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 203.2 109.855 0)
 			(hide yes)
 			(show_name no)
@@ -13997,7 +14107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn5450.pdf?ts=1779367727182"
 			(at 203.2 109.855 0)
 			(hide yes)
 			(show_name no)
@@ -14008,7 +14118,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DUAL 2-2-INPUT AND-OR-INVERT GATE"
 			(at 205.74 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14097,7 +14207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 170.18 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14108,7 +14218,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 170.18 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14119,7 +14229,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 170.18 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14367,7 +14477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 223.52 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14378,7 +14488,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7427.shtml"
 			(at 223.52 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14389,7 +14499,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NOR GATE"
 			(at 223.52 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14484,7 +14594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 121.92 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14495,7 +14605,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7410.shtml"
 			(at 121.92 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14506,7 +14616,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 121.92 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14754,7 +14864,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 241.3 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14765,7 +14875,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7432.shtml"
 			(at 241.3 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14776,7 +14886,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT OR GATE"
 			(at 241.3 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14871,7 +14981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 187.96 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14882,7 +14992,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7402.shtml"
 			(at 187.96 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14893,7 +15003,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 187.96 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14988,7 +15098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 259.08 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14999,7 +15109,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74ls08.pdf?ts=1779367913652&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LS08%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-int-null-44700045336317929_prodfolderdynamic-cpc-pf-google-ww_en_int%2526utm_content%253Dprodfolddynamic%2526ds_k%253DDYNAMIC+SEARCH+ADS%2526DCM%253Dyes%2526gclsrc%253Daw.ds%2526gad_source%253D1%2526gad_campaignid%253D12514844049%2526gclid%253DCjwKCAjw2rrQBhBuEiwAarLWHWx_QNQbALFt2IgWJV-S5n-LY28ZOQM9yUHhG5f6aODST_t2Ov5OGxoCKG4QAvD_BwE"
 			(at 259.08 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -15010,7 +15120,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT AND GATE"
 			(at 259.08 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15881,7 +15991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 33.02 125.095 0)
 			(hide yes)
 			(show_name no)
@@ -16016,7 +16126,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 45.72 125.095 0)
 			(hide yes)
 			(show_name no)
@@ -16140,7 +16250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 66.04 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16151,7 +16261,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 66.04 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16162,7 +16272,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 66.04 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16257,7 +16367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 78.74 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16268,7 +16378,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 78.74 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16279,7 +16389,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 78.74 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16374,7 +16484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 91.44 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16385,7 +16495,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 91.44 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16396,7 +16506,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 91.44 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16491,7 +16601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 109.22 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16502,7 +16612,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7410.shtml"
 			(at 109.22 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16513,7 +16623,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 109.22 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16608,7 +16718,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 139.7 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16619,7 +16729,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74123.pdf?ts=1779367555065&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74123"
 			(at 139.7 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16630,7 +16740,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MULTIVIBRATOR"
 			(at 139.7 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16731,7 +16841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 157.48 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16742,7 +16852,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 157.48 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16753,7 +16863,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 157.48 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)

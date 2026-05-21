@@ -23407,7 +23407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 246.38 254 0)
 			(hide yes)
 			(show_name no)
@@ -23431,6 +23431,17 @@
 		)
 		(property "Description" ""
 			(at 246.38 254 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 246.38 254 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23488,7 +23499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 246.38 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -23512,6 +23523,17 @@
 		)
 		(property "Description" ""
 			(at 246.38 238.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 246.38 238.76 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24044,7 +24066,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 91.44 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -24055,7 +24077,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 91.44 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -24066,7 +24088,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 91.44 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24480,7 +24502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 63.5 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -24493,6 +24515,17 @@
 		)
 		(property "Description" ""
 			(at 63.5 274.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ".2X.140 SPACING"
+			(at 63.5 274.32 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24828,7 +24861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 439.42 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -24839,7 +24872,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74123.pdf?ts=1779367555065&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74123"
 			(at 439.42 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -24850,7 +24883,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MULTIVIBRATOR"
 			(at 439.42 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24949,7 +24982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 464.82 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -24960,7 +24993,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 464.82 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -24971,7 +25004,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 464.82 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25065,7 +25098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 464.82 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -25076,7 +25109,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 464.82 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -25087,7 +25120,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 464.82 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25181,7 +25214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 403.86 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -25192,7 +25225,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7410.shtml"
 			(at 403.86 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -25203,7 +25236,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 403.86 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25297,7 +25330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 419.1 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -25553,6 +25586,17 @@
 		)
 		(property "Description" ""
 			(at 335.28 264.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "OEM: Mostek"
+			(at 335.28 264.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26469,7 +26513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 91.44 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -26480,7 +26524,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 91.44 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -26491,7 +26535,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 91.44 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27431,6 +27475,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 266.7 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8dae9b5f-06d1-48fd-b92f-0541b0afa20b")
 		)
@@ -27566,7 +27621,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 406.4 335.915 0)
 			(hide yes)
 			(show_name no)
@@ -27699,7 +27754,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 406.4 323.215 0)
 			(hide yes)
 			(show_name no)
@@ -27832,7 +27887,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 406.4 310.515 0)
 			(hide yes)
 			(show_name no)
@@ -27965,7 +28020,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 406.4 297.815 0)
 			(hide yes)
 			(show_name no)
@@ -28089,7 +28144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -28100,7 +28155,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -28111,7 +28166,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 132.08 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28517,7 +28572,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 132.08 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -28528,7 +28583,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 132.08 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -28539,7 +28594,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 132.08 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28944,7 +28999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 403.86 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -28955,7 +29010,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7410.shtml"
 			(at 403.86 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -28966,7 +29021,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 403.86 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29061,7 +29116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 172.72 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -29072,7 +29127,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 172.72 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -29083,7 +29138,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 172.72 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29489,7 +29544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 172.72 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -29500,7 +29555,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 172.72 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -29511,7 +29566,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 172.72 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29917,7 +29972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 213.36 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -29928,7 +29983,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 213.36 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -29939,7 +29994,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 213.36 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30345,7 +30400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 213.36 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -30356,7 +30411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 213.36 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -30367,7 +30422,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 213.36 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30927,7 +30982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 254 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -30938,7 +30993,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 254 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -30949,7 +31004,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 254 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31355,7 +31410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 254 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -31366,7 +31421,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 254 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -31377,7 +31432,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 254 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31783,7 +31838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 294.64 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -31794,7 +31849,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 294.64 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -31805,7 +31860,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 294.64 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32211,7 +32266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 294.64 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -32222,7 +32277,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 294.64 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -32233,7 +32288,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 294.64 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32639,7 +32694,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 335.28 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32650,7 +32705,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 335.28 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32661,7 +32716,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 335.28 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33067,7 +33122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 335.28 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -33078,7 +33133,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 335.28 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -33089,7 +33144,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 335.28 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33495,7 +33550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 375.92 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -33506,7 +33561,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 375.92 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -33517,7 +33572,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 375.92 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33923,7 +33978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 375.92 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -33934,7 +33989,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/660018/MK4096-11.pdf"
 			(at 375.92 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -33945,7 +34000,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 375.92 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34578,7 +34633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 233.68 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -34589,7 +34644,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 233.68 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -34600,7 +34655,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 233.68 266.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35000,7 +35055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 233.68 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -35011,7 +35066,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 233.68 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -35022,7 +35077,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 233.68 281.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35115,7 +35170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 233.68 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -35126,7 +35181,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 233.68 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -35137,7 +35192,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 233.68 297.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35230,7 +35285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 233.68 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -35241,7 +35296,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 233.68 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -35252,7 +35307,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 233.68 312.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35346,7 +35401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 233.68 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -35357,7 +35412,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 233.68 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -35368,7 +35423,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 233.68 246.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35462,7 +35517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 233.68 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -35473,7 +35528,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7404.shtml"
 			(at 233.68 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -35484,7 +35539,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEX INVERTER"
 			(at 233.68 231.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35577,7 +35632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-24_W15.24mm"
 			(at 454.66 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -35588,7 +35643,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://web.archive.org/web/20150321045049/http://www.ti.com/lit/ds/symlink/sn74154.pdf"
 			(at 454.66 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -35599,7 +35654,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16-LINE DECODER/MULTIPLEXER"
 			(at 454.66 342.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35996,6 +36051,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 419.1 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "493b9582-d8aa-468b-99c5-d2af3b05c31e")
 		)
@@ -36135,7 +36201,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 93.98 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36290,6 +36356,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 208.28 320.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f35544af-ab57-484d-b0cb-e3dfa838788b")
 		)
@@ -36349,7 +36426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 134.62 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36483,7 +36560,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 175.26 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36617,7 +36694,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 215.9 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36751,7 +36828,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 256.54 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36885,7 +36962,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 297.18 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -37019,7 +37096,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 337.82 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -37153,7 +37230,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet4u.com/pdf/513466/DM8097.pdf"
 			(at 378.46 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -37861,7 +37938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 246.38 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -37885,6 +37962,17 @@
 		)
 		(property "Description" ""
 			(at 246.38 304.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 246.38 304.8 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37942,7 +38030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 246.38 289.56 0)
 			(hide yes)
 			(show_name no)
@@ -37966,6 +38054,17 @@
 		)
 		(property "Description" ""
 			(at 246.38 289.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" "ALT: BC2361-ND "
+			(at 246.38 289.56 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38362,6 +38461,17 @@
 		)
 		(property "Description" ""
 			(at 266.7 284.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 266.7 284.48 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38768,6 +38878,17 @@
 				)
 			)
 		)
+		(property "Comment" "Alt: 6520"
+			(at 132.08 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "06e6d5bf-824d-4943-ad18-e0570df392c2")
 		)
@@ -38930,7 +39051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 254 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -38941,7 +39062,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 254 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -38952,7 +39073,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 254 213.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39198,7 +39319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 431.8 363.22 0)
 			(hide yes)
 			(show_name no)
@@ -39209,7 +39330,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 431.8 363.22 0)
 			(hide yes)
 			(show_name no)
@@ -39220,7 +39341,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 431.8 363.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39665,7 +39786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 177.8 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -39676,7 +39797,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 177.8 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -39687,7 +39808,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 177.8 302.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39780,7 +39901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 182.88 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -39791,7 +39912,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74123.pdf?ts=1779367555065&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74123"
 			(at 182.88 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -39802,7 +39923,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MULTIVIBRATOR"
 			(at 182.88 317.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39902,7 +40023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 302.26 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -39982,7 +40103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 208.28 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -40374,7 +40495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 403.86 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -40385,7 +40506,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.futurlec.com/74/IC7400.shtml"
 			(at 403.86 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -40396,7 +40517,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 403.86 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40490,7 +40611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 287.02 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -40570,7 +40691,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 279.4 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -40650,7 +40771,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 309.88 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -40762,6 +40883,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 27.94 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f450e1f9-464e-4ba5-a035-16222eec815e")
 		)
@@ -40834,6 +40966,17 @@
 		)
 		(property "Description" ""
 			(at 35.56 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 35.56 99.06 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40922,6 +41065,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 43.18 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cc79b2a6-9761-41e5-8115-feaac9ff09fc")
 		)
@@ -40994,6 +41148,17 @@
 		)
 		(property "Description" ""
 			(at 50.8 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 50.8 99.06 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41082,6 +41247,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 27.94 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6f6daae3-0f8d-4450-ac06-4a305e58a5a0")
 		)
@@ -41154,6 +41330,17 @@
 		)
 		(property "Description" ""
 			(at 35.56 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 35.56 116.84 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41242,6 +41429,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 43.18 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "14c02645-c95b-40e7-8973-9cf02e32cd4b")
 		)
@@ -41322,6 +41520,17 @@
 				)
 			)
 		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 50.8 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e41e3ec3-00a3-4fc4-bd5a-8d9894b8ed71")
 		)
@@ -41394,6 +41603,17 @@
 		)
 		(property "Description" ""
 			(at 27.94 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ".3 LEAD SPACING"
+			(at 27.94 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41831,7 +42051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 459.74 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -41842,7 +42062,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mark-ogden.uk/files/intel/publications/Extracted%20Pages/3601_3622.pdf"
 			(at 459.74 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -41853,7 +42073,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PROM 256X4"
 			(at 459.74 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41952,7 +42172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 502.92 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -41963,7 +42183,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mark-ogden.uk/files/intel/publications/Extracted%20Pages/3601_3622.pdf"
 			(at 502.92 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -41974,7 +42194,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PROM 256X4"
 			(at 502.92 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
