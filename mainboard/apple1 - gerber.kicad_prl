@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 21,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -34,6 +34,7 @@
       "footprint_text",
       "footprint_anchors",
       "ratsnest",
+      "grid",
       "footprints_front",
       "footprints_back",
       "footprint_values",
@@ -52,7 +53,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_aaaaaaaa_aaaaaaab",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -62,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "apple1.kicad_prl",
+    "filename": "apple1 - gerber.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -100,7 +101,7 @@
       194,
       139,
       194,
-      639
+      194
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

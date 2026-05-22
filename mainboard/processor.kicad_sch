@@ -23418,7 +23418,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 246.38 254 0)
 			(hide yes)
 			(show_name no)
@@ -23510,7 +23510,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 246.38 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -23589,7 +23589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -23667,7 +23667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -23736,7 +23736,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 247.396 265.176 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23747,7 +23747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 246.38 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -23817,7 +23817,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 247.65 229.616 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23828,7 +23828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 246.38 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -23908,7 +23908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 494.03 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -24481,7 +24481,7 @@
 				)
 			)
 		)
-		(property "Value" "EdgeConnector"
+		(property "Value" "EDAC 305-044-520-201"
 			(at 64.77 245.7196 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24491,7 +24491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "mainboard:307044520201"
 			(at 63.5 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -24502,7 +24502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/290/20/EDAC_305_315_355_Series_Card_Edge_Connectors_English_Ordering_Guide.pdf"
 			(at 63.5 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -24513,7 +24513,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" ".156X.140 2X22 EDGE CONNECTOR"
 			(at 63.5 274.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24523,7 +24523,7 @@
 				)
 			)
 		)
-		(property "Comment" ".2X.140 SPACING"
+		(property "Comment" ""
 			(at 63.5 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -24708,7 +24708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 118.11 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -24785,7 +24785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 59.69 306.07 0)
 			(hide yes)
 			(show_name no)
@@ -25319,7 +25319,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "27k"
+		(property "Value" "27K"
 			(at 417.83 132.715 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25766,7 +25766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 406.4 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -25964,7 +25964,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 406.4 276.86 0)
 			(hide yes)
 			(show_name no)
@@ -26314,7 +26314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 454.66 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -26939,7 +26939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 454.66 294.64 0)
 			(hide yes)
 			(show_name no)
@@ -27368,7 +27368,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 59.69 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -27443,7 +27443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 266.7 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -27454,7 +27454,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 266.7 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -27610,7 +27610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 406.4 335.915 0)
 			(hide yes)
 			(show_name no)
@@ -27632,7 +27632,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 408.94 347.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27743,7 +27743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 406.4 323.215 0)
 			(hide yes)
 			(show_name no)
@@ -27765,7 +27765,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 408.94 335.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27876,7 +27876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 406.4 310.515 0)
 			(hide yes)
 			(show_name no)
@@ -27898,7 +27898,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 408.94 322.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28009,7 +28009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 406.4 297.815 0)
 			(hide yes)
 			(show_name no)
@@ -28031,7 +28031,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 408.94 309.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30827,7 +30827,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 59.69 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -34481,7 +34481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 59.69 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -34557,7 +34557,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 440.69 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -34749,7 +34749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 69.85 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -35777,7 +35777,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 259.08 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -35860,7 +35860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 259.08 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -36019,7 +36019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 419.1 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -36030,7 +36030,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 419.1 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -36110,7 +36110,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 300.99 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -36190,7 +36190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 93.98 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36212,7 +36212,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 91.44 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36324,7 +36324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 208.28 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -36335,7 +36335,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 208.28 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -36415,7 +36415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 134.62 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36437,7 +36437,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 132.08 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36549,7 +36549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 175.26 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36571,7 +36571,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 172.72 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36683,7 +36683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 215.9 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36705,7 +36705,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 213.36 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36817,7 +36817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 256.54 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36839,7 +36839,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 254 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36951,7 +36951,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 297.18 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -36973,7 +36973,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 294.64 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37085,7 +37085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 337.82 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -37107,7 +37107,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 335.28 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37219,7 +37219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 378.46 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -37241,7 +37241,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 375.92 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37429,7 +37429,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 308.61 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -37510,7 +37510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 477.52 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -37949,7 +37949,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 246.38 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -38041,7 +38041,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 246.38 289.56 0)
 			(hide yes)
 			(show_name no)
@@ -38120,7 +38120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -38198,7 +38198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 256.54 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -38267,7 +38267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 247.396 315.722 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38278,7 +38278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 246.38 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -38348,7 +38348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 247.396 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38359,7 +38359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 246.38 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -38437,7 +38437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 266.7 284.48 0)
 			(hide yes)
 			(show_name no)
@@ -38448,7 +38448,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 266.7 284.48 0)
 			(hide yes)
 			(show_name no)
@@ -38681,7 +38681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 259.08 307.34 0)
 			(hide yes)
 			(show_name no)
@@ -38764,7 +38764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 259.08 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -39435,7 +39435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 167.64 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -40012,7 +40012,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 298.45 231.775 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40092,7 +40092,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 213.995 313.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40336,7 +40336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 157.48 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -40416,7 +40416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 157.48 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -40600,7 +40600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 283.21 231.775 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40680,7 +40680,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 275.59 231.775 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40760,7 +40760,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 306.07 231.775 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40851,7 +40851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 27.94 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -40862,7 +40862,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 27.94 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -40942,7 +40942,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 35.56 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -40953,7 +40953,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 35.56 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41033,7 +41033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 43.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41044,7 +41044,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 43.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41124,7 +41124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 50.8 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41135,7 +41135,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 50.8 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41215,7 +41215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 27.94 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41226,7 +41226,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 27.94 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41306,7 +41306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 35.56 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41317,7 +41317,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 35.56 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41397,7 +41397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 43.18 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41408,7 +41408,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 43.18 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41488,7 +41488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 50.8 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41499,7 +41499,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 50.8 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41579,7 +41579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 27.94 127 0)
 			(hide yes)
 			(show_name no)
@@ -41590,7 +41590,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 27.94 127 0)
 			(hide yes)
 			(show_name no)

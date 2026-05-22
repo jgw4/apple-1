@@ -12608,7 +12608,7 @@
 	)
 	(text "[Nicolas Robin] The net connected to D6-3 exists\non the original schematic but don't exist on the\nactual board, leaving all the pins floating."
 		(exclude_from_sim no)
-		(at 40.64 55.88 0)
+		(at 30.988 36.576 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20599,7 +20599,7 @@
 			)
 		)
 		(property "Description" "TRIPLE 3-INPUT NAND GATE"
-			(at 167.64 134.62 0)
+			(at 167.64 128.778 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21000,7 +21000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 241.3 243.205 0)
 			(hide yes)
 			(show_name no)
@@ -21080,7 +21080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 241.3 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -21160,7 +21160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 241.3 248.285 0)
 			(hide yes)
 			(show_name no)
@@ -21263,7 +21263,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NOR GATE"
-			(at 256.54 243.84 0)
+			(at 256.286 249.936 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21611,7 +21611,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
-			(at 185.42 246.38 0)
+			(at 180.086 256.032 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21726,7 +21726,7 @@
 			)
 		)
 		(property "Description" "HEX INVERTER"
-			(at 48.26 142.24 0)
+			(at 39.878 144.272 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21958,7 +21958,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NOR GATE"
-			(at 50.8 157.48 0)
+			(at 34.036 157.226 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22050,7 +22050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 79.375 177.165 0)
 			(hide yes)
 			(show_name no)
@@ -22153,7 +22153,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 60.96 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -22244,7 +22244,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 50.8 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -22324,7 +22324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 83.82 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -22335,7 +22335,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 83.82 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -22415,7 +22415,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 83.82 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -22426,7 +22426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 83.82 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -23064,7 +23064,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
-			(at 248.92 78.74 0)
+			(at 250.444 66.294 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23179,7 +23179,7 @@
 			)
 		)
 		(property "Description" "HEX INVERTER"
-			(at 271.78 78.74 0)
+			(at 272.034 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23372,7 +23372,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT OR GATE"
-			(at 248.92 111.76 0)
+			(at 248.92 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23487,7 +23487,7 @@
 			)
 		)
 		(property "Description" "HEX D-TYPE FLIP-FLOPS W/ CLEAR"
-			(at 383.54 172.72 0)
+			(at 383.794 146.558 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23608,7 +23608,7 @@
 			)
 		)
 		(property "Description" "TRIPLE 3-INPUT NAND GATE"
-			(at 424.18 165.1 0)
+			(at 416.814 157.988 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23723,7 +23723,7 @@
 			)
 		)
 		(property "Description" "TRIPLE 3-INPUT NAND GATE"
-			(at 424.18 180.34 0)
+			(at 423.672 174.244 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23839,7 +23839,7 @@
 			)
 		)
 		(property "Description" "TRIPLE 3-INPUT NOR GATE"
-			(at 441.96 167.64 0)
+			(at 446.278 158.242 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23954,7 +23954,7 @@
 			)
 		)
 		(property "Description" "TRIPLE 3-INPUT NOR GATE"
-			(at 441.96 182.88 0)
+			(at 435.356 189.484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24070,7 +24070,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT OR GATE"
-			(at 462.28 165.1 0)
+			(at 467.106 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24186,7 +24186,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT OR GATE"
-			(at 492.76 157.48 0)
+			(at 493.522 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24279,7 +24279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Connector_JST:JST_VH_B4P-VH_1x04_P3.96mm_Vertical"
 			(at 111.76 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -24290,7 +24290,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eVH.pdf"
 			(at 111.76 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -24387,7 +24387,7 @@
 			)
 		)
 		(property "Description" "DUAL 2-2-INPUT AND-OR-INVERT GATE"
-			(at 459.74 185.42 0)
+			(at 460.756 196.088 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24496,7 +24496,7 @@
 			)
 		)
 		(property "Description" "DUAL 2-2-INPUT AND-OR-INVERT GATE"
-			(at 477.52 208.28 0)
+			(at 478.028 225.044 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24605,7 +24605,7 @@
 			)
 		)
 		(property "Description" "HEX INVERTER"
-			(at 480.06 185.42 0)
+			(at 487.68 181.864 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24721,7 +24721,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT AND GATE"
-			(at 457.2 205.74 0)
+			(at 444.754 211.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24894,7 +24894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 495.935 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -25193,7 +25193,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 149.098 252.603 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25273,7 +25273,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.5k"
+		(property "Value" "1.5K"
 			(at 149.098 232.283 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25386,7 +25386,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NOR GATE"
-			(at 86.36 121.92 0)
+			(at 85.852 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25502,7 +25502,7 @@
 			)
 		)
 		(property "Description" "TRIPLE 3-INPUT NOR GATE"
-			(at 86.36 132.08 0)
+			(at 86.868 138.684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25618,7 +25618,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
-			(at 124.46 142.24 0)
+			(at 121.158 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25734,7 +25734,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
-			(at 147.32 142.24 0)
+			(at 151.638 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25849,7 +25849,7 @@
 			)
 		)
 		(property "Description" "HEX INVERTER"
-			(at 119.38 114.3 0)
+			(at 119.38 119.888 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25965,7 +25965,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT OR GATE"
-			(at 147.32 127 0)
+			(at 153.924 120.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26081,7 +26081,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT AND GATE"
-			(at 251.46 312.42 0)
+			(at 257.81 305.308 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26196,7 +26196,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT NOR GATE"
-			(at 266.7 314.96 0)
+			(at 272.034 321.564 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26312,7 +26312,7 @@
 			)
 		)
 		(property "Description" "QUAD D-EDGE-TRIGGERED FLIP-FLOP, SHARED CLOCK AND ASYNCHRONOUS CLEAR, Q&/Q OUTPUTS"
-			(at 167.64 292.1 0)
+			(at 168.91 309.118 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26641,7 +26641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-24_18.0mmx34.29mm_W15.24mm"
 			(at 203.2 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -26797,7 +26797,7 @@
 			)
 		)
 		(property "Description" "PARALLEL-LOAD 8-BIT SHIFT REGISTER"
-			(at 160.02 172.72 0)
+			(at 160.528 197.358 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26896,7 +26896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 248.92 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -27162,7 +27162,7 @@
 			)
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
-			(at 119.38 170.18 0)
+			(at 120.142 187.452 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27283,7 +27283,7 @@
 			)
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT DECADE COUNTER, ASYNCHRONOUS CLEAR"
-			(at 63.5 83.82 0)
+			(at 62.23 55.118 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27404,7 +27404,7 @@
 			)
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
-			(at 116.84 83.82 0)
+			(at 117.094 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27525,7 +27525,7 @@
 			)
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
-			(at 170.18 83.82 0)
+			(at 169.0753 53.834 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27646,7 +27646,7 @@
 			)
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
-			(at 223.52 83.82 0)
+			(at 223.266 51.054 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27744,7 +27744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 304.8 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -27835,7 +27835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 304.8 127 0)
 			(hide yes)
 			(show_name no)
@@ -27949,7 +27949,7 @@
 			)
 		)
 		(property "Description" "HEX INVERTER"
-			(at 71.12 355.6 0)
+			(at 70.612 361.188 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28064,7 +28064,7 @@
 			)
 		)
 		(property "Description" "HEX INVERTER"
-			(at 101.6 355.6 0)
+			(at 104.648 360.934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28166,7 +28166,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 86.36 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28401,7 +28401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 72.39 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -28490,7 +28490,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 101.6 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -28593,7 +28593,7 @@
 			)
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
-			(at 205.74 241.3 0)
+			(at 206.502 221.234 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28714,7 +28714,7 @@
 			)
 		)
 		(property "Description" "QUAD 2-INPUT AND GATE"
-			(at 149.86 332.74 0)
+			(at 140.716 338.836 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28806,7 +28806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 167.64 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -28817,7 +28817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 167.64 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -28886,7 +28886,7 @@
 				)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 180.34 340.995 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29127,7 +29127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 231.14 335.28 0)
 			(hide yes)
 			(show_name no)
@@ -29367,7 +29367,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 250.4186 341.503 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29458,7 +29458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 248.92 350.52 0)
 			(hide yes)
 			(show_name no)
@@ -29469,7 +29469,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 248.92 350.52 0)
 			(hide yes)
 			(show_name no)
@@ -29538,7 +29538,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 250.4186 331.343 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29922,7 +29922,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 318.9986 105.283 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30078,7 +30078,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 318.9986 133.223 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30397,7 +30397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 304.8 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -30488,7 +30488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 304.8 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -30873,7 +30873,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 318.9986 217.043 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31029,7 +31029,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 318.9986 244.983 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31195,7 +31195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 304.8 325.12 0)
 			(hide yes)
 			(show_name no)
@@ -31286,7 +31286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 304.8 353.06 0)
 			(hide yes)
 			(show_name no)
@@ -31671,7 +31671,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 318.9986 331.343 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31827,7 +31827,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k"
+		(property "Value" "3K"
 			(at 318.9986 359.283 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32257,7 +32257,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5k"
+		(property "Value" "7.5K"
 			(at 230.0986 189.103 0)
 			(hide yes)
 			(show_name no)
@@ -32337,7 +32337,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5k"
+		(property "Value" "7.5K"
 			(at 232.41 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32416,7 +32416,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5k"
+		(property "Value" "7.5K"
 			(at 227.5586 189.103 0)
 			(hide yes)
 			(show_name no)
@@ -32496,7 +32496,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5k"
+		(property "Value" "7.5K"
 			(at 225.0186 189.103 0)
 			(hide yes)
 			(show_name no)
@@ -32576,7 +32576,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5k"
+		(property "Value" "7.5K"
 			(at 222.4786 189.103 0)
 			(hide yes)
 			(show_name no)
@@ -32656,7 +32656,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5k"
+		(property "Value" "7.5K"
 			(at 219.9386 189.103 0)
 			(hide yes)
 			(show_name no)
@@ -33590,7 +33590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 134.62 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -33749,7 +33749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" ""
 			(at 137.16 251.46 0)
 			(hide yes)
 			(show_name no)
