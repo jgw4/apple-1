@@ -5,3 +5,6 @@ fp-info-cache
 *.kicad_pcb-bak
 *.net
 apple1-backups
+thumbs.db
+*.lck
+*.rpt

@@ -1,6 +1,8 @@
 ![the Apple Company logo, 1979](https://www.designhill.com/design-blog/wp-content/uploads/2014/03/1976-Apple-Logo.png)
 # About
-This repository is meant to be a hub for technical documentation relating to building and preserving the Apple-1 Computer. There are a lot of passionate hobbyists out there trying to preserve the original computer as it was originally designed, and that is what interests me. While stripped down or altered replicas are cool, what interests me the most is the original thing, unaltered in its original state with the original schematics and components. 
+This project is mainly to rebuild the Apple-1 Computer as a complete KiCad project from Schematic to 3D Board. There currently exists a set of schematics, and gerber files for the boards, but this project is attempting to marry the two together, such that there is an interactive and feature complete PCB file with proper footprints linked to the schematic.
+
+There are a lot of passionate hobbyists out there trying to preserve the original computer as it was originally designed, and that is what interests me. While stripped down or altered replicas are cool, what interests me the most is the original thing, unaltered in its original state with the original schematics and components. 
 
 ## Contributing
 
