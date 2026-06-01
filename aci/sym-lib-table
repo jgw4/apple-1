@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name aci)(type Legacy)(uri ${KIPRJMOD}/aci.lib)(options "")(descr ""))
+	(version 7)
+	(lib (name "aci") (type "Legacy") (uri "${KIPRJMOD}/aci.lib") (options "") (descr ""))
+	(lib (name "aci-cache") (type "Legacy") (uri "X:/apple-1/aci/aci-cache.lib") (options "") (descr "Legacy project cache library"))
 )

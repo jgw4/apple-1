@@ -4,7 +4,7 @@ fp-info-cache
 *.bck
 *.kicad_pcb-bak
 *.net
-apple1-backups
+*.zip
 thumbs.db
 *.lck
 *.rpt

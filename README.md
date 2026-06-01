@@ -1,88 +1,58 @@
-![the Apple Company logo, 1979](https://www.designhill.com/design-blog/wp-content/uploads/2014/03/1976-Apple-Logo.png)
 # About
-This project is mainly to rebuild the Apple-1 Computer as a complete KiCad project from Schematic to 3D Board. There currently exists a set of schematics, and gerber files for the boards, but this project is attempting to marry the two together, such that there is an interactive and feature complete PCB file with proper footprints linked to the schematic.
+This repository is a central collection and improvements to various Apple-1 clone projects I've found around the internet. I have a particular fascination for the original Apple-1 and Datanetics Keyboard, so primarily I have compiled gerber files, kicad projects, instructions, and BOMs for how to build your own Apple-1 Clone as accurately as possible.
 
-There are a lot of passionate hobbyists out there trying to preserve the original computer as it was originally designed, and that is what interests me. While stripped down or altered replicas are cool, what interests me the most is the original thing, unaltered in its original state with the original schematics and components. 
+## Goals and Contributing
 
-## Contributing
-
-If you'd like to contribute, I'm always happy to accept work on the kicad files, additional documents, programs, what have you. Footprint creation, pin mapping, and board placement are the biggest open items right now, so if you are good with KiCad and are as passionate about preserving the integrity of the Apple-1 board as I am, please reach out!
-
-To Do:
-- Complete audit of the `.kicad_sch` files in the project, check for completeness and errors, as well as parity of symbol references to the original manual
-- assign footprints to all components within the schematic
+If you'd like to contribute, I'm always happy to accept work on anything that makes these files more accurate and complete.
+### Schematics
+- Schematic files need creating for the original Datanetics keyboard and Serial Board
+- footprints need assigned to all components within all schematic files. this in most cases require the creating of custom footprints to ensure reproduction accuracy
+### KiCad PCB Files
+#### General
+the PCB files should match as closely to the originals as possible.
+All PCB files should be considered in WIP at current.
+Ultimately:
 - assign accurate pin mappings to all component footprints
 - place footprints in their exact spot on the PCB.
 - remove any duplicate layer geometry from laying the footprint over the gerber imported layers.
 - re-attach all traces/nets to the footprints
 - ultimately, passing a 0 error/0 warning DRC check
 
-## Current Goals
-On the KiCad end, ultimately I want to create a self-contained KiCad project that houses a full set of schematics files that are at 1:1 parity with the manual (minus the mistakes in the original), which are then linked to footprints, which I can then be mapped perfectly on to a 1:1 replica mainboard and generate a part-complete 3D Step file, accurate gerber files, and an accurate BOM for production. This is going to require the creation of custom footprints, pin mappings, and step files, as well as close scrutiny at all steps. I would also like to create a clean, complete component bom list that KiCad complete, ergo also associated to the schematic labels, with acceptable substitute parts.
+The PCB Files for all boards (with the exception of the Datanetics modern PCB) were made by importing gerber files first into KiCad, and mapping the schematics to it by applying footprints to the symbols, placing over the gerber geometry, and 
+#### Mainboard
+To properly view the pcb file's text elements, please download and install "Routed Gothic" font located in `/doc/`. This is the closest match I have found to the original PCB lettering in font form and is based on the Leroy stenciling system common with draftsman before computer fonts.
 
-### PCB
-Regarding the PCB, I want to create project-specific footprint files that match the original 1:1. to properly view the pcb file's text elements, please download and install "Routed Gothic" font located in `/doc/`. This is the closest match I have found to the original PCB lettering in font form
-
-The gerber files I believe were obtained from this forum post on applefritter, which mentions that they came from a facebook group
-https://www.applefritter.com/content/apple-1-replica-gerber-files
-
-A forum poster had remarked on the following differences from the original board:
+The gerber files were noted to have differences from the original in the forum posts, namely:
 - The original has a matte finish, this one has a sligtly brighter green.
-
 - The silkscreen doesn't cover the plated areas without soldermask.
-
 - The DIP and breadboard solder pads should be wider although it only really matters in the breadboard area.
-
 - The video adjustment pot pads are  narrower by 0.025", making it difficult to insert the trimpot.
-
-- There is a fab part number (in very small letters) on zone C12-C13.
-
-As side projects, I would like to fill the repository with manuals, programs, and case build guides among other things I see relevant.
+#### Datanetics Keyboard (Modern)
+The PCB file requires the installation of the plug-in library for Cherry MX keyswitches
+### Gerber Files
+Gerbers based on the PCB files have not yet been generated. only the original imported gerbers are located in the project
 
 ## Future Goals
 In the future, once the above goals are met and I'm satisfied with them, I may consider working on an altered version of the main board that, while maintaining the same number and nature of the components, makes adequate substitutes such that another curious hobbyist would be able to buy as many components as possible off-the-shelf without having to hunt for "unicorn" parts. I'd like the ability to build one to be cheap and available to anyone who wants to do it, without having to sacrifice much at all in the way of board or schematic integrity. I would also like to provide a BOM that includes all required sockets needed for all the DIP chips in the system
 
-## Progress
+## Contents & Progress
 
-### Schematic Progress
-
-mainboard - TBD. Need to validate every connection. about half of the footprints need to be assigned
-aci - TBD. Need to validate every connection
-serialboard - TBD. Need to validate every connection
-transformers - TBD. Need to validate every connection
-### 3D Progress
-
-#### Main Board
-
-About half of the symbols have footprints assigned. none have yet been pin mapped or placed on to the PCB vias
-![3D Progress](./doc/progress3d.png)
+| Component                     | Author                |Schematic  | PCB File  |Gerbers    |3D Model| BOM File |
+|-|-|-|-|-|-|-|
+| mainboard                     | Schematics:[@nicolas-robin](https://github.com/nicolas-robin/a1_schematics) Gerber Files:[Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files)   |Y|WIP|Y (unlinked to pcb)|N|Y|
+| aci                           |[Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files)|N|WIP |N|Y (unlinked to pcb)|N|
+| serialboard                   |[Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files)|N|WIP |Y (unlinked to pcb)|N|N|
+| transformers                  |[Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files)|N|WIP |Y (unlinked to pcb)|N|N|
+| Datanetics Keyboard (Modern)  |[@schlae](https://github.com/schlae/replica-datanetics)|Y|Y| Y (linked)| N|Y|
+| Datanetics Keyboard (Original)|[willegal](https://www.willegal.net/appleii/apple1-datanetics.htm)  |Needed | WIP|Y (unlinked to pcb)|N|N|
 
 ## Acknowledgements
 
-This repository contains only a fraction of original work. mostly, it is an amalgamation of a few different projects related to documenting and reproducing the Apple-1 Computer, with my work being mainly relegated to tying the gerber files and schematics together into a cohesive whole KiCad project.
-* The gerber files are directly forked from [@kalinchuk](https://github.com/kalinchuk). The files can be found [here](https://github.com/kalinchuk/apple_1/tree/main/Gerbers) and I take no credit.
-* The Kicad schematic files were drawn by [@nicolas-robin](https://github.com/nicolas-robin) and are in large part unchanged. the source repo can be found [here](https://github.com/nicolas-robin/a1_schematics)
+This repository contains only a fraction of original work. mostly, it is an amalgamation of a few different projects related to documenting and reproducing the Apple-1 Computer, with my work being mainly relegated to tying the gerber files and schematics together into a cohesive whole KiCad project. The attributions for the various portions of the project files are in the table above
+* I am not sure the original source of the Mainboard PCB gerber files. the Applefritter forum post remarks that they were posted on an Apple-1 enthusiasts facebook group, but I do not have facebook nor would i know how to track down the original post. If anyone can give proper attribution to the files please reach out.
 * The manual files I originally obtained from the Briel Computers website probably 15+ years ago and have kept on my system since. They are probably the best scans I've seen on the internet: watermark free, clean white pages, and clean, readable text without an overreliance on the contrast and brightness dials.
 
 
 
 # Contents
-## Gerber Files
-`[mainboard/serialboard/aci/transformers]\gerbers\` Contains the gerber files as designed by GitHub user @kalinchuk [here](https://github.com/kalinchuk/apple_1/tree/main/Gerbers). Note: I have not generated or regenerated yet the gerber files based on the KiCad PCB. I want to ensure first that i can achieve parity between the base files and the KiCad export. As described below, these gerbers are the basis for the `.kicad_pcb` files in this project.
 
-## Schematics & PCB Files
-The schematics are in `*.kicad_sch` format. although it has been migrated from source to KiCad 6+.
-
-The PCB Files located within are based off importing the Gerber files mentioned above into KiCad PCB, and mapping the schematics provided by nicholas-robin to it by specifying footprints and mapping them to the appropriate traces.
-
-- `\aci\`: Contains Schematics and PCB files for the Apple Casette Interface.
-- `\mainboard\`: Contains Schematics and PCB files for the Apple-1 main board.
-- `\transformers\`: contains Schematics and PCB files for the ??.
-- `\serialboard\`: Currently contains only gerber files for the Serial Board
-
-## Documents
-
-`\doc\` Contains the following
-- [`\doc\a1man.pdf`](./doc/a1man.pdf): A very good scan of the original Apple-1 Manual 
-- [`\doc\basicman.pdf](./doc/basicman.pdf): A scan of the original apple
-basic manual
