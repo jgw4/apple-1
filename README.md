@@ -30,7 +30,7 @@ The gerber files were noted to have differences from the original in the forum p
 #### Datanetics Keyboard (Modern)
 The PCB file requires the installation of the plug-in library for Cherry MX keyswitches
 ### Gerber Files
-Gerbers based on the PCB files have not yet been generated. only the original imported gerbers are located in the project
+Gerbers based on the PCB files have not yet been generated. only the original imported gerbers are located in the project.
 
 ## Future Goals
 In the future, once the above goals are met and I'm satisfied with them, I may consider working on an altered version of the main board that, while maintaining the same number and nature of the components, makes adequate substitutes such that another curious hobbyist would be able to buy as many components as possible off-the-shelf without having to hunt for "unicorn" parts. I'd like the ability to build one to be cheap and available to anyone who wants to do it, without having to sacrifice much at all in the way of board or schematic integrity. I would also like to provide a BOM that includes all required sockets needed for all the DIP chips in the system
@@ -50,9 +50,4 @@ In the future, once the above goals are met and I'm satisfied with them, I may c
 
 This repository contains only a fraction of original work. mostly, it is an amalgamation of a few different projects related to documenting and reproducing the Apple-1 Computer, with my work being mainly relegated to tying the gerber files and schematics together into a cohesive whole KiCad project. The attributions for the various portions of the project files are in the table above
 * I am not sure the original source of the Mainboard PCB gerber files. the Applefritter forum post remarks that they were posted on an Apple-1 enthusiasts facebook group, but I do not have facebook nor would i know how to track down the original post. If anyone can give proper attribution to the files please reach out.
-* The manual files I originally obtained from the Briel Computers website probably 15+ years ago and have kept on my system since. They are probably the best scans I've seen on the internet: watermark free, clean white pages, and clean, readable text without an overreliance on the contrast and brightness dials.
-
-
-
-# Contents
 
