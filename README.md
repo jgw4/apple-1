@@ -20,6 +20,23 @@ To Do:
 ## Current Goals
 On the KiCad end, ultimately I want to create a self-contained KiCad project that houses a full set of schematics files that are at 1:1 parity with the manual (minus the mistakes in the original), which are then linked to footprints, which I can then be mapped perfectly on to a 1:1 replica mainboard and generate a part-complete 3D Step file, accurate gerber files, and an accurate BOM for production. This is going to require the creation of custom footprints, pin mappings, and step files, as well as close scrutiny at all steps. I would also like to create a clean, complete component bom list that KiCad complete, ergo also associated to the schematic labels, with acceptable substitute parts.
 
+### PCB
+Regarding the PCB, I want to create project-specific footprint files that match the original 1:1. to properly view the pcb file's text elements, please download and install "Routed Gothic" font located in `/doc/`. This is the closest match I have found to the original PCB lettering in font form
+
+The gerber files I believe were obtained from this forum post on applefritter, which mentions that they came from a facebook group
+https://www.applefritter.com/content/apple-1-replica-gerber-files
+
+A forum poster had remarked on the following differences from the original board:
+- The original has a matte finish, this one has a sligtly brighter green.
+
+- The silkscreen doesn't cover the plated areas without soldermask.
+
+- The DIP and breadboard solder pads should be wider although it only really matters in the breadboard area.
+
+- The video adjustment pot pads are  narrower by 0.025", making it difficult to insert the trimpot.
+
+- There is a fab part number (in very small letters) on zone C12-C13.
+
 As side projects, I would like to fill the repository with manuals, programs, and case build guides among other things I see relevant.
 
 ## Future Goals

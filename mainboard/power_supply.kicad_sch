@@ -14096,7 +14096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 203.2 109.855 0)
 			(hide yes)
 			(show_name no)
@@ -14207,7 +14207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 170.18 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14477,7 +14477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 223.52 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14594,7 +14594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 121.92 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14864,7 +14864,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 241.3 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -14981,7 +14981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 187.96 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -15098,7 +15098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 259.08 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -15980,7 +15980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 33.02 125.095 0)
 			(hide yes)
 			(show_name no)
@@ -16115,7 +16115,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 45.72 125.095 0)
 			(hide yes)
 			(show_name no)
@@ -16250,7 +16250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 66.04 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16367,7 +16367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 78.74 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16484,7 +16484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 91.44 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16601,7 +16601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 109.22 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16718,7 +16718,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 139.7 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16841,7 +16841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 157.48 137.16 0)
 			(hide yes)
 			(show_name no)

@@ -20576,7 +20576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 167.64 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -21240,7 +21240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 256.54 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -21588,7 +21588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 185.42 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -21703,7 +21703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 48.26 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -21819,7 +21819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 60.96 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21935,7 +21935,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 50.8 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -22050,7 +22050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 79.375 177.165 0)
 			(hide yes)
 			(show_name no)
@@ -23041,7 +23041,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 248.92 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -23156,7 +23156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 271.78 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -23349,7 +23349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 248.92 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -23464,7 +23464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 383.54 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -23585,7 +23585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 424.18 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -23700,7 +23700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 424.18 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -23816,7 +23816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 441.96 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -23931,7 +23931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 441.96 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -24047,7 +24047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 462.28 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -24163,7 +24163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 492.76 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -24279,7 +24279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_VH_B4P-VH_1x04_P3.96mm_Vertical"
+		(property "Footprint" "mainboard:apple-1_JST_VH_B4P-VH_1x04_P3.96mm_Vertical"
 			(at 111.76 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -24364,7 +24364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 457.2 158.115 0)
 			(hide yes)
 			(show_name no)
@@ -24473,7 +24473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 480.06 235.585 0)
 			(hide yes)
 			(show_name no)
@@ -24582,7 +24582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 480.06 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -24698,7 +24698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 457.2 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -24814,7 +24814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 502.92 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -25204,7 +25204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 145.542 251.46 90)
 			(hide yes)
 			(show_name no)
@@ -25284,7 +25284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 145.542 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -25363,7 +25363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 86.36 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -25479,7 +25479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 86.36 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -25595,7 +25595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 124.46 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -25711,7 +25711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 147.32 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -25826,7 +25826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 119.38 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -25942,7 +25942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 147.32 127 0)
 			(hide yes)
 			(show_name no)
@@ -26058,7 +26058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 251.46 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -26173,7 +26173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 266.7 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -26289,7 +26289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 167.64 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -26774,7 +26774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 160.02 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -26896,7 +26896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 248.92 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -27018,7 +27018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 304.8 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -27139,7 +27139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 119.38 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -27260,7 +27260,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 63.5 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27381,7 +27381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 116.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27502,7 +27502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 170.18 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27623,7 +27623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 223.52 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27744,7 +27744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 304.8 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -27835,7 +27835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 304.8 127 0)
 			(hide yes)
 			(show_name no)
@@ -27926,7 +27926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 71.12 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28041,7 +28041,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 101.6 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28244,7 +28244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 71.12 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -28322,7 +28322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 101.6 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -28570,7 +28570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 205.74 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -28691,7 +28691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-14_W7.62mm"
 			(at 149.86 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -28806,7 +28806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 167.64 332.74 0)
 			(hide yes)
 			(show_name no)
@@ -28896,7 +28896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 182.88 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -29127,7 +29127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 231.14 335.28 0)
 			(hide yes)
 			(show_name no)
@@ -29378,7 +29378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 248.92 340.36 0)
 			(hide yes)
 			(show_name no)
@@ -29549,7 +29549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 248.92 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -29933,7 +29933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -30089,7 +30089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -30397,7 +30397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 304.8 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -30488,7 +30488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 304.8 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -30884,7 +30884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -31040,7 +31040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -31195,7 +31195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 304.8 325.12 0)
 			(hide yes)
 			(show_name no)
@@ -31286,7 +31286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-8_W7.62mm"
 			(at 304.8 353.06 0)
 			(hide yes)
 			(show_name no)
@@ -31682,7 +31682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -31838,7 +31838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 317.5 358.14 0)
 			(hide yes)
 			(show_name no)
@@ -31994,7 +31994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "mainboard:apple-1_DIP-16_W7.62mm"
 			(at 304.8 284.48 0)
 			(hide yes)
 			(show_name no)
@@ -32269,7 +32269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 228.6 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32348,7 +32348,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 231.14 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32428,7 +32428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 226.06 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32508,7 +32508,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 223.52 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32588,7 +32588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 220.98 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -32668,7 +32668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 218.44 187.96 0)
 			(hide yes)
 			(show_name no)
