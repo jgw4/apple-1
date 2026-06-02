@@ -28401,7 +28401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Resonator-2Pin_W10.0mm_H5.0mm"
 			(at 72.39 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -29117,7 +29117,7 @@
 				)
 			)
 		)
-		(property "Value" "NE555"
+		(property "Value" "555"
 			(at 231.14 335.915 0)
 			(show_name no)
 			(do_not_autoplace no)

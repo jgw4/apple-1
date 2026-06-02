@@ -2367,9 +2367,9 @@
 				)
 			)
 			(arc
-				(start 8.89 0)
-				(mid 7.2715 -2.5936)
-				(end 4.4704 -3.81)
+				(start 4.4704 3.81)
+				(mid 7.2642 2.5851)
+				(end 8.89 0)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -2379,9 +2379,9 @@
 				)
 			)
 			(arc
-				(start 4.4704 3.81)
-				(mid 7.2642 2.5851)
-				(end 8.89 0)
+				(start 8.89 0)
+				(mid 7.2715 -2.5936)
+				(end 4.4704 -3.81)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -2580,9 +2580,9 @@
 				)
 			)
 			(arc
-				(start 8.89 0)
-				(mid 7.2715 -2.5936)
-				(end 4.4704 -3.81)
+				(start 4.4704 3.81)
+				(mid 7.2642 2.5851)
+				(end 8.89 0)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -2592,9 +2592,9 @@
 				)
 			)
 			(arc
-				(start 4.4704 3.81)
-				(mid 7.2642 2.5851)
-				(end 8.89 0)
+				(start 8.89 0)
+				(mid 7.2715 -2.5936)
+				(end 4.4704 -3.81)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -5254,10 +5254,10 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at -7.62 0 0)
+			(pin power_out line
+				(at 7.62 0 180)
 				(length 2.54)
-				(name "IN"
+				(name "OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5272,10 +5272,10 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 7.62 0 180)
+			(pin power_in line
+				(at -7.62 0 0)
 				(length 2.54)
-				(name "OUT"
+				(name "IN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5347,7 +5347,7 @@
 			)
 		)
 		(property "Description" "5-Volt Positive Regulator"
-			(at 0 0 0)
+			(at 0.254 -4.826 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -5398,10 +5398,10 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 0 -7.62 90)
+			(pin power_out line
+				(at 7.62 0 180)
 				(length 2.54)
-				(name "GND"
+				(name "OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5416,10 +5416,10 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 7.62 0 180)
+			(pin power_in line
+				(at 0 -7.62 90)
 				(length 2.54)
-				(name "OUT"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5542,10 +5542,10 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 0 -7.62 90)
+			(pin power_out line
+				(at 7.62 0 180)
 				(length 2.54)
-				(name "GND"
+				(name "OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5560,10 +5560,10 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 7.62 0 180)
+			(pin power_in line
+				(at 0 -7.62 90)
 				(length 2.54)
-				(name "OUT"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)

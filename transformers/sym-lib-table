@@ -1,5 +1,5 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "apple1_transformers") (type "Legacy") (uri "${KIPRJMOD}/apple1_transformers.lib") (options "") (descr ""))
-	(lib (name "apple1_transformers-cache") (type "Legacy") (uri "C:/Users/jgw/Desktop/apple-1/transformers/apple1_transformers-cache.lib") (options "") (descr "Legacy project cache library"))
+	(lib (name "apple1_transformers") (type "KiCad") (uri "${KIPRJMOD}/apple1_transformers.kicad_sym") (options "") (descr ""))
+	(lib (name "apple1_transformers-cache") (type "KiCad") (uri "${KIPRJMOD}/apple1_transformers-cache.kicad_sym") (options "") (descr "Legacy project cache library"))
 )
