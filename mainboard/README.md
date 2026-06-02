@@ -3,7 +3,7 @@
 
 To properly view the pcb file's text elements, please download and install "Routed Gothic" font located in `/doc/`. This is the closest match I have found to the original PCB lettering in font form and is based on the Leroy stenciling system common with draftsman before computer fonts.
 
-The PCB File was made by importing gerber files first into KiCad, and mapping the schematics to it by applying footprints to the symbols, placing over the gerber geometry, and then removing the import gerber geometry
+The PCB File is being made by importing gerber files first into KiCad, and mapping the schematics to it by applying footprints to the symbols, placing over the gerber geometry, and then removing the import gerber geometry
 
 # To Do
 ## Schematics

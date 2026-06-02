@@ -1,7 +1,7 @@
 # Serial Board
 # Prerequisites
 
-The PCB File was made by importing gerber files first into KiCad, and mapping the schematics to it by applying footprints to the symbols, placing over the gerber geometry, and then removing the import gerber geometry
+The PCB File is being made by importing gerber files first into KiCad, and mapping the schematics to it by applying footprints to the symbols, placing over the gerber geometry, and then removing the import gerber geometry
 
 # To Do
 ## Schematics

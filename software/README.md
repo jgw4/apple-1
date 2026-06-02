@@ -10,7 +10,7 @@ This folder contains a repository of software that I have mirrored here on githu
 |-|-|-|
 |[Adventure](./Adventure.wav)|820.30FFR <br /> 280R||
 |[Apple 30th Graphics Demo](./apple30th.wav)|280.FFFR <br /> 280R||
-|[Apple Basic](./basic_dump.aif)|E000,EFFFR <br /> E000R||
+|[Apple Basic](./BASIC.wav)|E000,EFFFR <br /> E000R||
 |[ASMchess](./asmmchess.wav)|300.BFFR <br /> 300R||
 |[Codebreaker](./Codebreaker.wav)|280.BFFRE000.EFFFR <br /> 280R||
 |[Life](./Codebreaker.wav)|2000.21FFR <br /> 2000R||
@@ -18,7 +18,17 @@ This folder contains a repository of software that I have mirrored here on githu
 |[TypingTutor](./TypingTutor.wav)|280.15FFR <br /> 280R||
 
 ## Programs from Archive.org
-
+|Program|Load Area|Remarks|
+|-|-|-|
+|[Acey Ducey](./AceyDucey.wav)|||
+|[Apple I Enhanced Checkers](./AppleiEnhancedCheckers.wav)|||
+|[Blackjack](./Blackjack.wav)|||
+|[Bowling](./Bowling.wav)|||
+|[Buzzword](./Buzzword.wav)|||
+|[Craps](./Craps.wav)|||
+|[Deal Or No Deal](./DealOrNoDeal.wav)|||
+|[Football](./Football.wav)|||
+|[Hamurabi](./Hamurabi.wav)|||
 
 # How to Run Apple-1 Programs
 

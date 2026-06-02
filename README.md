@@ -4,12 +4,12 @@ This repository is a central collection and improvements to various Apple-1 clon
 
 | Component                     | Author                |Schematic  | PCB File  |Gerbers    |3D Model| BOM File |
 |-|-|-|-|-|-|-|
-| [`/mainboard/`](./mainboard/)     | Schematics:[@nicolas-robin](https://github.com/nicolas-robin/a1_schematics) Gerber Files:[Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files)   |Y|WIP|Y (unlinked to pcb)|N|Y|
-| [`/aci/`](./aci/)                  |[Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files)|N|WIP |N|Y (unlinked to pcb)|N|
-| [`/serialboard/`](./serialboard/) |[Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files)|N|WIP |Y (unlinked to pcb)|N|N|
+| [`/mainboard/`](./mainboard/)     | Schematics:[@nicolas-robin](https://github.com/nicolas-robin/a1_schematics) Gerber Files:[Applefritter Forums/Facebook?](https://www.applefritter.com/content/apple-1-replica-gerber-files)   |Y|WIP|Y (unlinked to pcb)|N|Y|
+| [`/aci/`](./aci/)                  |[Applefritter Forums/Facebook?](https://www.applefritter.com/content/apple-1-replica-gerber-files)|N|WIP |N|Y (unlinked to pcb)|N|
+| [`/serialboard/`](./serialboard/) |[Applefritter Forums/Facebook?](https://www.applefritter.com/content/apple-1-replica-gerber-files)|N|WIP |Y (unlinked to pcb)|N|N|
 | [`/transformers/`](./transformers/)                |Schematics:[@nicolas-robin](https://github.com/nicolas-robin/a1_schematics)|N/A|N/A |N|N|N|
 | [`/kb_datanetics_modern/`](./kb_datanetics_modern/)- Datanetics Keyboard - Modern Version  |[@schlae](https://github.com/schlae/replica-datanetics)|Y|Y| Y (linked)| N|Y|
-| [`/kb_datanetics_original](./kb_datanetics_original/) - Datanetics Keyboard (Original)|[willegal](https://www.willegal.net/appleii/apple1-datanetics.htm)  |Needed | WIP|Y (unlinked to pcb)|N|N|
+| [`/kb_datanetics_original`](./kb_datanetics_original/) - Datanetics Keyboard (Original)|[willegal](https://www.willegal.net/appleii/apple1-datanetics.htm)  |Needed | WIP|Y (unlinked to pcb)|N|N|
 
 ## Goals and Contributing
 
