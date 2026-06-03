@@ -511,7 +511,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "apple1.kicad_pro",
+    "filename": "mainboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -690,8 +690,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "apple1.kicad_sch",
-        "name": "apple1",
+        "filename": "mainboard.kicad_sch",
+        "name": "mainboard",
         "uuid": "b38b6155-24ef-4e7a-9d9a-2cb213939c19"
       }
     ],
