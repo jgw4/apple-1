@@ -1,0 +1,141 @@
+(footprint "apple-1_EdgeCon_22P"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 5.5 2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "81d2b6f6-7fff-4da2-9fc6-f30d20a499bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "apple-1_EdgeCon_22P"
+		(at 5.5 3.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2ea226c0-e980-484d-8e38-42c902e15aa0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3071899-9269-437a-9167-a7842b61e351")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f85df549-c728-4463-b055-76ba72fcb22d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 1.143 -5.2705)
+		(end 7.493 -2.7305)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "267b9600-05d8-4675-82a7-619b32760fe6")
+	)
+	(fp_rect
+		(start 0 -90.805)
+		(end 8.255 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "7f389048-0805-44c1-b09a-af0da03cea37")
+	)
+	(fp_rect
+		(start 0 -90.805)
+		(end 8.255 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "6d4b89c5-752e-4fa3-a317-03293b7aeffb")
+	)
+	(fp_line
+		(start 8.255 -90.805)
+		(end 0 -90.805)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9d6ab442-5a74-4101-87af-12778c401297")
+	)
+	(fp_line
+		(start 8.255 0)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c8a41b9d-781f-4f98-8656-2b4e42e08abc")
+	)
+	(fp_line
+		(start 8.255 0)
+		(end 8.255 -90.805)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bc4ac8fb-5864-49ba-b911-a4cc96996950")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5.5 5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "63833764-10bd-4cb9-912f-4449e183d3ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" connect circle
+		(at 1.143 -4.0005)
+		(size 2.794 2.794)
+		(layers "*.Mask" "B.Cu")
+		(thermal_bridge_angle 90)
+		(uuid "d4bf7b30-e2c0-4d9b-be3a-f1661f036a72")
+	)
+	(embedded_fonts no)
+)

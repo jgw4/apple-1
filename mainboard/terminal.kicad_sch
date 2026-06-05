@@ -19847,7 +19847,7 @@
 			(uuid "288407ee-7429-4128-a795-38e4655c86bc")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0269")
 					(unit 1)
@@ -19923,7 +19923,7 @@
 			(uuid "17d3ac46-da40-4d54-90e6-92affd59b930")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0270")
 					(unit 1)
@@ -19999,7 +19999,7 @@
 			(uuid "792809c6-81cc-4a8b-b394-a30638efd9c8")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0271")
 					(unit 1)
@@ -20075,7 +20075,7 @@
 			(uuid "0b43076c-e22d-4fd2-991e-2a87b17df872")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0272")
 					(unit 1)
@@ -20152,7 +20152,7 @@
 			(uuid "64e6f428-7078-4775-b310-f614cae5cf4a")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0273")
 					(unit 1)
@@ -20229,7 +20229,7 @@
 			(uuid "6bb5d35e-7365-465e-aa39-4f590aaa53f1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0274")
 					(unit 1)
@@ -20306,7 +20306,7 @@
 			(uuid "81ebe47f-f3ea-41ab-a947-533019d449c2")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0275")
 					(unit 1)
@@ -20383,7 +20383,7 @@
 			(uuid "0ebbf5cc-20b4-40b2-9e73-02c173dbf813")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0276")
 					(unit 1)
@@ -20460,7 +20460,7 @@
 			(uuid "d274bfce-01fc-4791-b9ed-1e053c1a7e7f")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0277")
 					(unit 1)
@@ -20536,7 +20536,7 @@
 			(uuid "45564148-de3f-442a-b035-2588bcf84658")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0278")
 					(unit 1)
@@ -20651,7 +20651,7 @@
 			(uuid "ee8b944c-6111-434b-bed3-d9c6906b44f3")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "B2")
 					(unit 2)
@@ -20728,7 +20728,7 @@
 			(uuid "9db5e55d-ddc9-4b02-9e6c-e61e5597e56d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0279")
 					(unit 1)
@@ -20805,7 +20805,7 @@
 			(uuid "75eb66b2-1f7b-42b5-a421-96408015a83b")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0280")
 					(unit 1)
@@ -20882,7 +20882,7 @@
 			(uuid "e66fe978-e3c4-4320-98b9-006d6811bb42")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0281")
 					(unit 1)
@@ -20959,7 +20959,7 @@
 			(uuid "3c7e6f15-ec8b-4995-b403-557c330b3888")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0282")
 					(unit 1)
@@ -21039,7 +21039,7 @@
 			(uuid "6358cf57-6375-4477-be20-af3fe1c0125b")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CR1")
 					(unit 1)
@@ -21119,7 +21119,7 @@
 			(uuid "1645a0a6-7387-4251-b585-5af192a878f5")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CR2")
 					(unit 1)
@@ -21199,7 +21199,7 @@
 			(uuid "ea33a29b-c92c-4545-9afd-a0eb6c68fd32")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CR3")
 					(unit 1)
@@ -21315,7 +21315,7 @@
 			(uuid "4eca6807-8b10-4e23-818a-2f2576d552e2")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C10")
 					(unit 4)
@@ -21393,7 +21393,7 @@
 			(uuid "f28209b8-6561-4863-91f9-e45836861378")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0283")
 					(unit 1)
@@ -21471,7 +21471,7 @@
 			(uuid "745e89e1-70d6-46d7-ba86-04419a1b89b5")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0284")
 					(unit 1)
@@ -21548,7 +21548,7 @@
 			(uuid "3ba2f6b5-2de4-4a92-8636-12ec8bc46eff")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0285")
 					(unit 1)
@@ -21663,7 +21663,7 @@
 			(uuid "9a6781a5-3952-409d-8e47-e0252434a2b1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C15")
 					(unit 3)
@@ -21778,7 +21778,7 @@
 			(uuid "622c40d7-a0a2-454c-8c06-e1a543f3083b")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D12")
 					(unit 5)
@@ -21894,7 +21894,7 @@
 			(uuid "d795d89a-63ae-4d5f-b9e8-531c89d77c0c")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C12")
 					(unit 4)
@@ -22010,7 +22010,7 @@
 			(uuid "5779594f-0fc3-47b6-978e-616060e9d54b")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C10")
 					(unit 2)
@@ -22101,7 +22101,7 @@
 			(uuid "dec0d575-7c17-48c6-9b2f-4d26f8a5dd23")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C11A1")
 					(unit 1)
@@ -22142,7 +22142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 60.96 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -22192,7 +22192,7 @@
 			(uuid "13c12fb4-fc64-4507-8d67-8f4d2ae17161")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CAP1")
 					(unit 1)
@@ -22233,7 +22233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 50.8 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -22283,7 +22283,7 @@
 			(uuid "2d3120b0-61d1-4945-ad80-0163c0ec2326")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CAP2")
 					(unit 1)
@@ -22374,7 +22374,7 @@
 			(uuid "001cd92d-ff19-4cde-a199-df1d06706a0a")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CAP5")
 					(unit 1)
@@ -22465,7 +22465,7 @@
 			(uuid "bf2ca0a1-3343-49d8-8d41-57582ed52aab")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CAP6")
 					(unit 1)
@@ -22541,7 +22541,7 @@
 			(uuid "e3a57a4b-4668-4cdf-bc1f-d412e60af0f1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0286")
 					(unit 1)
@@ -22618,7 +22618,7 @@
 			(uuid "7b3e341d-1275-4a3c-8d88-0695ee7ec0ce")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0287")
 					(unit 1)
@@ -22695,7 +22695,7 @@
 			(uuid "f2038f16-1da1-4bba-81d1-6cb42b91930b")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0288")
 					(unit 1)
@@ -22771,7 +22771,7 @@
 			(uuid "639580e6-a9ff-461e-ae11-e559e5e0700a")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0289")
 					(unit 1)
@@ -22847,7 +22847,7 @@
 			(uuid "7c753d39-44e9-46a6-b7f3-529f8938d116")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0298")
 					(unit 1)
@@ -22923,7 +22923,7 @@
 			(uuid "bfd72c2e-fe77-4467-86af-dc4f286a0a69")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0299")
 					(unit 1)
@@ -23000,7 +23000,7 @@
 			(uuid "0ac4176a-939e-4e7b-9753-9d0f2637de91")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0300")
 					(unit 1)
@@ -23116,7 +23116,7 @@
 			(uuid "2546353e-a91b-45ff-a476-2bc5cb0acfb8")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D10")
 					(unit 3)
@@ -23231,7 +23231,7 @@
 			(uuid "e9a9fc98-ceca-4eb8-898e-f36da6c2cea6")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D12")
 					(unit 4)
@@ -23308,7 +23308,7 @@
 			(uuid "d0648782-3d54-4423-a0f7-71d95ed58365")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0290")
 					(unit 1)
@@ -23424,7 +23424,7 @@
 			(uuid "3d67f39b-1656-4233-a22d-817bebc4090e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C9")
 					(unit 3)
@@ -23545,7 +23545,7 @@
 			(uuid "43018efb-ba49-4095-ba95-d6c4e345e3e6")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C7")
 					(unit 1)
@@ -23660,7 +23660,7 @@
 			(uuid "d4e15c5e-159c-46f6-8cec-212340308b21")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C6")
 					(unit 2)
@@ -23775,7 +23775,7 @@
 			(uuid "337c409f-f255-4f94-a448-93c7b4007d75")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C6")
 					(unit 3)
@@ -23891,7 +23891,7 @@
 			(uuid "e7446adb-9c56-483b-bea6-50449b363e46")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C5")
 					(unit 2)
@@ -24006,7 +24006,7 @@
 			(uuid "5c63b7c7-5b7d-4946-8834-dc7a8e7e735e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C5")
 					(unit 3)
@@ -24122,7 +24122,7 @@
 			(uuid "1cb8cc90-2f9c-45a1-bb77-6186323870ab")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C9")
 					(unit 4)
@@ -24238,7 +24238,7 @@
 			(uuid "91e8dd5a-920c-4648-8b61-2f6e809f6d91")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C9")
 					(unit 1)
@@ -24324,7 +24324,7 @@
 			(uuid "a6d061b3-ba08-4cbe-a981-9e4ae840c38f")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "J2")
 					(unit 1)
@@ -24433,7 +24433,7 @@
 			(uuid "d4460c7e-6b64-47b5-9583-68ea5156960e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C8")
 					(unit 2)
@@ -24542,7 +24542,7 @@
 			(uuid "00860d4a-f962-461d-aec6-40bcd4ba796c")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C8")
 					(unit 1)
@@ -24657,7 +24657,7 @@
 			(uuid "b48e00eb-fdf7-45cd-87a1-c686cd68fb34")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D12")
 					(unit 1)
@@ -24773,7 +24773,7 @@
 			(uuid "2cd659d3-cd40-4c54-9d1f-e653441a9b87")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C12")
 					(unit 2)
@@ -24853,7 +24853,7 @@
 			(uuid "c3d0fb57-3b1f-4884-90fd-324550cd970f")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R15")
 					(unit 1)
@@ -24933,7 +24933,7 @@
 			(uuid "42f3ef6d-37f6-4d33-adda-ded2d38c80d2")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CR4")
 					(unit 1)
@@ -25010,7 +25010,7 @@
 			(uuid "705325bf-b41e-49d0-8c7d-353c5f879ca0")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0291")
 					(unit 1)
@@ -25086,7 +25086,7 @@
 			(uuid "e8441e51-2e0c-4b8a-9b27-39a83b4dd51d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0292")
 					(unit 1)
@@ -25163,7 +25163,7 @@
 			(uuid "d7d00b92-183c-42b7-abcd-14e94aab23c1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0293")
 					(unit 1)
@@ -25243,7 +25243,7 @@
 			(uuid "7363e94c-b254-4d04-b8c5-dea5d0ff96f9")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R2")
 					(unit 1)
@@ -25323,7 +25323,7 @@
 			(uuid "43cbc9d6-b1ef-4e9c-b99f-018aabe90389")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R1")
 					(unit 1)
@@ -25438,7 +25438,7 @@
 			(uuid "f9fd570e-3b4c-4d72-a1b9-8345baadc601")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C10")
 					(unit 3)
@@ -25554,7 +25554,7 @@
 			(uuid "02965f68-49db-4ea8-942b-6bee9409625e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C5")
 					(unit 1)
@@ -25670,7 +25670,7 @@
 			(uuid "258c3e45-bb4e-4ae6-9d69-0196ffad6680")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D10")
 					(unit 2)
@@ -25786,7 +25786,7 @@
 			(uuid "7f3d6e91-b68f-4552-9ab1-b55afcf3e5f4")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D10")
 					(unit 1)
@@ -25901,7 +25901,7 @@
 			(uuid "c736ce91-1b71-4547-b0ef-ee7938ef2c18")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D12")
 					(unit 6)
@@ -26017,7 +26017,7 @@
 			(uuid "89176270-0d4d-4cda-b0fe-45ee0d6c925e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C9")
 					(unit 2)
@@ -26133,7 +26133,7 @@
 			(uuid "0732489e-26b6-446d-8d31-0eef619d1819")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C12")
 					(unit 1)
@@ -26248,7 +26248,7 @@
 			(uuid "dc1d5739-b713-43af-ab82-bfb8f0d37159")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C10")
 					(unit 1)
@@ -26370,7 +26370,7 @@
 			(uuid "db8c2f38-03e7-44a9-a429-fc38305cff0e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C13")
 					(unit 1)
@@ -26446,7 +26446,7 @@
 			(uuid "78b7993a-66ae-49ac-854e-0b1da3662482")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0295")
 					(unit 1)
@@ -26524,7 +26524,7 @@
 			(uuid "78cac77d-0a1b-4e73-9db3-b6a046d82776")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0296")
 					(unit 1)
@@ -26600,7 +26600,7 @@
 			(uuid "a74b5884-d302-4c78-b414-bbbddc4e9843")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0297")
 					(unit 1)
@@ -26731,7 +26731,7 @@
 			(uuid "c02e80fa-b806-4862-bfcc-ea34208305f6")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D2")
 					(unit 1)
@@ -26855,7 +26855,7 @@
 			(uuid "df64e10e-aa2b-468a-84f7-34d2cf470a82")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D1")
 					(unit 1)
@@ -26977,7 +26977,7 @@
 			(uuid "4434f790-295a-4c4c-809c-810247e864e4")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C3")
 					(unit 1)
@@ -27099,7 +27099,7 @@
 			(uuid "1b52584a-d159-4baa-a269-92540f7a35ee")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C4")
 					(unit 1)
@@ -27220,7 +27220,7 @@
 			(uuid "401d88d5-808f-40d5-a12b-c2d143f360b6")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D11")
 					(unit 1)
@@ -27341,7 +27341,7 @@
 			(uuid "b314cd5d-d8ec-4ede-ac41-a213f034cb34")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D6")
 					(unit 1)
@@ -27462,7 +27462,7 @@
 			(uuid "1d33fe5f-d6f3-4be1-beff-c53f3ff36dd4")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D7")
 					(unit 1)
@@ -27583,7 +27583,7 @@
 			(uuid "f7bec743-9083-4597-b5dd-aabb600e4123")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D8")
 					(unit 1)
@@ -27704,7 +27704,7 @@
 			(uuid "7142e47d-caca-49c6-8026-c5ae65d5d47d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D9")
 					(unit 1)
@@ -27795,7 +27795,7 @@
 			(uuid "2cbc0d08-bc0d-4f17-a54d-46ce135da3ab")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D5B1")
 					(unit 1)
@@ -27886,7 +27886,7 @@
 			(uuid "6434b4a7-6231-47c3-8a8c-f87dc94a5663")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D5A1")
 					(unit 1)
@@ -28001,7 +28001,7 @@
 			(uuid "9d15f015-2ffe-44db-9746-94a5439f9718")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D12")
 					(unit 2)
@@ -28116,7 +28116,7 @@
 			(uuid "7594488c-6cee-40a2-a9db-3c39b7d704a1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D12")
 					(unit 3)
@@ -28155,7 +28155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 86.36 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28205,7 +28205,7 @@
 			(uuid "1fe78a04-e161-4ab2-899d-6b4a8a439eff")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CAP3")
 					(unit 1)
@@ -28283,7 +28283,7 @@
 			(uuid "891dbd85-48c2-4af9-a645-831f278b413d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R14")
 					(unit 1)
@@ -28361,7 +28361,7 @@
 			(uuid "e256990c-88ed-4434-987f-52b3e708605f")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R13")
 					(unit 1)
@@ -28440,7 +28440,7 @@
 			(uuid "df0f0d59-c966-48c5-ac62-d54cf91ad2ef")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "Y1")
 					(unit 1)
@@ -28479,7 +28479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 101.6 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -28529,7 +28529,7 @@
 			(uuid "c704d187-a07d-48d5-90b2-c2e20f35bad7")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CAP4")
 					(unit 1)
@@ -28651,7 +28651,7 @@
 			(uuid "86dc172c-1fcf-45de-a208-1eb282410d8a")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D15")
 					(unit 1)
@@ -28766,7 +28766,7 @@
 			(uuid "5b6db7f5-c33d-42eb-8abb-13532afa88c9")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C12")
 					(unit 3)
@@ -28857,7 +28857,7 @@
 			(uuid "b3caf00d-ef6f-4b15-a191-9d7869157e75")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C11B1")
 					(unit 1)
@@ -28935,7 +28935,7 @@
 			(uuid "67b4018b-874e-4bf5-a41e-fbdf2a2e8ada")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R7")
 					(unit 1)
@@ -29011,7 +29011,7 @@
 			(uuid "6b265385-0722-42bb-92f8-50b788c0844a")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0214")
 					(unit 1)
@@ -29087,7 +29087,7 @@
 			(uuid "d9ede298-f5de-4241-bc98-49866afaa67f")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0231")
 					(unit 1)
@@ -29184,7 +29184,7 @@
 			(uuid "f95ea856-404f-4b98-a58a-a58a775217f7")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D13")
 					(unit 1)
@@ -29260,7 +29260,7 @@
 			(uuid "47126a20-e746-4d00-aadc-114072c04b25")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0232")
 					(unit 1)
@@ -29337,7 +29337,7 @@
 			(uuid "5c14ae92-c63c-4922-8ea4-59f74013c30d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0233")
 					(unit 1)
@@ -29417,7 +29417,7 @@
 			(uuid "ca4746cb-17dd-44b1-916d-9a723e413ad9")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R11")
 					(unit 1)
@@ -29508,7 +29508,7 @@
 			(uuid "b5a6b3bd-d8da-4068-8697-2d496451bc9e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "CAP7")
 					(unit 1)
@@ -29588,7 +29588,7 @@
 			(uuid "12dedd70-736e-47c1-ac5e-81802144b9ee")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R10")
 					(unit 1)
@@ -29664,7 +29664,7 @@
 			(uuid "ff91bc97-3f28-4c6e-86d5-744ac2cba181")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0234")
 					(unit 1)
@@ -29740,7 +29740,7 @@
 			(uuid "b5b70d1b-b642-483b-a8fb-8ddfc120f6c4")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0235")
 					(unit 1)
@@ -29816,7 +29816,7 @@
 			(uuid "96e67ceb-9a6e-4b3e-b3fd-cd1b67f97f09")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0236")
 					(unit 1)
@@ -29892,7 +29892,7 @@
 			(uuid "e6512044-0403-455c-ac21-77a14874beb9")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0237")
 					(unit 1)
@@ -29972,7 +29972,7 @@
 			(uuid "3da41aed-233e-4ed8-9858-0ecc9f623148")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R3")
 					(unit 1)
@@ -30048,7 +30048,7 @@
 			(uuid "4910081e-cbd2-4357-8856-d4e64803194d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0238")
 					(unit 1)
@@ -30128,7 +30128,7 @@
 			(uuid "3fa2f4c5-4f63-4bea-9ce8-b2cd3e5e4817")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R4")
 					(unit 1)
@@ -30204,7 +30204,7 @@
 			(uuid "89f08e83-9429-471d-b32f-c4a94580de8b")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0239")
 					(unit 1)
@@ -30280,7 +30280,7 @@
 			(uuid "c5819681-39a7-4756-8b70-d3334796d746")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0240")
 					(unit 1)
@@ -30357,7 +30357,7 @@
 			(uuid "63786abb-ce4e-47dd-a0e6-e8bd6872a5cf")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0241")
 					(unit 1)
@@ -30448,7 +30448,7 @@
 			(uuid "71334263-f449-4c96-8743-a7101370a53c")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D4B1")
 					(unit 1)
@@ -30539,7 +30539,7 @@
 			(uuid "4e92e4a1-8525-496e-b2e4-9fcfdf0e71c1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D4A1")
 					(unit 1)
@@ -30615,7 +30615,7 @@
 			(uuid "cf30f3f4-da92-4925-b99c-2bae4e7dc667")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0242")
 					(unit 1)
@@ -30691,7 +30691,7 @@
 			(uuid "20de2ca2-5b72-480a-bee8-fa4ee3cdad92")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0243")
 					(unit 1)
@@ -30767,7 +30767,7 @@
 			(uuid "81345b76-6800-4b49-b796-a3db6145ba61")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0244")
 					(unit 1)
@@ -30843,7 +30843,7 @@
 			(uuid "a15271b6-bbd8-4fa1-900b-2069bd00e514")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0245")
 					(unit 1)
@@ -30923,7 +30923,7 @@
 			(uuid "f3a85fab-2546-4296-92f4-fa35253dabc0")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R5")
 					(unit 1)
@@ -30999,7 +30999,7 @@
 			(uuid "6365be22-94c3-43eb-9f6d-98bb85990b6e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0246")
 					(unit 1)
@@ -31079,7 +31079,7 @@
 			(uuid "a0ebb2c5-bd0f-4e4f-b654-2ef3168fa83a")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R6")
 					(unit 1)
@@ -31155,7 +31155,7 @@
 			(uuid "1c02b447-c12d-401b-8273-1ff01ed06f9e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0247")
 					(unit 1)
@@ -31246,7 +31246,7 @@
 			(uuid "53cb3a7c-b899-471d-9008-1c688cd6ed2c")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D14B1")
 					(unit 1)
@@ -31337,7 +31337,7 @@
 			(uuid "08b3bd02-cece-498e-99a4-03a54a75e5db")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "D14A1")
 					(unit 1)
@@ -31413,7 +31413,7 @@
 			(uuid "54478cd5-074c-4804-a513-d366a1a00da1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0248")
 					(unit 1)
@@ -31489,7 +31489,7 @@
 			(uuid "129d951d-76a2-4f16-8980-385bdf21eed6")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0249")
 					(unit 1)
@@ -31565,7 +31565,7 @@
 			(uuid "bafd1afc-0818-4f21-9e0e-1c6f0e70b8ad")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0250")
 					(unit 1)
@@ -31641,7 +31641,7 @@
 			(uuid "2c0b1250-e6ac-4384-ad9c-a1d4fc6a5397")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0251")
 					(unit 1)
@@ -31721,7 +31721,7 @@
 			(uuid "07c334f2-3f36-44fe-8944-093d23c0b531")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R9")
 					(unit 1)
@@ -31797,7 +31797,7 @@
 			(uuid "d967d576-4250-4ed7-a52f-4f6a0ee45d95")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0252")
 					(unit 1)
@@ -31877,7 +31877,7 @@
 			(uuid "2ba735a5-af85-4f66-a20e-e53c310b83b1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R8")
 					(unit 1)
@@ -31953,7 +31953,7 @@
 			(uuid "90225933-0a10-4357-b4ef-6c05ed556dac")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0253")
 					(unit 1)
@@ -32075,7 +32075,7 @@
 			(uuid "ddf4ca4a-9346-4b9f-bad9-361ef7327542")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "C14")
 					(unit 1)
@@ -32151,7 +32151,7 @@
 			(uuid "87aaa4c6-48bd-4651-9095-1987e5648d23")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0254")
 					(unit 1)
@@ -32228,7 +32228,7 @@
 			(uuid "956c0174-b0ec-4839-b818-04a0e55f73b5")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0255")
 					(unit 1)
@@ -32308,7 +32308,7 @@
 			(uuid "5f8c15fc-f535-49f2-8dbb-c9fff768950e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R35")
 					(unit 1)
@@ -32387,7 +32387,7 @@
 			(uuid "f0769f54-e830-4c2d-a488-bd1d230d2a03")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R36")
 					(unit 1)
@@ -32467,7 +32467,7 @@
 			(uuid "ec1f048f-e972-4b3b-8c38-95b9021e6438")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R34")
 					(unit 1)
@@ -32547,7 +32547,7 @@
 			(uuid "467dc690-25bc-4758-9ef9-83276df4c15d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R33")
 					(unit 1)
@@ -32627,7 +32627,7 @@
 			(uuid "f91eff51-1e25-4ab0-8a2e-3fb2a2983067")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R32")
 					(unit 1)
@@ -32707,7 +32707,7 @@
 			(uuid "f0bd42eb-58b3-4663-bb47-ab35cbc08f8e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R31")
 					(unit 1)
@@ -32783,7 +32783,7 @@
 			(uuid "75e25923-67b5-4a3b-90b2-84cb62cf7b4f")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0256")
 					(unit 1)
@@ -32859,7 +32859,7 @@
 			(uuid "3f5194e7-956f-44f1-8029-f4b635ef24b1")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0257")
 					(unit 1)
@@ -32935,7 +32935,7 @@
 			(uuid "07c14ba5-6f35-4ceb-9e97-cca6828cf452")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0258")
 					(unit 1)
@@ -33011,7 +33011,7 @@
 			(uuid "511bf711-4fd0-4f17-b6d1-55ecd9963074")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0259")
 					(unit 1)
@@ -33087,7 +33087,7 @@
 			(uuid "45885f0f-5fc4-4166-a1d4-0c584d52b445")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0260")
 					(unit 1)
@@ -33164,7 +33164,7 @@
 			(uuid "c80716e6-7a52-48b0-adfe-e4a92726ea74")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0261")
 					(unit 1)
@@ -33241,7 +33241,7 @@
 			(uuid "2a7cfd47-53d0-4ad3-b01a-1fa088c8bc14")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0262")
 					(unit 1)
@@ -33317,7 +33317,7 @@
 			(uuid "2fec5fb2-f7dd-4039-a763-55a9b0499479")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0263")
 					(unit 1)
@@ -33394,7 +33394,7 @@
 			(uuid "b7cea2d7-b5df-4a50-bb74-37ee64bdbe91")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0264")
 					(unit 1)
@@ -33470,7 +33470,7 @@
 			(uuid "eafb5d90-70f9-486d-bb59-4184d9a5db0d")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0265")
 					(unit 1)
@@ -33547,7 +33547,7 @@
 			(uuid "23deb728-b1b3-4a38-aaca-473771770b92")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0266")
 					(unit 1)
@@ -33632,7 +33632,7 @@
 			(uuid "4812258f-b219-49c7-81d9-083fc4a4afac")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "Q5")
 					(unit 1)
@@ -33708,7 +33708,7 @@
 			(uuid "d693f071-9565-4d29-a185-0138b5033630")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0267")
 					(unit 1)
@@ -33791,7 +33791,7 @@
 			(uuid "f89438f7-32f3-45c0-aa13-092f5ab5298e")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "R12")
 					(unit 1)
@@ -33868,7 +33868,7 @@
 			(uuid "e0ca4fdc-c20a-4fc8-ac53-8973a46ab32f")
 		)
 		(instances
-			(project "apple1"
+			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d344fb6"
 					(reference "#PWR0268")
 					(unit 1)

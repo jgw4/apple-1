@@ -3530,7 +3530,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_EdgeCon_22P"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
