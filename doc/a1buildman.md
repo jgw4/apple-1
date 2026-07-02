@@ -80,7 +80,7 @@ There is a registry dedicated to documenting known original Apple 1s and plan to
 ## Chapter 1: Assemble Components, Tools, and Equipment
 
 ### 1. Recommended Tools and Equipment
-- Quality soldering station - I Mike Willegal uses a Weller WES51. Whatever you use, it is reccomended to have some kind of temperature controlled tip. This will help prevent damage to the PCB when soldering
+- Quality soldering station - Mike Willegal uses a Weller WES51. Whatever you use, it is reccomended to have some kind of temperature controlled tip. jgw4 also reccomends a station with a heat gun attached for soldering onto the large ground planes. These both will help prevent damage to the PCB when soldering
 - Solder - use quality solder - thinner solder is vastly easier to work with than fat solder. The fat stuff sold at hardware stores is not suitable for these sort of electronics projects
 - Wire cutters – for trimming component leads
 - Razor saw – for trimming ears off of edge connectors (if purchasing one with ears).
@@ -336,6 +336,8 @@ resistors.
 | 3000 $\Omega$ (2) | inbetween D-14/15 (both) | orange-black-red |
 
 ### 14. Solder In Diodes
+>[!NOTE]
+>At this point you will be doing a lot of soldering on the ground planes and other large copper areas. Soldering these components is quite more difficult than the previous components. I reccomend using the largest iron tip you have.  If you struggle with these next components like I have, my recommendation is to use a heat gun to heat up the area around the joint, melt a blob of solder onto it, then pass over it again with the iron and heat gun until you see the solder melt and cave in. This method I have found to be much quicker and easier (and potentially safer for the components) than dumping heat into the large copper pads with just an iron tip. -jgw4
 
 ![diode](../img/buildman04.png)
 
@@ -360,24 +362,24 @@ The electrolytic caps must be oriented correctly. There are two ends, positive a
 | 22 $\mu$ F capacitor | D-13 | orient correctly. Cursor timer |
 | 22 $\mu$ F capacitor | D-15 | orient correctly. -5V |
 | 22 $\mu$ F capacitor | D-15 | orient correctly. cursor flasher |
-| MPS3704 Transistor | D-1 | orient correctly - base connects to the two resistors, just below it. See cover photograph. |
+| MPS3704 Transistor | D-1 | orient correctly - base connects to the two resistors, just below it. See photograph in `/img/` |
 | 14MHZ crystal | D-13 | orientation not important |
 
 ### 16. Repeat Check for Power and Ground Shorts
 
 ### 17. Solder In Power and Video Connectors
 
-Be careful that the power and video connectors are oriented correctly or you will not be able to properly insert the power plug. Refer to the photo on the cover of the manual, for reference.
+Be careful that the power and video connectors are oriented correctly or you will not be able to properly insert the power plug. Refer to the photograph in `/img/`, for reference.
 
 | Part | Location | Description |
 | --- | --- | --- |
-| Video | D-1 | 4 pin header - shroud toward edge of board (see cover photo) |
-| Power | C-18 | 6 pin header - shroud towward edge of board (see cover photo) |
+| Video | D-1 | 4 pin header - shroud toward edge of board (see photograph in `/img/`) |
+| Power | C-18 | 6 pin header - shroud toward edge of board (see photograph in `/img/`) |
 
 ### 18. Solder In Small Voltage Regulators
 
 The voltage regulators must be oriented correctly. Two of the three are oriented in one direction and the other
-in the opposite. Pay attention to the photo on the front cover. Once regulators are installed you will no longer
+in the opposite. Pay attention to the photograph in `/img/`. Once regulators are installed you will no longer
 have a completely open connection between power and ground planes.
 
 | Part | Location | Description |

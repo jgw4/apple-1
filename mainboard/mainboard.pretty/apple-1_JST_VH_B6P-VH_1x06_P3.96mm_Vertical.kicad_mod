@@ -1,0 +1,240 @@
+(footprint "apple-1_JST_VH_B6P-VH_1x06_P3.96mm_Vertical"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "JST VH series connector, B6P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf)")
+	(tags "connector JST VH vertical")
+	(property "Reference" "REF**"
+		(at 9.9 -4.9 0)
+		(layer "F.SilkS")
+		(uuid "2f298b8c-bd7c-4610-95d7-ba71589432da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "apple-1_JST_VH_B6P-VH_1x06_P3.96mm_Vertical"
+		(at 9.9 6 0)
+		(layer "F.Fab")
+		(uuid "40042c70-00c1-42de-a492-51bce5fc0a77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c4f73a84-122e-4c38-aee1-46a2b40eacd4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b6f669d-b543-46c3-ad92-5b111dc8de1f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "connector/JST"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1496ec63-13f5-4429-9b57-d7a453f358f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -2.45 -4.2)
+		(end 22.25 5.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "76e6c76a-64ea-4c10-8a24-4703a6a44992")
+	)
+	(fp_line
+		(start -2.86 -0.3)
+		(end -2.26 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "34a84e1c-9011-45d0-a6da-b14f3e3aa50d")
+	)
+	(fp_line
+		(start -2.86 0.3)
+		(end -2.86 -0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "77a9f450-7c17-4fc9-811f-6f13c373380b")
+	)
+	(fp_line
+		(start -2.26 0)
+		(end -2.86 0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fb6d536e-6410-46c4-bc17-7557e9c5616c")
+	)
+	(fp_line
+		(start -1.95 -1)
+		(end -0.95 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ab01d99-5fb3-4e49-af54-143d6cd9ec6b")
+	)
+	(fp_line
+		(start -1.95 1)
+		(end -0.95 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a039d2d5-107b-47f7-805c-0348173643dd")
+	)
+	(fp_line
+		(start -0.75 -3.7)
+		(end 20.55 -3.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cacc71a2-67b9-4ffb-8854-2a8c38fc8dc3")
+	)
+	(fp_line
+		(start -0.75 -2)
+		(end -0.75 -3.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4eae340d-7626-4d20-8992-83ccfc6856b7")
+	)
+	(fp_line
+		(start 20.55 -3.7)
+		(end 20.55 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "36790e41-630a-4e64-98d4-ef17568f95a3")
+	)
+	(fp_rect
+		(start -1.95 -2)
+		(end 21.75 4.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8d3f5328-89c1-4a20-98de-e2658adcc076")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 9.9 4.1 0)
+		(layer "F.Fab")
+		(uuid "1a039b3f-2d05-46ba-b6b2-34eda818387a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.54 2.54)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "eee5af06-379f-46dd-af24-f8b6b71da170")
+	)
+	(pad "2" thru_hole circle
+		(at 3.96 0)
+		(size 2.54 2.54)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "18dbc77e-4b5f-47b0-ac00-09046a29092f")
+	)
+	(pad "3" thru_hole circle
+		(at 7.92 0)
+		(size 2.54 2.54)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9ad43c0d-d610-4401-915a-cc19d707fbda")
+	)
+	(pad "4" thru_hole circle
+		(at 11.88 0)
+		(size 2.54 2.54)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f6746182-62c7-4f42-a19b-092d521ec909")
+	)
+	(pad "5" thru_hole circle
+		(at 15.84 0)
+		(size 2.54 2.54)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3ee88444-b35f-4618-9604-019c350cff95")
+	)
+	(pad "6" thru_hole circle
+		(at 19.8 0)
+		(size 2.54 2.54)
+		(drill 1.7018)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "97b73e65-096b-4398-a931-4398b563fb27")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B6P-VH_1x06_P3.96mm_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

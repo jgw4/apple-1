@@ -1,7 +1,7 @@
-# About
-This repository is a collection of different projects I've found around the internet relating to building a near-exact clone of the Apple-1 computer. My intention is for it to act as a central repository for information that may otherwise be obscure or decentralized. For aspiring builders, having everything in one place helps with prep work, troubleshooting, and familiarizes with the scope of the project.
+# About the "Doppel-1"
+This repository is a collection of different projects I've found around the internet relating to building a near-exact clone of the Apple-1 computer. My intention is for it to act as a central repository for information that may otherwise be obscure decentralized, or link rot in the future. For aspiring builders, having everything in one place helps with prep work, troubleshooting, and familiarizes with the scope of the project.
 
-My personal contributions to this repo is the creation of a set of clone boards based in KiCad, that are fully editable and can be turned into production-ready gerbers. This was done by importing an existing set of gerber files found on applefritter/willegal, and essentially "decompiling" the imported geometry into matching custom footprints, and KiCad Native features. Work on these PCBs is ongoing, but the source gerbers are available in this repository also.
+My personal contributions to this repo is the "Doppel-1",a completely reverse-engineered set of kicad files created with native kicad features and schematics. This is being done by working off of an imported copy of gerber files that were found on applefritter, and replacing all gerber geometry with schematic-linked footprints and traces, assigning proper nets, filled zones, and rule areas, as well as fixing mistakes to match real Apple-1 boards.
 
 ## Contents & Progress
 

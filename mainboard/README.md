@@ -6,6 +6,8 @@ To properly view the pcb file's text elements, please download and install "Rout
 The PCB File is being made by importing gerber files first into KiCad, and mapping the schematics to it by applying footprints to the symbols, placing over the gerber geometry, and then removing the import gerber geometry
 
 # To Do
+## Font
+I am currently using routed Gothic font, but I believe Iwater GMaru Gothic Pro is a better match to the original. problem characters include the number 1, letter C,and the number 4
 ## Schematics
 - footprints need assigned to all components within all schematic files. this in most cases require the creating of custom footprints to ensure reproduction accuracy
 ## PCB
