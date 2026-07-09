@@ -21000,7 +21000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_D_DO-35_SOD27_P10.16mm_Horizontal"
 			(at 241.3 243.205 0)
 			(hide yes)
 			(show_name no)
@@ -21080,7 +21080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_D_DO-35_SOD27_P10.16mm_Horizontal"
 			(at 241.3 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -21160,7 +21160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_D_DO-35_SOD27_P10.16mm_Horizontal"
 			(at 241.3 248.285 0)
 			(hide yes)
 			(show_name no)
@@ -24894,7 +24894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_D_DO-35_SOD27_P10.16mm_Horizontal"
 			(at 495.935 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -26641,7 +26641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-24_18.0mmx34.29mm_W15.24mm"
+		(property "Footprint" "mainboard:apple-1_DIP-24_18.0mmx34.29mm_W15.24mm"
 			(at 203.2 168.91 0)
 			(hide yes)
 			(show_name no)

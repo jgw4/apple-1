@@ -1,32 +1,52 @@
 \documentclass[letterpaper]{article}
+
+% Core packages
 \usepackage[top=1in,bottom=1in,left=1in,right=1in]{geometry}
 \usepackage{graphicx}
 \usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{eso-pic}
 \usepackage[explicit]{titlesec}
 \usepackage{varwidth}
 \usepackage{parskip}
 \usepackage{tgcursor}
 \usepackage{fontspec}
-\newfontfamily\bodyfont[
+
+% Font setup
+\fontsize{10pt}{10pt}\selectfont
+\setmainfont[
   Path=fonts/,
   Extension=.ttf
 ]{Typewriter-Executive}
+
+% Graphics paths
+\graphicspath{{pages/}}
+
+% Page number settings
+\pagestyle{fancy}
+\fancyhf{}                    % Clear all headers and footers
+\fancyfoot[C]{-\thepage-}     % Bottom center: -1-
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\footskip}{24pt}
+
+% Body text settings
 \parskip=8pt
-\pagestyle{empty}
 \parindent=3em
 \setcounter{secnumdepth}{0}
 \setlength{\fboxsep}{6pt}
-\fontsize{10pt}{10pt}\selectfont
+
+% Section styling
 \titleformat{\section}[block]
   {\normalfont\large\bfseries\centering}
   {}
   {0pt}
   {\makebox[\linewidth][c]{\fbox{\begin{varwidth}{\linewidth}\centering #1\end{varwidth}}}}
 \titlespacing*{\section}{0pt}{*2}{*1}
-\graphicspath{{pages/}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \begin{titlepage}
+\thispagestyle{empty}
 \centering
 
 \includegraphics[width=0.5\textwidth]{logo.png}\vspace{2.5cm}
@@ -51,23 +71,36 @@ Palo Alto, California 94304
 \end{titlepage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{center}
-  SPECIFICATION
+  SPECIFICATIONS
 \end{center}
-\begin{multicols}{2}
-MICROPROCESSOR: MOS Technology 6502
+\begin{tabular}{p{0.46\textwidth} p{0.46\textwidth}}
+  
+MICROPROCESSOR:&MOS Technology 6502\\
 
-Microprocessor Clock Frequency: 1.023 MHz
-\end{multicols}
+Microprocessor Clock Frequency:&1.023 MHz\\
 
+Effective Cycle Frequency:&0.960 Mhz\\
+
+(Including Refresh Waits)&\\
+
+VIDEO OUTPUT:&Composite positive video, 75 ohms, level adjustable between zero and +5V pp.\\
+
+Line Rate:&15734 Hz\\
+Frame Rate:&60.06 Hz\\
+Format&40 characters/line, 24 lines; with automatic scrolling\\
+Display Memory:&Dynamic shift registers (1K x 7)\\
+Character Matrix:&5 x 7\\
+\end{tabular}
+\clearpage
+\setcounter{page}{1}
 \newpage
-\pagenumbering{Roman}
 \begin{center}
 \section{INTRODUCTION}
 \end{center}
 \begin{multicols}{2}
-{\bodyfont
+
 The Apple Computer is a complete microprocessor system, consisting of a Mos Technology 6502 microprocessor and support hardware, integral video display electronics, dynamic memory and refresh hardware, and fully regulated power supplies. It contains resident system monitor software, enabling the user, via the keyboard and display, to write, examine, debug, and run programs efficiently; thus being an educational tool for the learning of microprocessor programming, and an aid in the development of software.
-}
+
 
 The integral video display section and the keyboard interface renders unnecessary the need for an external teletype. The display section contains its ownmemory, leaving all of RAM for user programs, and the output format is 40 characters/ line, 24 lines/page, with auto scrolling. Almost any ASCII encoded keyboard will interface directly with the Apple system.
 
@@ -102,6 +135,13 @@ Any ASCII encoded keyboard, with positive DATA outputs, interfaces directly with
 \noindent NOTE: The system monitor accepts only uppercase alpha (A-F, R).
 
 It is therefore convenient, though it's not essential, to have akeyboard equipped with uppercase alpha lock (usually in the electronics). Either of the following suggested circuits may be used to provide alpha lock capability, if needed, and can be built in the breadboard area.
+\AddToShipoutPictureBG*{
+  \AtPageLowerLeft{
+    \makebox[\paperwidth][c]{\includegraphics[width=\paperwidth]{p1_kb.png}}%
+  }
+}
+
+
 
 \newpage
 \noindent Display:
@@ -346,7 +386,7 @@ NOTE: RAM locations $\emptyset$$\emptyset$24 to $\emptyset$$\emptyset$2B are use
 
 65$\emptyset$2 HEX MONITOR LISTING
 \end{center}
-{\ttfamily %sets to monospaced
+
 \begin{tabbing}
 FF$\emptyset\emptyset$\hspace{.18in}\=D8\hspace{.75in}\=RESET\hspace{.5in}\=CLD\hspace{1.25in}\={\rmfamily Clear Decimal arithmetic mode}\\
 FF$\emptyset$1\>58\>\>CLI\>\\
@@ -477,5 +517,10 @@ FFFA\>$\emptyset\emptyset$ $\emptyset$F (NMI)\\
 FFFC\>$\emptyset\emptyset$ FF (RESET)\\
 FFFE\>$\emptyset\emptyset$ $\emptyset\emptyset$ (IRQ)\\
 \end{tabbing}
-}
+
 \end{document}
+
+
+
+
+

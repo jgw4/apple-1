@@ -25562,7 +25562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-40_W15.24mm"
+		(property "Footprint" "mainboard:apple-1_DIP-40_W15.24mm"
 			(at 335.28 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -35632,7 +35632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-24_W15.24mm"
+		(property "Footprint" "mainboard:apple-1_DIP-24_18.0mmx34.29mm_W15.24mm"
 			(at 454.66 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -38846,7 +38846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-40_W15.24mm"
+		(property "Footprint" "mainboard:apple-1_DIP-40_W15.24mm"
 			(at 132.08 271.78 0)
 			(hide yes)
 			(show_name no)
