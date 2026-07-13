@@ -9,7 +9,7 @@
 		(at 5.08 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c3eceb4c-a984-497a-9eeb-d37aa834c2c2")
+		(uuid "2a7d1103-79e2-4a39-9d77-17ab08f3a02c")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 	(property "Value" "apple-1_D_5W_P10.16mm_Horizontal"
 		(at 4.5 -4 0)
 		(layer "F.Fab")
-		(uuid "ad62c548-14b2-4f2b-b6f0-e4771b956b8e")
+		(uuid "2daaf0a1-fe9b-4d81-b751-e4fd060b8036")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4227b8ba-c487-4361-823b-0a3adbaae267")
+		(uuid "8629a0c3-61f7-4ce1-8236-28ca4b59790e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bba0430e-44a4-41e5-a908-e99cfc5e3bef")
+		(uuid "7f76a1de-b154-49f8-99e9-e53afb5d7ddb")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -54,7 +54,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "71e427a5-46f6-4e8c-b540-8972ff4ad0c9")
+		(uuid "8543544f-8fc6-4de3-b99c-e833c9720b9f")
 		(effects
 			(font
 				(size 1 1)
@@ -72,7 +72,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
-		(uuid "6f9c2fc9-d94e-4eec-88f7-9aa7c8bf5bcc")
+		(uuid "e9ee8d05-0a98-455d-9d40-1ff5378dfd90")
 	)
 	(fp_poly
 		(pts
@@ -84,7 +84,7 @@
 		)
 		(fill yes)
 		(layer "F.Cu")
-		(uuid "c5d2330b-4381-48e5-8b55-3aeab838fada")
+		(uuid "a1d6486e-9d92-4257-a565-50cee9a79b59")
 	)
 	(fp_line
 		(start 3.894415 1.524)
@@ -94,7 +94,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4732e646-93c7-4696-a18e-75d59bdce80f")
+		(uuid "e6090f10-3bcc-48ad-abba-2cf5ddbcf6c8")
 	)
 	(fp_line
 		(start 8.974415 -0.013245)
@@ -104,7 +104,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "aaaa8622-1312-4dce-8457-7b979ea11c18")
+		(uuid "58a89027-ee51-48ab-a15c-26540d0f8d3a")
 	)
 	(fp_rect
 		(start 1.354415 -1.524)
@@ -115,7 +115,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "ecf8d7b5-244a-43ed-b965-a3764a229f2e")
+		(uuid "4af27aea-fa1f-4820-8702-ade0d23a84f0")
 	)
 	(fp_poly
 		(pts
@@ -127,7 +127,7 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
-		(uuid "049b61fb-f538-4108-aa4e-87d116d439de")
+		(uuid "239ddc6f-ab5c-487c-91c1-32906b689abf")
 	)
 	(fp_rect
 		(start -1.65 -2.1)
@@ -138,7 +138,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "3be3e0b1-0cd9-4613-9245-2b52b8591ebd")
+		(uuid "7c4301d6-de63-4156-a922-3aee8df64973")
 	)
 	(fp_line
 		(start 0 0)
@@ -148,7 +148,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "df4b6978-d7f2-4851-8046-01221ff82fd6")
+		(uuid "f1116129-ab50-4587-8972-52dfb502e8b1")
 	)
 	(fp_line
 		(start 10.16 0)
@@ -158,12 +158,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "80d9ec6a-1fbf-4500-98c4-2388f0184d0d")
+		(uuid "115db826-e596-4144-9a4f-b392803a3d46")
 	)
 	(fp_text user "${VALUE}"
 		(at 5.7475 3 0)
 		(layer "F.SilkS")
-		(uuid "e5901f9e-b62a-41c2-af2a-ae4d505fe157")
+		(uuid "2419fb04-2970-44cc-a8ce-d998fa4f410e")
 		(effects
 			(font
 				(face "Routed Gothic")
@@ -669,20 +669,20 @@
 	)
 	(pad "1" thru_hole circle
 		(at 0 0)
-		(size 2.70002 2.70002)
-		(drill 1.7018)
+		(size 2.19964 2.19964)
+		(drill 1.1938)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
-		(uuid "7ef86839-c9a6-4c26-b432-1780a75d5b6a")
+		(uuid "e2f48364-61cf-46e5-8554-5123a3cbaaf1")
 	)
 	(pad "2" thru_hole circle
 		(at 10.16 0)
-		(size 2.70002 2.70002)
-		(drill 1.7018)
+		(size 2.19964 2.19964)
+		(drill 1.1938)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "db38ec37-2f7c-4b7f-9dfc-ff10969d818b")
+		(uuid "e536bb0b-41dd-4d3c-91d2-7db35f6b285f")
 	)
 	(embedded_fonts no)
 	(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/D_5W_P10.16mm_Horizontal.step"

@@ -922,7 +922,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "kb_datanetics_modern.kicad_pro",
+    "filename": "datanetics_modern.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1091,8 +1091,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "kb_datanetics_modern.kicad_sch",
-        "name": "kb_datanetics_modern",
+        "filename": "datanetics_modern.kicad_sch",
+        "name": "datanetics_modern",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
