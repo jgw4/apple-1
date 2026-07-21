@@ -20608,6 +20608,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 167.64 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "085e9c47-55c6-4dca-914d-a15b61eac521")
 		)
@@ -21032,6 +21043,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 241.3 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ebd36a3e-7533-463c-985d-900f2829240b")
 		)
@@ -21104,6 +21126,17 @@
 		)
 		(property "Description" ""
 			(at 241.3 241.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 241.3 241.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21192,6 +21225,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 241.3 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1091b176-374a-47b7-97e7-102a17a11ccd")
 		)
@@ -21264,6 +21308,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 256.286 249.936 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 256.54 243.84 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21620,6 +21675,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 185.42 246.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4816fb37-1b97-4f40-a690-5fa3f55fec33")
 		)
@@ -21727,6 +21793,17 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 39.878 144.272 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 48.26 142.24 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21851,6 +21928,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 60.96 157.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "fc3385ec-9ad7-44d0-8e33-d6425bb68f04")
 		)
@@ -21959,6 +22047,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 34.036 157.226 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 50.8 157.48 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22082,6 +22181,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 78.74 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "7449be98-e415-4ed0-826d-81aa34b2cbcc")
 		)
@@ -22131,7 +22241,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" ".01"
 			(at 53.975 168.275 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22185,6 +22295,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 60.96 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "de3e47ea-1c0f-4a0d-8491-5248ce5c219f")
 		)
@@ -22222,7 +22343,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" ".01"
 			(at 43.815 168.275 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22276,6 +22397,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 50.8 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "848b622c-82bd-423a-ac7f-776b33e47d81")
 		)
@@ -22313,7 +22445,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1.0"
 			(at 88.265 191.135 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22324,7 +22456,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 83.82 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -22357,6 +22489,17 @@
 			)
 		)
 		(property "Comment" "Ceramic Disc"
+			(at 83.82 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 83.82 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -22404,7 +22547,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1.0"
 			(at 85.725 163.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22415,7 +22558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
 			(at 83.82 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -22448,6 +22591,17 @@
 			)
 		)
 		(property "Comment" "Ceramic Disc"
+			(at 83.82 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 83.82 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -23073,6 +23227,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 248.92 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f0f30edb-87e9-49d2-ae44-dd6544ac0d17")
 		)
@@ -23180,6 +23345,17 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 272.034 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 271.78 78.74 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23381,6 +23557,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 248.92 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "5b451890-374c-4061-bf1e-29c987a3da9f")
 		)
@@ -23488,6 +23675,17 @@
 		)
 		(property "Description" "HEX D-TYPE FLIP-FLOPS W/ CLEAR"
 			(at 383.794 146.558 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 383.54 172.72 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23617,6 +23815,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 424.18 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0a28d926-e488-41ec-a9cd-3a84818b1e08")
 		)
@@ -23724,6 +23933,17 @@
 		)
 		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 423.672 174.244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 424.18 180.34 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23848,6 +24068,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 441.96 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9fce9d11-0029-4442-9fb0-f071faeb9e9f")
 		)
@@ -23955,6 +24186,17 @@
 		)
 		(property "Description" "TRIPLE 3-INPUT NOR GATE"
 			(at 435.356 189.484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 441.96 182.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24079,6 +24321,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 462.28 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "95285c3e-fa10-42cd-84af-7c920491120e")
 		)
@@ -24187,6 +24440,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT OR GATE"
 			(at 493.522 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 492.76 157.48 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24311,6 +24575,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 111.76 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c9f0ce59-d33c-451e-b494-0f3b886be63e")
 		)
@@ -24388,6 +24663,17 @@
 		)
 		(property "Description" "DUAL 2-2-INPUT AND-OR-INVERT GATE"
 			(at 460.756 196.088 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 459.74 185.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24505,6 +24791,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 477.52 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "d5e66b3e-1743-4c6e-9994-f5977e13d950")
 		)
@@ -24606,6 +24903,17 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 487.68 181.864 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 480.06 185.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24730,6 +25038,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 457.2 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "904f8f8a-4c88-447d-b97d-f3549913ce12")
 		)
@@ -24846,6 +25165,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 502.92 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "66cb1fff-fcde-4ff5-af9c-4e3043a7e7e4")
 		)
@@ -24918,6 +25248,17 @@
 		)
 		(property "Description" ""
 			(at 500.38 210.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 500.38 210.82 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25236,6 +25577,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 147.32 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "67b4d33b-2ae6-4e85-ac14-dd1caded45fa")
 		)
@@ -25316,6 +25668,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 147.32 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f0ee9b7d-828c-4e91-be68-4c78a36313b3")
 		)
@@ -25387,6 +25750,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT NOR GATE"
 			(at 85.852 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 86.36 121.92 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25511,6 +25885,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 86.36 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "0d85cd7e-7a53-4061-a8ed-c9b6659da0b9")
 		)
@@ -25619,6 +26004,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 121.158 147.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 124.46 142.24 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25743,6 +26139,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 147.32 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "07d45b02-4025-4dd4-96d0-4148672ca43d")
 		)
@@ -25850,6 +26257,17 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 119.38 119.888 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 119.38 114.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25974,6 +26392,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 147.32 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "b7a59e76-efbe-4234-954e-715db2a7f6d9")
 		)
@@ -26082,6 +26511,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT AND GATE"
 			(at 257.81 305.308 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 251.46 312.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26205,6 +26645,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 266.7 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "30f630f5-87ba-44c6-aaa9-4c333964d293")
 		)
@@ -26313,6 +26764,17 @@
 		)
 		(property "Description" "QUAD D-EDGE-TRIGGERED FLIP-FLOP, SHARED CLOCK AND ASYNCHRONOUS CLEAR, Q&/Q OUTPUTS"
 			(at 168.91 309.118 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 167.64 292.1 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26673,6 +27135,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 203.2 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "3d2992cf-0ff3-4090-88fc-522e161c7ba7")
 		)
@@ -26806,6 +27279,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 160.02 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ca89a914-2193-45ba-afc2-8a006714fe74")
 		)
@@ -26920,6 +27404,17 @@
 		)
 		(property "Description" ""
 			(at 248.92 170.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 248.92 170.18 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27050,6 +27545,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 304.8 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "db45d0ce-1144-411b-9ce5-6e7247500129")
 		)
@@ -27163,6 +27669,17 @@
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 120.142 187.452 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 119.38 170.18 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27292,6 +27809,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 63.5 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "811e6148-7d3f-477b-810e-b5a949411ea7")
 		)
@@ -27405,6 +27933,17 @@
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 117.094 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 116.84 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27534,6 +28073,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 170.18 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "f0ebc4a1-916f-4f41-ac16-d721340c5213")
 		)
@@ -27647,6 +28197,17 @@
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 223.266 51.054 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 223.52 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27776,6 +28337,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 304.8 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "7cb82816-b5bb-4a5b-9ef7-7d17b6837237")
 		)
@@ -27867,6 +28439,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 304.8 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "7b8a5776-93b9-4998-953b-00abef549d1b")
 		)
@@ -27950,6 +28533,17 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 70.612 361.188 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 71.12 355.6 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28073,6 +28667,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 101.6 355.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "50c12eb9-8ec6-43dc-8624-2c2256972429")
 		)
@@ -28145,7 +28750,7 @@
 				)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" ".01"
 			(at 86.36 353.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28188,6 +28793,17 @@
 			)
 		)
 		(property "Comment" "ALT: BC2361-ND "
+			(at 86.36 355.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 86.36 355.6 90)
 			(hide yes)
 			(show_name no)
@@ -28276,6 +28892,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 71.12 347.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2db99534-e7a1-4737-b15b-24669f1d4d3d")
 		)
@@ -28346,6 +28973,17 @@
 		)
 		(property "Description" ""
 			(at 101.6 347.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 101.6 347.98 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28433,6 +29071,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 72.39 365.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "295c7d29-468d-4c9d-bea4-dc3e379dbe06")
 		)
@@ -28469,7 +29118,7 @@
 				)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" ".01"
 			(at 101.6 368.935 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28512,6 +29161,17 @@
 			)
 		)
 		(property "Comment" "ALT: BC2361-ND "
+			(at 101.6 365.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 101.6 365.76 90)
 			(hide yes)
 			(show_name no)
@@ -28594,6 +29254,17 @@
 		)
 		(property "Description" "SYNCHRONOUS PRESETTABLE 4-BIT BINARY COUNTER, ASYNCHRONOUS CLEAR"
 			(at 206.502 221.234 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 205.74 241.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28723,6 +29394,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 149.86 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "c2a22202-be28-4e68-81b7-14ee0cedb696")
 		)
@@ -28838,6 +29520,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 167.64 335.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e53b1831-9dd1-44cb-8845-8f5aba98c9d2")
 		)
@@ -28920,6 +29613,17 @@
 		)
 		(property "Description" ""
 			(at 182.88 340.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 182.88 340.36 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29151,6 +29855,17 @@
 		)
 		(property "Description" ""
 			(at 231.14 335.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 231.14 335.28 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29410,6 +30125,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 248.92 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5da566db-69ec-434f-a12c-477fd09c0c28")
 		)
@@ -29501,6 +30227,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 248.92 350.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85c493b3-f44b-4283-a9b8-18d3fab2d642")
 		)
@@ -29573,6 +30310,17 @@
 		)
 		(property "Description" ""
 			(at 248.92 330.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 248.92 330.2 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29965,6 +30713,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 317.5 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "57d0ef4d-35b5-40c5-b5da-f7aa09c03fec")
 		)
@@ -30113,6 +30872,17 @@
 		)
 		(property "Description" ""
 			(at 317.5 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 317.5 132.08 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30429,6 +31199,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 304.8 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "d489661b-35ac-41be-90b3-eea1946195e1")
 		)
@@ -30512,6 +31293,17 @@
 		)
 		(property "Description" ""
 			(at 304.8 241.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 304.8 241.3 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30916,6 +31708,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 317.5 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "507906ca-8d64-4fd7-b677-0f1edc616c27")
 		)
@@ -31064,6 +31867,17 @@
 		)
 		(property "Description" ""
 			(at 317.5 243.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 317.5 243.84 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31227,6 +32041,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 304.8 327.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "cda011ea-221b-4201-a53c-0afd252ee62b")
 		)
@@ -31310,6 +32135,17 @@
 		)
 		(property "Description" ""
 			(at 304.8 355.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 304.8 355.6 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31714,6 +32550,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 317.5 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "77562097-c087-477f-a86f-394f17a4ae35")
 		)
@@ -31870,6 +32717,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 317.5 358.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b2b906dc-c25a-4e23-b078-4452144c84d7")
 		)
@@ -32018,6 +32876,17 @@
 		)
 		(property "Description" "QUAD 2-LINE TO 1-LINE DATA SELECTOR/MULTIPLEXER, INVERTING OUTPUTS"
 			(at 304.8 284.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 304.8 284.48 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32301,6 +33170,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 228.6 187.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "71ff7d6e-f951-4064-80ee-2f05b608db53")
 		)
@@ -32372,6 +33252,17 @@
 		)
 		(property "Description" ""
 			(at 231.14 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 231.14 187.96 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32460,6 +33351,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 226.06 187.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a6c125c8-1c8a-415c-a18c-c3fb3e379d45")
 		)
@@ -32532,6 +33434,17 @@
 		)
 		(property "Description" ""
 			(at 223.52 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 223.52 187.96 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32620,6 +33533,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 220.98 187.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e2cd83ca-c22d-4e43-8a74-871423f722f5")
 		)
@@ -32692,6 +33616,17 @@
 		)
 		(property "Description" ""
 			(at 218.44 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 218.44 187.96 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33622,6 +34557,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 139.7 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f0b40fcd-9066-4b03-a029-513beecc7975")
 		)
@@ -33773,6 +34719,17 @@
 		)
 		(property "Description" ""
 			(at 137.16 251.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 137.16 251.46 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

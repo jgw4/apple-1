@@ -3,9 +3,9 @@ This repository is a collection of different projects I've found around the inte
 # About the "Doppel-1"
 My personal contributions to this repo is the "Doppel-1", a new Replica PCB that is somewhat unique among clone boards floating around the internet. This is being done by working off of an imported copy of gerber files for the "PCB-11" replica that I found on [Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files), which were posted originally on a facebook group. The "PCB-11" is, I believe, the most common replica board you will see pictures of online as this is the only replica (that I know of) where the gerbers have been made publicly available. These are often marked on the back in the bottom right with "Apple 1 replica 2012-2016" in soldermasked copper. If a replica board was purchased post-2020, it is likely that it is based on these gerber files, as the Mimeo-1 has been out of production since that time and up unto the time of writing.
 
-The Doppel-1 can be considered a complete native rebuilding of "PCB-11" in KiCad, whereby the board has its own set of custom footprints that are unique to the apple-1, 3d models (where needed) for 3D rendering purposes, native KiCad filled zones, rule areas, Text, and traces, as well as error fixes and fabrication notes for a production-ready PCB. Notable mistakes from the original vary from the file itself to fabrication choices by the customer or the manufacturer. Clarifying remarks have been made to ensure that the PCB is being fabricated to make a reasonable replica. I have made some remarks about my observations so far:
+The Doppel-1 can be considered a complete native rebuilding of "PCB-11" in KiCad, whereby the board has its own set of custom footprints that are unique to the apple-1, 3d models, native KiCad filled zones, rule areas, text elements (where possible), traces, and netclasses, as well as error fixes and fabrication notes for a production-ready PCB. Notable mistakes from the original vary from the file itself, to the schematics, to fabrication choices by the customer or the manufacturer. Clarifying remarks have been made to ensure that the PCB is being fabricated to make a reasonable replica. I have made some remarks about my observations so far:
 
-## Design Notes
+## Design Notes And Changes
 
 1) The silkscreen text on the Apple-1 PCB is extremely difficult to reproduce. By all accounts it was hand-stenciled, and I have spent more time than I care to admit comparing uniform-stroke technical typefaces that are meant to replicate leroy lettering or other technical stencil packages that are freely available online, but none of them have quite matched what I have seen on the PCB-11 and on other clones. Trouble characters include "1" (with a top serif only), "4"(closed), "6", and "C". I have found the font "Routed Gothic" to be closest but kerning is not quite there, and it still does not match with the characters aforementioned.
 
@@ -17,6 +17,10 @@ The Doppel-1 can be considered a complete native rebuilding of "PCB-11" in KiCad
 
 5) silkscreen outlines for DIP sockets has been increased to a width of 10mils to match what is expected
 
+6) In the original manual's schematics, as well as the ones made by Nicolas, there is an error in the pinouts listed for the TO-220 diodes (REG1,REG3,REG4/LM320 MP-5/LM320 MP-12/LM340 MP-12). LM320 has ground at pin 1, while in and out are pins 2&3, respectively.LM340 has ground at 2 and in/out at 1/3 like a more standard diode in this package. This was discovered by DRC error checking.
+
+7) The top right mounting via has been moved right 100mils to match Mike Willegal's case dimension [here](https://www.willegal.net/appleii/apple1-enclosure.htm). My assumption is that these are truer than what were originally on the board
+
 ## Manufacturing Notes:
 
 If you are going to get your own replica board manufactured, read this first:
@@ -27,13 +31,15 @@ If you are going to get your own replica board manufactured, read this first:
 
 ## Why?
 
-Why did I do this? as Mike Willegal said, If you have to ask that question, this project isn't for you. I have had a strange fascination for the Apple-1 ever since I was a kid. I've been drawn to the technical artistry of the board, the simplicity of it, and find the case design around it a very cool method of self-expression.
+Why did I do this? as Mike Willegal said, If you have to ask that question, this project isn't for you. I have had a strange fascination for the Apple-1 ever since I was a kid. I've been drawn to the technical artistry of the board, the simplicity of it, and find the assembly process and case design around it a very cool method of self-expression.
 
 ## Status of the Doppel-1
 
-* Many footprints still need to be designed and assigned to schematic symbols
-* Text work is always ongoing and is probably the most time consuming part.
-* Due to the change of the dip pad shape and size, there are some pads bleeding into traces on the back
+* A few footprints still need to be designed and assigned to schematic symbols
+* Text work and graphic work is ongoing and is probably the most time consuming part.
+* Proper net classes still need assigned to all traces, ensuring proper spacing from all solder pads and enforcing a more rigorous Design Rules Check.
+* A few remaining unconnected footprints.
+* a few remaining schematic parity errors.
 
 
 ## Contents

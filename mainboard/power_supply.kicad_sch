@@ -7205,150 +7205,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "LM320_TO220_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at -6.35 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "LM320_TO220"
-				(at -6.35 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at -5.08 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at -5.08 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "3-Terminal Negative Regulator"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "TO-220-3*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "LM320_TO220_1_1_1"
-				(rectangle
-					(start -5.08 1.905)
-					(end 5.08 -5.08)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "apple1:7450"
 			(pin_names
 				(offset 1.016)
@@ -8558,10 +8414,10 @@
 						)
 					)
 				)
-				(pin power_out line
-					(at 7.62 0 180)
+				(pin power_in line
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "OUT"
+					(name "IN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8576,10 +8432,10 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -7.62 0 0)
+				(pin power_out line
+					(at 7.62 0 180)
 					(length 2.54)
-					(name "IN"
+					(name "OUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8846,10 +8702,10 @@
 						)
 					)
 				)
-				(pin power_out line
-					(at 7.62 0 180)
+				(pin power_in line
+					(at 0 -7.62 90)
 					(length 2.54)
-					(name "OUT"
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8864,10 +8720,10 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 -7.62 90)
+				(pin power_out line
+					(at 7.62 0 180)
 					(length 2.54)
-					(name "GND"
+					(name "OUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10719,6 +10575,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 97.79 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a7bf78a-c924-4436-a84e-e58f1642751d")
 		)
@@ -10735,7 +10602,6 @@
 		)
 	)
 	(symbol
-		(lib_name "LM320_TO220_1")
 		(lib_id "apple1:LM320_TO220")
 		(at 144.78 33.02 0)
 		(unit 1)
@@ -10766,7 +10632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "mainboard:LM320 MP-5 (TO-220-3_Vertical_SpacedPins)"
 			(at 139.7 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10800,6 +10666,17 @@
 			)
 		)
 		(property "Comment" "ALT: LM7905"
+			(at 144.78 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 144.78 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -10859,7 +10736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "mainboard:LM320 MP-12 (TO-220-3_Vertical_SpacedPins)"
 			(at 139.7 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -10893,6 +10770,17 @@
 			)
 		)
 		(property "Comment" "ALT: LM7912"
+			(at 144.78 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 144.78 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -10985,6 +10873,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 144.78 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "83720f60-7ef3-4ad8-b60f-893bb653d354")
 		)
@@ -11034,7 +10933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "mainboard:LM340-12 (TO-220-3_Vertical_SpacedPins)"
 			(at 146.05 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -11068,6 +10967,17 @@
 			)
 		)
 		(property "Comment" "ALT: LM7812"
+			(at 144.78 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 144.78 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11159,6 +11069,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 97.79 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "78c0e3a5-e634-439f-8c20-02d49380c181")
 		)
@@ -11229,6 +11150,17 @@
 		)
 		(property "Description" ""
 			(at 97.79 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 97.79 48.26 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11339,6 +11271,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 124.46 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a9af9e6e-9f66-40c9-9abd-68f54f81c96c")
 		)
@@ -11409,6 +11352,17 @@
 		)
 		(property "Description" ""
 			(at 97.79 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 97.79 53.34 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11509,6 +11463,17 @@
 			)
 		)
 		(property "Comment" ".3 LEAD SPACING"
+			(at 170.18 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 170.18 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11621,6 +11586,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 170.18 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f0573de5-5a63-42cf-b322-9d6cc9912e2e")
 		)
@@ -11713,6 +11689,17 @@
 			)
 		)
 		(property "Comment" ".3 LEAD SPACING"
+			(at 170.18 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 170.18 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -11825,6 +11812,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 124.46 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3c15d456-a52c-4a22-86e6-d0def7ac97a2")
 		)
@@ -11917,6 +11915,17 @@
 			)
 		)
 		(property "Comment" ".3 LEAD SPACING"
+			(at 170.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 170.18 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -12082,6 +12091,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 97.79 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "680e3b04-3fae-4567-9b21-63b14ef3189e")
 		)
@@ -12152,6 +12172,17 @@
 		)
 		(property "Description" ""
 			(at 97.79 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 97.79 73.66 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12238,6 +12269,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 97.79 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "730dfcf9-a941-4759-9263-afec23e0ac04")
 		)
@@ -12316,6 +12358,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 97.79 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7249c21-3e5d-451f-a38e-d7ffa0c91530")
 		)
@@ -12353,7 +12406,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5300u"
+		(property "Value" "5300UF"
 			(at 127.635 57.785 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12364,7 +12417,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_CP_5300UF_15V_+-"
 			(at 124.46 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -12408,6 +12461,17 @@
 			)
 		)
 		(property "Comment" ".3 LEAD SPACING"
+			(at 124.46 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
 			(at 124.46 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13175,6 +13239,17 @@
 		)
 		(property "Description" ""
 			(at 58.42 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 58.42 55.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14277,6 +14352,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 205.74 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "6c96a616-a58d-4f5f-a26f-a681dd199787")
 		)
@@ -14380,6 +14466,17 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 170.18 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 170.18 137.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14658,6 +14755,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 223.52 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "fb2bce21-e29d-4f79-8fd7-1fb9986040eb")
 		)
@@ -14767,6 +14875,17 @@
 		)
 		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 121.92 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 121.92 137.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15045,6 +15164,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 241.3 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d33d8ae9-f48d-40cc-9dcd-40656863b7a0")
 		)
@@ -15162,6 +15292,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 187.96 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "53eaa453-ae38-493f-8d7a-ff555b2e1ae7")
 		)
@@ -15271,6 +15412,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT AND GATE"
 			(at 259.08 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 259.08 137.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16161,6 +16313,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 35.56 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f2f49b5-4d02-4f38-9f69-27835cdab432")
 		)
@@ -16288,6 +16451,17 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 48.26 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 48.26 137.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16431,6 +16605,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 66.04 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3348c582-ddd6-4a3d-9623-20b3c2a80456")
 		)
@@ -16540,6 +16725,17 @@
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 78.74 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 78.74 137.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16665,6 +16861,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 91.44 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5e81d159-8ee0-40e7-b42e-5dfad60dd5f6")
 		)
@@ -16774,6 +16981,17 @@
 		)
 		(property "Description" "TRIPLE 3-INPUT NAND GATE"
 			(at 109.22 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 109.22 137.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16899,6 +17117,17 @@
 				)
 			)
 		)
+		(property "PCBDisplay" ""
+			(at 139.7 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "9"
 			(uuid "1ff72765-8e4d-4f91-a04f-c20446b832a0")
 		)
@@ -17014,6 +17243,17 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 157.48 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCBDisplay" ""
+			(at 157.48 137.16 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
