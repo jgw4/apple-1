@@ -7051,7 +7051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-8_W7.62mm"
 			(at 109.22 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -7148,7 +7148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 144.78 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7263,7 +7263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 76.2 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7378,7 +7378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 99.06 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7493,7 +7493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-16_W7.62mm"
 			(at 205.74 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7614,7 +7614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 76.2 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7729,7 +7729,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 121.92 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7845,7 +7845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 144.78 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7961,7 +7961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 167.64 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -8077,7 +8077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 190.5 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -8193,7 +8193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-16_W7.62mm"
 			(at 254 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -11554,7 +11554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 220.98 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11670,7 +11670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 233.68 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11786,7 +11786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+		(property "Footprint" "aci:apple-1_DIP-14_W7.62mm"
 			(at 246.38 48.26 0)
 			(hide yes)
 			(show_name no)

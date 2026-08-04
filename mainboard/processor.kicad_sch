@@ -23538,7 +23538,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d434884")
-		(property "Reference" "CAP8"
+		(property "Reference" "C8"
 			(at 248.158 253.238 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23603,17 +23603,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" "C8"
-			(at 246.38 254 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "e26c5d96-eab6-432f-b1e2-b3fe17839261")
 		)
@@ -23623,7 +23612,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP8")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -23641,7 +23630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d434bc0")
-		(property "Reference" "CAP9"
+		(property "Reference" "C9"
 			(at 248.412 237.998 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23706,17 +23695,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" "C9"
-			(at 246.38 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "d699633c-9e27-4874-b362-8c5b5328587f")
 		)
@@ -23726,7 +23704,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP9")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -23788,17 +23766,6 @@
 		)
 		(property "Description" ""
 			(at 256.54 241.3 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 256.54 241.3 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23885,17 +23852,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 256.54 251.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "5bfa8eee-4ed6-4c4f-a4b2-2f30ddeb2d41")
 		)
@@ -23968,17 +23924,6 @@
 		)
 		(property "Description" ""
 			(at 246.38 264.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 246.38 264.16 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24068,17 +24013,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 246.38 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "fb48a3ce-da37-45e8-9bf6-a8ebf712d58f")
 		)
@@ -24151,17 +24085,6 @@
 		)
 		(property "Description" ""
 			(at 487.68 276.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 487.68 276.86 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24320,17 +24243,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 91.44 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 91.44 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24775,17 +24687,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 63.5 274.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "e759dabf-4a17-4689-bae3-936f72363b8e")
 		)
@@ -24960,7 +24861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:ZJumper"
 			(at 118.11 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -24984,17 +24885,6 @@
 		)
 		(property "Description" ""
 			(at 116.84 254 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 116.84 254 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25048,7 +24938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:RJumper"
 			(at 59.69 306.07 0)
 			(hide yes)
 			(show_name no)
@@ -25072,17 +24962,6 @@
 		)
 		(property "Description" ""
 			(at 58.42 299.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 58.42 299.72 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25159,17 +25038,6 @@
 		)
 		(property "Description" "MULTIVIBRATOR"
 			(at 439.42 147.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 439.42 147.32 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25299,17 +25167,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 464.82 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "10"
 			(uuid "e78202bf-0668-415c-89a0-44fd462e518e")
 		)
@@ -25418,17 +25275,6 @@
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 464.82 170.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 464.82 170.18 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25553,17 +25399,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 403.86 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "827bc487-d175-4293-8429-08e458e89cfd")
 		)
@@ -25672,17 +25507,6 @@
 		)
 		(property "Description" ""
 			(at 419.1 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 419.1 132.08 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25934,17 +25758,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 335.28 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "10"
 			(uuid "27111fba-7a21-4584-a85c-5cc8c3dab132")
 		)
@@ -26130,17 +25943,6 @@
 		)
 		(property "Description" ""
 			(at 406.4 220.98 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 406.4 220.98 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26339,17 +26141,6 @@
 		)
 		(property "Description" ""
 			(at 406.4 276.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 406.4 276.86 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26708,17 +26499,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 454.66 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "4"
 			(uuid "b6624fc0-2c1b-4fdb-8725-9030534034af")
 		)
@@ -26910,17 +26690,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 91.44 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 91.44 137.16 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27355,17 +27124,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 454.66 294.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "11"
 			(uuid "9fc4750b-5760-4725-8138-54e010a73ca1")
 		)
@@ -27763,7 +27521,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:WJumper"
 			(at 59.69 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -27795,17 +27553,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 58.42 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "50e0060d-10f9-4f66-a65d-5c0abe15d883")
 		)
@@ -27829,7 +27576,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d828a37")
-		(property "Reference" "CAP12"
+		(property "Reference" "C12"
 			(at 261.874 233.426 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27881,18 +27628,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 266.7 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" "C12"
+		(property "Comment" ""
 			(at 266.7 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -27912,7 +27648,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP12")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -28059,17 +27795,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 408.94 347.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "a1e990c7-82f2-4cfa-af77-37782ccc57ae")
 		)
@@ -28195,17 +27920,6 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 408.94 335.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 408.94 335.28 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28347,17 +28061,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 408.94 322.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "443bc945-dc84-4d41-9237-1c88b41c17ab")
 		)
@@ -28483,17 +28186,6 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 408.94 309.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 408.94 309.88 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28629,17 +28321,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 132.08 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 132.08 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29076,17 +28757,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 132.08 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "4"
 			(uuid "db100479-2706-4128-bf8e-6a44aedad2ea")
 		)
@@ -29514,17 +29184,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 403.86 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "11"
 			(uuid "c60dddcf-5f47-4762-a1c1-cc2946609e54")
 		)
@@ -29634,17 +29293,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 172.72 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 172.72 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30081,17 +29729,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 172.72 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "02803ca7-f806-43dd-b437-9fc733d5b65c")
 		)
@@ -30512,17 +30149,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 213.36 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 213.36 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30959,17 +30585,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 213.36 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "8"
 			(uuid "2669ad49-f3e3-4a75-98b1-cbf1617079e8")
 		)
@@ -31365,7 +30980,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:XJumper"
 			(at 59.69 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -31389,17 +31004,6 @@
 		)
 		(property "Description" ""
 			(at 58.42 53.34 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 58.42 53.34 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31555,17 +31159,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 254 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 254 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32002,17 +31595,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 254 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "10"
 			(uuid "20eb7364-0393-4aed-974d-64ebc71f9b4a")
 		)
@@ -32433,17 +32015,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 294.64 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 294.64 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32880,17 +32451,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 294.64 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "117f8de9-0d51-419f-b601-25f7c012db01")
 		)
@@ -33311,17 +32871,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 335.28 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 335.28 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33758,17 +33307,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 335.28 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "6"
 			(uuid "6fea8c2b-b7d2-4310-ace1-41ba38bd9348")
 		)
@@ -34197,17 +33735,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 375.92 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "900a2a31-7cea-4161-84ca-5db2826aae8c")
 		)
@@ -34628,17 +34155,6 @@
 		)
 		(property "Description" "4096x1-BIT DYNAMIC RAM"
 			(at 375.92 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 375.92 137.16 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35118,7 +34634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:SJumper"
 			(at 59.69 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -35142,17 +34658,6 @@
 		)
 		(property "Description" ""
 			(at 58.42 274.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 58.42 274.32 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35205,7 +34710,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:YJumper"
 			(at 440.69 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -35237,17 +34742,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 439.42 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "17538317-8ef5-4a19-b504-bd54f6433f8e")
 		)
@@ -35271,7 +34765,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d958e9c")
-		(property "Reference" "C1"
+		(property "Reference" "C_IC1"
 			(at 233.68 267.462 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35316,17 +34810,6 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 233.68 266.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 233.68 266.7 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35380,7 +34863,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "C1")
+					(reference "C_IC1")
 					(unit 6)
 				)
 			)
@@ -35419,7 +34902,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:TJumper"
 			(at 69.85 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -35443,17 +34926,6 @@
 		)
 		(property "Description" ""
 			(at 71.12 271.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 71.12 271.78 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35715,7 +35187,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d9a5f73")
-		(property "Reference" "C1"
+		(property "Reference" "C_IC1"
 			(at 233.68 282.702 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35760,17 +35232,6 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 233.68 281.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 233.68 281.94 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35824,7 +35285,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "C1")
+					(reference "C_IC1")
 					(unit 3)
 				)
 			)
@@ -35841,7 +35302,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d9a7065")
-		(property "Reference" "C1"
+		(property "Reference" "C_IC1"
 			(at 233.68 297.942 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35886,17 +35347,6 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 233.68 297.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 233.68 297.18 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35950,7 +35400,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "C1")
+					(reference "C_IC1")
 					(unit 2)
 				)
 			)
@@ -35967,7 +35417,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d9a7f56")
-		(property "Reference" "C1"
+		(property "Reference" "C_IC1"
 			(at 233.68 312.928 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36012,17 +35462,6 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 233.68 312.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 233.68 312.42 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36076,7 +35515,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "C1")
+					(reference "C_IC1")
 					(unit 1)
 				)
 			)
@@ -36094,7 +35533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d9aa3d6")
-		(property "Reference" "C1"
+		(property "Reference" "C_IC1"
 			(at 233.68 247.396 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36139,17 +35578,6 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 233.68 246.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 233.68 246.38 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36203,7 +35631,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "C1")
+					(reference "C_IC1")
 					(unit 5)
 				)
 			)
@@ -36221,7 +35649,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d9ab690")
-		(property "Reference" "C1"
+		(property "Reference" "C_IC1"
 			(at 233.68 232.156 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36266,17 +35694,6 @@
 		)
 		(property "Description" "HEX INVERTER"
 			(at 233.68 231.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 233.68 231.14 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36330,7 +35747,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "C1")
+					(reference "C_IC1")
 					(unit 4)
 				)
 			)
@@ -36392,17 +35809,6 @@
 		)
 		(property "Description" "16-LINE DECODER/MULTIPLEXER"
 			(at 454.66 342.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 454.66 342.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36524,7 +35930,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_TO-92_HandSolder"
 			(at 259.08 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -36548,17 +35954,6 @@
 		)
 		(property "Description" ""
 			(at 254 259.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 254 259.08 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36618,7 +36013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_TO-92_HandSolder"
 			(at 259.08 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -36642,17 +36037,6 @@
 		)
 		(property "Description" ""
 			(at 254 233.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 254 233.68 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36766,7 +36150,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005da3c6a1")
-		(property "Reference" "CAP19"
+		(property "Reference" "C19"
 			(at 410.845 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36820,18 +36204,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 419.1 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 419.1 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -36851,7 +36224,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP19")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -36914,17 +36287,6 @@
 		)
 		(property "Description" ""
 			(at 294.64 228.6 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 294.64 228.6 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37005,17 +36367,6 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 91.44 165.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 91.44 165.1 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37106,7 +36457,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ddb4347")
-		(property "Reference" "CAP20"
+		(property "Reference" "C20"
 			(at 210.6168 321.2084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37160,18 +36511,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 208.28 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 208.28 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -37191,7 +36531,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP20")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -37254,17 +36594,6 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 132.08 165.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 132.08 165.1 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37407,17 +36736,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 172.72 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "2f897e41-7861-4cb0-8095-e55c0d655ed6")
 		)
@@ -37544,17 +36862,6 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 213.36 165.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 213.36 165.1 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37697,17 +37004,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 254 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "16d10e3a-564a-483d-a935-916cbeb12bbe")
 		)
@@ -37834,17 +37130,6 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 294.64 165.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 294.64 165.1 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37987,17 +37272,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 335.28 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "c8822845-cfa3-4fbc-ab9f-966c1bb5db0b")
 		)
@@ -38124,17 +37398,6 @@
 		)
 		(property "Description" "TRI-STATE HEX BUFFER"
 			(at 375.92 165.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 375.92 165.1 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38353,17 +37616,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 307.34 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "81bf70b8-5522-44a5-8e9d-3d4a58c63847")
 		)
@@ -38437,17 +37689,6 @@
 		)
 		(property "Description" ""
 			(at 477.52 342.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 477.52 342.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38830,7 +38071,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f35b4ad")
-		(property "Reference" "CAP10"
+		(property "Reference" "C10"
 			(at 248.158 303.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38895,17 +38136,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" "C10"
-			(at 246.38 304.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "2f91b4f6-5d50-4183-bb3d-3cda2bb03c78")
 		)
@@ -38915,7 +38145,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP10")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -38933,7 +38163,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f35b4b3")
-		(property "Reference" "CAP11"
+		(property "Reference" "C11"
 			(at 247.904 288.798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38998,17 +38228,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" "C11"
-			(at 246.38 289.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "24550466-b583-4e79-9b33-49210742b423")
 		)
@@ -39018,7 +38237,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP11")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -39080,17 +38299,6 @@
 		)
 		(property "Description" ""
 			(at 256.54 292.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 256.54 292.1 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39177,17 +38385,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 256.54 302.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "9cdfaa55-3eec-44f2-befd-152aa10b1fa8")
 		)
@@ -39260,17 +38457,6 @@
 		)
 		(property "Description" ""
 			(at 246.38 314.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 246.38 314.96 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39360,17 +38546,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 246.38 279.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "4cbf9adf-5f06-4122-801d-b57f883d3d9f")
 		)
@@ -39397,7 +38572,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f35b4d1")
-		(property "Reference" "CAP13"
+		(property "Reference" "C13"
 			(at 261.874 283.718 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39449,18 +38624,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 266.7 284.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" "C13"
+		(property "Comment" ""
 			(at 266.7 284.48 0)
 			(hide yes)
 			(show_name no)
@@ -39480,7 +38644,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP13")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -39672,7 +38836,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_TO-92_HandSolder"
 			(at 259.08 307.34 0)
 			(hide yes)
 			(show_name no)
@@ -39696,17 +38860,6 @@
 		)
 		(property "Description" ""
 			(at 254 309.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 254 309.88 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39766,7 +38919,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_TO-92_HandSolder"
 			(at 259.08 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -39790,17 +38943,6 @@
 		)
 		(property "Description" ""
 			(at 254 284.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 254 284.48 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39892,17 +39034,6 @@
 			)
 		)
 		(property "Comment" "Alt: 6520"
-			(at 132.08 271.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
 			(at 132.08 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -40099,17 +39230,6 @@
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 254 213.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 254 213.36 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40386,17 +39506,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 431.8 363.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "4"
 			(uuid "bfefe933-0bd3-46ef-a73f-70fe134c0049")
 		)
@@ -40505,17 +39614,6 @@
 		)
 		(property "Description" ""
 			(at 167.64 218.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 167.64 218.44 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40822,7 +39920,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fa808b2")
-		(property "Reference" "C15"
+		(property "Reference" "C_IC15"
 			(at 177.8 300.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40867,17 +39965,6 @@
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 177.8 302.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 177.8 302.26 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40931,7 +40018,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "C15")
+					(reference "C_IC15")
 					(unit 4)
 				)
 			)
@@ -40993,17 +40080,6 @@
 		)
 		(property "Description" "MULTIVIBRATOR"
 			(at 182.88 317.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 182.88 317.5 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41134,17 +40210,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 302.26 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "3b14aefa-5d37-464a-9298-f4b4a9479534")
 		)
@@ -41217,17 +40282,6 @@
 		)
 		(property "Description" ""
 			(at 208.28 312.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 208.28 312.42 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41469,17 +40523,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 157.48 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "6a57b861-4ff4-4acc-8afc-4eb4379b8a46")
 		)
@@ -41560,17 +40603,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 157.48 297.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "50c84f96-c3b6-45c9-9ce7-43ce704719ed")
 		)
@@ -41642,17 +40674,6 @@
 		)
 		(property "Description" "QUAD 2-INPUT NAND GATE"
 			(at 403.86 187.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 403.86 187.96 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41777,17 +40798,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 287.02 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "de43650a-b7a4-4b71-8971-11bc0bdd2a3a")
 		)
@@ -41860,17 +40870,6 @@
 		)
 		(property "Description" ""
 			(at 279.4 231.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 279.4 231.14 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41959,17 +40958,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 309.88 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "d4298902-1bcd-426f-b798-bf93e69b0272")
 		)
@@ -41996,7 +40984,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063bb3978")
-		(property "Reference" "CAP21"
+		(property "Reference" "C21"
 			(at 27.94 97.536 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42050,18 +41038,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 27.94 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 27.94 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -42081,7 +41058,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP21")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -42098,7 +41075,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063cac82d")
-		(property "Reference" "CAP22"
+		(property "Reference" "C22"
 			(at 35.56 97.536 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42152,18 +41129,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 35.56 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 35.56 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -42183,7 +41149,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP22")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -42200,7 +41166,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063cacb27")
-		(property "Reference" "CAP23"
+		(property "Reference" "C23"
 			(at 43.18 97.536 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42254,18 +41220,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 43.18 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 43.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -42285,7 +41240,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP23")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -42302,7 +41257,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063cacf4a")
-		(property "Reference" "CAP24"
+		(property "Reference" "C24"
 			(at 50.8 97.536 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42356,18 +41311,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 50.8 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 50.8 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -42387,7 +41331,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP24")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -42404,7 +41348,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063cad301")
-		(property "Reference" "CAP15"
+		(property "Reference" "C15"
 			(at 27.94 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42458,18 +41402,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 27.94 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 27.94 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -42489,7 +41422,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP15")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -42506,7 +41439,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063cadd83")
-		(property "Reference" "CAP16"
+		(property "Reference" "C16"
 			(at 35.56 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42560,18 +41493,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 35.56 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 35.56 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -42591,7 +41513,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP16")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -42608,7 +41530,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063cae4b5")
-		(property "Reference" "CAP17"
+		(property "Reference" "C17"
 			(at 43.18 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42662,18 +41584,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 43.18 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 43.18 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -42693,7 +41604,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP17")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -42710,7 +41621,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063cae8a2")
-		(property "Reference" "CAP18"
+		(property "Reference" "C18"
 			(at 50.8 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42764,18 +41675,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 50.8 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 50.8 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -42795,7 +41695,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP18")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -42812,7 +41712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063caecc5")
-		(property "Reference" "CAP14"
+		(property "Reference" "C14"
 			(at 27.94 125.476 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42866,18 +41766,7 @@
 				)
 			)
 		)
-		(property "Comment" ".3 LEAD SPACING"
-			(at 27.94 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
+		(property "Comment" ""
 			(at 27.94 127 0)
 			(hide yes)
 			(show_name no)
@@ -42897,7 +41786,7 @@
 		(instances
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
-					(reference "CAP14")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -43349,17 +42238,6 @@
 				)
 			)
 		)
-		(property "PCBDisplay" ""
-			(at 459.74 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "787ed98c-32cb-4ab1-b7c0-24fcfa5cdd4f")
 		)
@@ -43473,17 +42351,6 @@
 		)
 		(property "Description" "PROM 256X4"
 			(at 502.92 91.44 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PCBDisplay" ""
-			(at 502.92 91.44 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
