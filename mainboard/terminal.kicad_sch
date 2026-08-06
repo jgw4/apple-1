@@ -29458,7 +29458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:CP_Axial_25u"
 			(at 248.92 350.52 0)
 			(hide yes)
 			(show_name no)

@@ -36161,7 +36161,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47PF"
+		(property "Value" "47 PF"
 			(at 413.385 142.875 0)
 			(show_name no)
 			(do_not_autoplace no)

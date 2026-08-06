@@ -25,7 +25,7 @@ For further information on the projects in questions, read the README.md within 
 
 ## Other Things to check out
 
-[Apple 1 Riser Card](https://p-l4b.github.io/riser/) - PCB to allow mounting expansion cards horizontally
+[P-Lab Projects](https://p-l4b.github.io) - Hosts various neat expansion cards and mods for the apple-1, such as a Wi-Fi Card, SD Storage card, riser card, sound card, Video card, various IC replacement boards, expansion port breadboards, and much more. Really cool stuff!
 
 ## Goals and Contributing
 
