@@ -5,7 +5,7 @@ The PCB File is being made by importing gerber files first into KiCad, and mappi
 
 # To Do
 ## Schematics
-- footprints need assigned to all components within all schematic files. this in most cases require the creating of custom footprints to ensure reproduction accuracy
+- a schematic is needed for the serial board
 ## PCB
 - assign accurate pin mappings to all component footprints
 - place footprints in their exact spot on the PCB.

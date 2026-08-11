@@ -7,9 +7,15 @@ For further information on the projects in questions, read the README.md within 
 
 [`/doc/`](./doc/) - Contains various instruction manuals for building, soldering, wiring, and using the Apple-1 and its various accessories
 
-[`/aci/`](./aci/) - Project folder for rebuilding the Apple Cassette Interface in KiCad
+[`/aci/`](./aci/) - Project folder for rebuilding the Apple Cassette Interface in KiCad (Complete)
 
 [`/serialboard/`](./serialboard/) - Project folder for rebuilding the Apple Serial Interface in KiCad
+
+[`/graphicard/`](./graphicard/) - Mirror and minor alteration of the original P-L4B graphics card [here](https://p-l4b.github.io/graphic/) based on the Texas Instruments VDP TMS9918A. It has been modified cosmetically to look more similar to the Apple Cassette Interface. This project is licensed under CC BY 4.0 by the creator.
+
+[`/protoboard/`](./protoboard/) - Mirror and minor alteration of the original P-L4B proto board [here](https://p-l4b.github.io/proto/). It has been modified cosmetically to look more similar to the Apple Cassette Interface. This project is licensed under CC BY 4.0 by the creator.
+
+[`/risercard/`](./risercard/) - Mirror and minor alteration of the original P-L4B riser board [here](https://p-l4b.github.io/riser/). It has been modified cosmetically to look more similar to the Apple Cassette Interface. This project is licensed under CC BY 4.0 by the creator.
 
 [`/transformers/`](./transformers/) - KiCad Schematics for the transformer wiring of the Apple-1
 
@@ -32,7 +38,7 @@ For further information on the projects in questions, read the README.md within 
 If you'd like to contribute, I'm always happy to accept work on anything that makes these files more accurate and complete. For more details, see the `readme.md` file located within each board's folder
 
 ### Schematics
-- Schematic files need creating for the original Datanetics keyboard and Serial Board
+- Schematic files need creating for the original Datanetics keyboard
 
 #### Datanetics Keyboard (Modern)
 The PCB file requires the installation of the plug-in library for Cherry MX keyswitches

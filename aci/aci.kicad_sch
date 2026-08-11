@@ -8481,7 +8481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 76.2 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -8559,7 +8559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 93.98 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -8798,7 +8798,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "aci:aci_phonopads_frmtape"
 			(at 58.42 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8880,7 +8880,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "aci:aci_phonopads"
 			(at 177.8 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -9036,7 +9036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 81.28 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9127,7 +9127,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 91.44 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9218,7 +9218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 81.28 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9309,7 +9309,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 91.44 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9400,7 +9400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 119.38 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9480,7 +9480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 119.38 127 0)
 			(hide yes)
 			(show_name no)
@@ -9558,7 +9558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "aci:C_Disc_.01_p350MILS"
 			(at 76.2 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -9638,7 +9638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "aci:aci_edgecon"
 			(at 62.23 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9867,7 +9867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "aci:aci_edgecon"
 			(at 62.23 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10019,7 +10019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "~"
+		(property "Footprint" "aci:aci_edgecon"
 			(at 220.98 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10630,7 +10630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 162.56 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -10710,7 +10710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "aci:R_Axial_ACI"
 			(at 162.56 55.88 0)
 			(hide yes)
 			(show_name no)
