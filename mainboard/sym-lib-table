@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "apple1") (type "KiCad") (uri "${KIPRJMOD}/mainboard.kicad_sym") (options "") (descr ""))
 	(lib (name "apple1-cache") (type "KiCad") (uri "${KIPRJMOD}/mainboard-cache.kicad_sym") (options "") (descr "Legacy project cache library"))
+	(lib (name "apple1_transformers") (type "KiCad") (uri "C:/Users/jgw/Desktop/apple-1/transformers/apple1_transformers.kicad_sym") (options "") (descr ""))
 )

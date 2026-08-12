@@ -17,8 +17,6 @@ For further information on the projects in questions, read the README.md within 
 
 [`/risercard/`](./risercard/) - Mirror and minor alteration of the original P-L4B riser board [here](https://p-l4b.github.io/riser/). It has been modified cosmetically to look more similar to the Apple Cassette Interface. This project is licensed under CC BY 4.0 by the creator.
 
-[`/transformers/`](./transformers/) - KiCad Schematics for the transformer wiring of the Apple-1
-
 [`/datanetics_modern/`](./datanetics_modern/)- Datanetics Keyboard - Modern Version (Built by [@schlae](https://github.com/schlae/replica-datanetics))
 
 [`/datanetics_original`](./datanetics_original/) - Datanetics Keyboard (Original) (Built by [willegal](https://www.willegal.net/appleii/apple1-datanetics.htm))

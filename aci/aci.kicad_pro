@@ -701,8 +701,13 @@
         "uuid": "c8efda9f-6b81-45c5-ba35-9d68b9bcdf6a"
       }
     ],
-    "used_designators": "",
-    "variants": []
+    "used_designators": "C2-3",
+    "variants": [
+      {
+        "description": "includes decoupling capacitors",
+        "name": "Gen2 (Enhanced)"
+      }
+    ]
   },
   "sheets": [
     [

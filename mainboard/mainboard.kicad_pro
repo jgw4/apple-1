@@ -702,7 +702,7 @@
         "uuid": "b38b6155-24ef-4e7a-9d9a-2cb213939c19"
       }
     ],
-    "used_designators": "",
+    "used_designators": "F1,J15,SW1,P1,T1-2",
     "variants": []
   },
   "sheets": [
@@ -721,6 +721,10 @@
     [
       "00000000-0000-0000-0000-00005d344fb6",
       "Terminal Section"
+    ],
+    [
+      "ce884242-f600-4f09-b1c9-b574d7c26c83",
+      "Transformers"
     ]
   ],
   "text_variables": {},
