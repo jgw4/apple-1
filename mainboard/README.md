@@ -1,3 +1,5 @@
+![Doppel-1 Current Status](/img/doppel1status.png)
+
 # About the "Doppel-1"
 My personal contributions to this repo is the "Doppel-1", a new Replica PCB that is somewhat unique among clone boards floating around the internet. This is being done by working off of an imported copy of gerber files for the "PCB-11" replica that I found on [Applefritter Forums](https://www.applefritter.com/content/apple-1-replica-gerber-files), which were posted originally on a facebook group. The "PCB-11" is, I believe, the most common replica board you will see pictures of online as this is the only replica (that I know of) where the gerbers have been made publicly available. These are often marked on the back in the bottom right with "Apple 1 replica 2012-2016" in soldermasked copper. If a replica board was purchased post-2020, it is likely that it is based on these gerber files, as the Mimeo-1 has been out of production since that time and up unto the time of writing.
 
