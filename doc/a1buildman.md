@@ -2,10 +2,17 @@
 
 By Mike Willegal (www.willegal.net)
 
-revision 1.1
+Compiled from revision 1.1
+
+with Remarks from "Uncle Bernie"
 
 Reformatted in Markdown and Edited for general projects by jgw4
 
+## Preface
+
+This document in large part was written long before me by Mike Willegal, and most of the instructions in this document are his and his alone. My contributions to this document include the addition of installation tips that are also not of my origination. Mostly Uncle Bernie is the source of these additions. I have also added section to the document that includes enhancements, mainly a transcription, in text form, of the locations of the extra decoupling capacitors and terminating resistors noted by hobbyists such as Uncle Bernie and others. I just want to be clear that there is not much at all in the way of original work in this document, but rather it can be considered a compilation work, giving starting hobbyists a central document to understand the length and breadth of the task set out for them.
+
+## Safety
 > [!CAUTION]
 > This computer was designed by a hobbyist for hobbyists in the burgeoning new hobby of personal computing in 1976. Safety standards were nonexistent or ignored. The designer assumed that the purchaser had either electronics knowledge or a access to a group of friends that could provide this knowledge and guidance. It is strongly advised to not attempt this project if you have neither electronics knowledge or friends that can help you. Connection of the transformers to your house wiring is left to you. There are rudimentary instructions in the Apple-1 Operation Manual. If you don’t feel comfortable with this task, assume that you don’t have the qualifications to build this kit and either find some help, or return your parts.
 > 
@@ -591,18 +598,21 @@ properly constructed replica, you should have no trouble with intermittent socke
 vintage Apple computers.
 
 ## Chapter 8: Enhancements to the System
+
+![Uncle Bernie's Capacitors](/img/ReliabMods.jpg)
+
 ### 1. Extra Decoupling Capacitors
 It has been well noted among enthusiasts that the Apple-1  does not have enough decoupling capacitors. It has been advised to add additional .1UF decoupling capacitors to the board to make the computer more reliable, on top of the ones that are traditionally populated on the board. This can be done in a few different ways, but most commonly axial capacitors are soldered between the spacer portions of the IC socket pins needed to hide them, soldered to the back side of the board using the back solder pads of the sockets, or they can be jumped to from capacitors mounted in the breadboard area. Whatever solution you choose, it is strongly suggested to do this if you will be using the computer frequently. To preserve aesthetics, many choose to find small axial MLCCs that can be hidden under IC sockets or behind the board.
 
 An industry rule of thumb I have read is that 1 of every 2 chips needs a decoupling cap, so not every socket needs a capacitor. There are 24 needed in total, and a value of .1UF is advised.
 
 Locations and quantity of the extra decoupling capacitors needed are as follows:
-* 1 between pins 8 and 16 of either PROM A1 or PROM A2
+* 1 between pins 8 and 16 of PROM A2
 * 1 between pins 1 and 8 of the 6502 or between pins 1 and 20 of the 6820 (spanning this is difficult, the 6502 is the easier and shorter option)
-* 7 between pins 1 and 16 of RAM chips W0 (A18), W2(A16), W6(A12), X1 (B17), X3(B15), X5(B13), and X7 (B11).
-* 4 (2 per ram chip) on chips W4 and W7. 1 capacitor should bridge pin 9 (+5V) and pin 16 (GND), and the other capacitor should join pin 1 (-5V) and the ground leg (pin 16 connected) of the other capacitor
+* 8 between pins 1 and 16 of RAM chips W0 (A18), W2(A16), W6(A12), W7 (A11), X1 (B17), X3(B15), X5(B13), and X7 (B11).
+* 4 (2 per ram chip) on chips W4 and W7. 1 capacitor should bridge pin 9 (+5V) and pin 16 (GND), and the other capacitor should join pin 1 and pin 16
 * 1 between pins 9 and 16 of X4 (B14)
-* 2 Between pins 8 and 16 of 2 of the 4 74S257 located at B5-B8
+* 2 Between pins 8 and 16 of 2 of the 4 74S257 located at B5-B6
 * 1 between pins 3 and 6 of DS0025 (C11A)
 * 1 between pins 8 and 16 of 74157 (C4)
 * 1 between pins 1 and 8 of the 555 timer at D13
@@ -610,10 +620,19 @@ Locations and quantity of the extra decoupling capacitors needed are as follows:
 * 1 between pins 8 and 16 of 74166 at D1
 
 The decoupling locations below span chips and cannot be hidden within a socket
+* 1 between pin 8 of 8T97 (A10) and pin 9 of W7 (A11)
 * 1 between pin 4 of 2504 at D5A and pin 8 of 74160 at D6
 * 1 between pin 4 of 2504 at D14A and pin 8 of 74161 at D15
 * 1 in the space between chip locations C11 and C12, there is a 3k resistor with a pad connected to pin 4 of the C11B 2504 (this can be observed on the back copper trace), and a capcitor marked 1.0 with a pad connected to the large ground rail above the chip (this can be observed on the front copper trace). These two pads should be joined with a decoupling capacitor on the back of the board.
 
 ### 2. Termination Resistors
 
+there are 6 390 Ohm termination resistors advised in the following locations
 
+* 3 between pin 9 (ground) of W6 (A12) and pins 5,6, and 7 of W7 (A11). 
+* 3 between pin 9 and pins 10, 11, and 12 of W7 (A11)
+
+
+1 additional 20k Ohm resistor is advised for the keyboard connector. Uncle Bernie says: "[This] allows to [sic] unplug the keyboard cable while the Apple-1 runs, without spurious phantom key entries being provoked."
+
+* B4, between pins 9 and 14 (keyboard connector)
