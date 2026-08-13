@@ -67,6 +67,9 @@ Reformatted in Markdown and Edited for general projects by jgw4
   - [4. Clean PCB](#4-clean-pcb)
   - [5. Power Up and Retest the Computer](#5-power-up-and-retest-the-computer)
 - [Chapter 7: Troubleshooting and Help](#chapter-7-troubleshooting-and-help)
+- [Chapter 8: Enhancements to the System](#chapter-8-enhancements-to-the-system)
+  - [1. Extra Decoupling Capacitors](#1-extra-decoupling-capacitors)
+  - [2. Termination Resistors](#2-termination-resistors)
 
 ## Forward
 When completed, your Apple 1 computer kit will become an accurate reproduction of one of the most famous computers in the short history of digital computing. The Apple 1 was the first product built and marketed by Apple Computer. The circuitry was designed and prototyped built by Steve Wozniak, prior to the creation of Apple Computer. As Apple was formed, the circuitry designed by Steve Wozniak was turned into a PCB layout by Atari employee, Howard Cantin.
@@ -153,6 +156,7 @@ Examine and identify all parts you have purchased. Confirm any alternative parts
 | Video header | 4 pin header | 1 |
 | Stancor P-8667 | transformer for +12, -12, -5 | 1 |
 | Stancor P-8380 | transformer for +5 | 1 |
+| Fuse | 0.5A Slow Blow |1|
 
 #### Passive parts and hardware
 
@@ -195,6 +199,7 @@ Examine and identify all parts you have purchased. Confirm any alternative parts
 | Parts (soldered) |  | 160 |
 | Types (total) |  | 69 |
 | Parts (total) |  | 221 |
+| .1UF | Additional axial decoupling capacitors (see chapter 8)|24|
 
 ## Chapter 2: Solder In Sockets and Components
 
@@ -313,8 +318,7 @@ pacitors. Locations are approximate.
 ### 12. Repeat Check for Power and Ground Shorts
 
 ### 13. Solder In Resistors
-Use same process as used for capacitors when soldering. For extra good looks, align all the horizontally ori-
-ented resistors the same way (with the gold tolerance bar on the same end). Same thing with vertically oriented
+Use same process as used for capacitors when soldering. For extra good looks, align all the horizontally oriented resistors the same way (with the gold tolerance bar on the same end). Same thing with vertically oriented
 resistors.
 
 | Part | Location | Description |
@@ -334,6 +338,9 @@ resistors.
 | 390 $\Omega$ (2) | D-12 (both) | orange-white-brown |
 | 10K $\Omega$ (2) | D-13 (both) | brown-black-orange |
 | 3000 $\Omega$ (2) | inbetween D-14/15 (both) | orange-black-red |
+
+>[!TIP]
+>After installing the resistors, Uncle Bernie suggests measuring all of them and replacing any that have had their resistance values deviated or are completely open after soldering. Let the joints cool down before measuring.
 
 ### 14. Solder In Diodes
 >[!NOTE]
@@ -396,6 +403,9 @@ The electrolytic caps must be oriented correctly. There are two ends, positive a
 | --- | --- | --- |
 | 5300 $\mu$ F | D-1 | orient correctly, unregulated +5v |
 | 2400 $\mu$ F(2) | C-17 (both) | orient correctly, (one in each direction). Unregulated -12V & +12V |
+
+>[!TIP]
+> Place a piece of 3M double-sided tape on the PCB where the large capacitors are to be soldered. This helps with mechanical stability and soldering.
 
 ### 20. Repeat Check for Power and Ground Shorts
 
@@ -579,3 +589,31 @@ The complexity of the processor and video systems can make troubleshooting an Ap
 Refer to my Apple II repair page at www.willegal.net for some general troubleshooting hints. Note, that with a
 properly constructed replica, you should have no trouble with intermittent sockets that are constant issues with
 vintage Apple computers.
+
+## Chapter 8: Enhancements to the System
+### 1. Extra Decoupling Capacitors
+It has been well noted among enthusiasts that the Apple-1  does not have enough decoupling capacitors. It has been advised to add additional .1UF decoupling capacitors to the board to make the computer more reliable, on top of the ones that are traditionally populated on the board. This can be done in a few different ways, but most commonly axial capacitors are soldered between the spacer portions of the IC socket pins needed to hide them, soldered to the back side of the board using the back solder pads of the sockets, or they can be jumped to from capacitors mounted in the breadboard area. Whatever solution you choose, it is strongly suggested to do this if you will be using the computer frequently. To preserve aesthetics, many choose to find small axial MLCCs that can be hidden under IC sockets or behind the board.
+
+An industry rule of thumb I have read is that 1 of every 2 chips needs a decoupling cap, so not every socket needs a capacitor. There are 24 needed in total, and a value of .1UF is advised.
+
+Locations and quantity of the extra decoupling capacitors needed are as follows:
+* 1 between pins 8 and 16 of either PROM A1 or PROM A2
+* 1 between pins 1 and 8 of the 6502 or between pins 1 and 20 of the 6820 (spanning this is difficult, the 6502 is the easier and shorter option)
+* 7 between pins 1 and 16 of RAM chips W0 (A18), W2(A16), W6(A12), X1 (B17), X3(B15), X5(B13), and X7 (B11).
+* 4 (2 per ram chip) on chips W4 and W7. 1 capacitor should bridge pin 9 (+5V) and pin 16 (GND), and the other capacitor should join pin 1 (-5V) and the ground leg (pin 16 connected) of the other capacitor
+* 1 between pins 9 and 16 of X4 (B14)
+* 2 Between pins 8 and 16 of 2 of the 4 74S257 located at B5-B8
+* 1 between pins 3 and 6 of DS0025 (C11A)
+* 1 between pins 8 and 16 of 74157 (C4)
+* 1 between pins 1 and 8 of the 555 timer at D13
+* 1 between pins 4 and 8 of a 2504 at D4 or D5
+* 1 between pins 8 and 16 of 74166 at D1
+
+The decoupling locations below span chips and cannot be hidden within a socket
+* 1 between pin 4 of 2504 at D5A and pin 8 of 74160 at D6
+* 1 between pin 4 of 2504 at D14A and pin 8 of 74161 at D15
+* 1 in the space between chip locations C11 and C12, there is a 3k resistor with a pad connected to pin 4 of the C11B 2504 (this can be observed on the back copper trace), and a capcitor marked 1.0 with a pad connected to the large ground rail above the chip (this can be observed on the front copper trace). These two pads should be joined with a decoupling capacitor on the back of the board.
+
+### 2. Termination Resistors
+
+

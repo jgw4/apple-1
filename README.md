@@ -31,6 +31,8 @@ For further information on the projects in questions, read the README.md within 
 
 [P-Lab Projects](https://p-l4b.github.io) - Hosts various neat expansion cards and mods for the apple-1, such as a Wi-Fi Card, SD Storage card, riser card, sound card, Video card, various IC replacement boards, expansion port breadboards, and much more. Really cool stuff!
 
+[Erik's Ponderings - Building an Apple-1](https://blog.bruchez.name/posts/apple-1-reproduction-part-1-components/) - Erik Bruchez documented his process of building an exceptional Apple-1 clone in great detail, including some great tips for power supply building, adding more decoupling capacitors, mechanical tips, and more. Really neat to check out, especially before you build one of your own
+
 ## Goals and Contributing
 
 If you'd like to contribute, I'm always happy to accept work on anything that makes these files more accurate and complete. For more details, see the `readme.md` file located within each board's folder
