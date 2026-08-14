@@ -39,9 +39,6 @@ If you'd like to contribute, I'm always happy to accept work on anything that ma
 
 ### Schematics
 - Schematic files need creating for the original Datanetics keyboard
-
-#### Datanetics Keyboard (Modern)
-The PCB file requires the installation of the plug-in library for Cherry MX keyswitches
 ### Gerber Files
 Gerbers based on the PCB files have not yet been generated. only the original imported gerbers are located within the respective board's folder
 

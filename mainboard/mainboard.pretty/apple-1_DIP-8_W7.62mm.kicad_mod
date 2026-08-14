@@ -6,10 +6,10 @@
 	(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
 	(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 	(property "Reference" "C11A1"
-		(at 3.81 9.5 180)
+		(at 3.81 3.937 180)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "3363de6e-8f28-4c43-8ef9-c27f595e1d4b")
+		(uuid "0df91412-bbab-43e5-abee-5e93d7294920")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,8 @@
 		(at 3.81 -2.54 180)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "cbf4bfb7-7f04-48e5-af5b-9d9a1cc4b3e8")
+		(hide yes)
+		(uuid "fd4a59d6-b70a-4f85-b9c2-11bd34cde663")
 		(effects
 			(font
 				(face "Routed Gothic")
@@ -176,7 +177,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "170fce22-619f-4ec2-8273-c43e9b1fbf95")
+		(uuid "c47336df-cb6e-4cad-887d-d7638bd21738")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -187,7 +188,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2123041a-b235-426f-b417-b01d0467149a")
+		(uuid "51d888a5-54ca-4df9-a807-c5154af195d3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -198,7 +199,7 @@
 		(at 0 0 180)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "09786305-09fa-420a-8c7b-26c0eb9701b4")
+		(uuid "88cdc777-ff3a-44e4-9695-5fc3d9ddce87")
 		(effects
 			(font
 				(size 1 1)
@@ -212,55 +213,55 @@
 	(attr through_hole)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
-		(start 1.905 0.635)
-		(end 1.905 6.985)
+		(start 1.397 0.635)
+		(end 1.397 6.985)
 		(stroke
 			(width 0.254)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ad5f338a-74c8-46f0-8e40-55af89ba9ffe")
+		(uuid "f045f3f4-eb15-4165-89e5-e93c7b0e29d9")
 	)
 	(fp_line
-		(start 1.905 6.985)
-		(end 5.715 6.985)
+		(start 1.397 6.985)
+		(end 6.223 6.985)
 		(stroke
 			(width 0.254)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3d31e590-ba09-40fe-91c3-d1ad3abcef68")
+		(uuid "bb20ec9d-558c-4057-ab5a-010f6047ba24")
 	)
 	(fp_line
-		(start 5.715 0.635)
-		(end 1.905 0.635)
+		(start 6.223 0.635)
+		(end 1.397 0.635)
 		(stroke
 			(width 0.254)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "08395252-7531-4f0b-b82c-c40a03946d3c")
+		(uuid "58d2f54c-f245-4fb3-8a64-8f954b975dcf")
 	)
 	(fp_line
-		(start 5.715 6.985)
-		(end 5.715 0.635)
+		(start 6.223 6.985)
+		(end 6.223 0.635)
 		(stroke
 			(width 0.254)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a1963303-5caf-42f4-87b3-0fd66460b198")
+		(uuid "cf7fab54-a7b6-42f1-b6ba-a511e58ab871")
 	)
 	(fp_arc
-		(start 4.572 0.635)
-		(mid 3.81 1.397)
-		(end 3.048 0.635)
+		(start 4.953 0.635)
+		(mid 3.81 1.778)
+		(end 2.667 0.635)
 		(stroke
 			(width 0.254)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "f512ffff-a24d-493c-8213-0236381c4eac")
+		(uuid "0c483bf9-491a-45c5-bc6c-5a00bc7de1a0")
 	)
 	(fp_circle
 		(center -1.905 -1.27)
@@ -271,7 +272,7 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
-		(uuid "0870a5a4-c510-42b2-80de-eb2407559961")
+		(uuid "e045e792-93fe-4945-bf03-70d622dc12a4")
 	)
 	(fp_rect
 		(start -1.5875 -1.27)
@@ -282,7 +283,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "86e9d0aa-1a4f-4123-bae0-6bd8f2c48db4")
+		(uuid "3c8ec52d-864e-44f4-b506-805591034f7f")
 	)
 	(fp_line
 		(start 0.635 -0.27)
@@ -292,7 +293,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "f01f3542-dc8d-4422-bbe5-02ac1e06346c")
+		(uuid "38cb5274-268c-4033-a27b-d7172d611748")
 	)
 	(fp_line
 		(start 0.635 8.89)
@@ -302,7 +303,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5c9362f6-4190-4ae6-9789-92b32bdc752a")
+		(uuid "2e89bea8-a98a-4627-83d3-39942721e413")
 	)
 	(fp_line
 		(start 1.635 -1.27)
@@ -312,7 +313,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "a8b1a4ab-c0fe-494e-8c09-58ef7c9089e4")
+		(uuid "6a48a3a7-c68c-4331-b1d1-16dc64003825")
 	)
 	(fp_line
 		(start 6.985 -1.27)
@@ -322,7 +323,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "f98d3677-c0e6-49d9-8f7a-b0d4df7ade1a")
+		(uuid "3d6129e5-630e-4bc2-ac6b-e20989c8e527")
 	)
 	(fp_line
 		(start 6.985 8.89)
@@ -332,13 +333,13 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "26e2f4e8-20be-495a-8609-e8ae9a557aa3")
+		(uuid "a6311476-b04c-466b-985a-c3a311dc91f4")
 	)
 	(point
 		(at 3.81 3.81)
 		(size 1.27)
 		(layer "F.Fab")
-		(uuid "fba41ccd-a52e-4ad9-ab46-8aecfbf3a2a2")
+		(uuid "b6ba8dc6-242d-4ddf-8ad7-11bb16b501a3")
 	)
 	(pad "1" thru_hole oval
 		(at 0 0)
@@ -346,7 +347,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "951d5994-b135-443a-9c32-1696effbc852")
+		(uuid "2518e44e-9596-46e2-9a28-e87078eb2849")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -534,7 +535,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "4ce473b7-4b33-4136-8c0a-2713fcbb7a58")
+		(uuid "4beb5ed3-ccf8-41e1-b160-6bff2683688a")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -722,7 +723,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "a34555f9-933b-4467-bdec-3136d205b270")
+		(uuid "749d979e-e630-44ed-9450-ac913cd76394")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -910,7 +911,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "11c5237d-822b-4702-b7b3-07cf8d1df144")
+		(uuid "7329591d-6e26-4d13-b958-70741c586c6d")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -1098,7 +1099,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "005922e4-d9c6-45ad-bc16-76186c872056")
+		(uuid "f7ec9375-560e-4e0c-831f-6a2b59933fe6")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -1286,7 +1287,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "dc7339c2-aae6-41f6-b985-71214fb3d2f3")
+		(uuid "082bc3bd-882e-48cf-980e-bbc327c1dafd")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -1474,7 +1475,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "1711ca8a-7730-43eb-885b-ab3a6221aacd")
+		(uuid "5827c404-48c6-4dfb-a3e6-da3ce8822c74")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"
@@ -1662,7 +1663,7 @@
 		(drill 0.889)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "b7950dc8-a34b-41b7-9ac9-23ae72acead0")
+		(uuid "7a400d61-9a37-4200-8e96-0be478ebeb12")
 		(padstack
 			(mode custom)
 			(layer "In1.Cu"

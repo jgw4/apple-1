@@ -2711,7 +2711,7 @@
 		(in_bom no)
 		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d36b31b")
 		(property "Reference" "P1"
 			(at 66.675 75.565 0)
@@ -2800,7 +2800,7 @@
 		(in_bom yes)
 		(on_board no)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d5be423")
 		(property "Reference" "J15"
 			(at 160.782 97.8916 0)

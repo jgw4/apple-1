@@ -10982,7 +10982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal_Mirrored"
+		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal"
 			(at 97.79 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11060,7 +11060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal_Mirrored"
+		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal"
 			(at 97.79 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11524,7 +11524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Axial_22MF_25V_P1200mils_Horizontal"
+		(property "Footprint" "mainboard:apple-1_C_Axial_L12.0mm_D6.5mm_P20.00mm_Horizontal"
 			(at 170.18 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -11626,7 +11626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_CP_Axial_L55.0mm_D26.0mm_P55.88mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_CP_2400UF_25V_-+"
 			(at 124.46 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -11728,7 +11728,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Axial_22MF_25V_P1200mils_Horizontal"
+		(property "Footprint" "mainboard:apple-1_C_Axial_L12.0mm_D6.5mm_P20.00mm_Horizontal"
 			(at 170.18 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -11983,7 +11983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal_Mirrored"
+		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal"
 			(at 97.79 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -12061,7 +12061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal_Mirrored"
+		(property "Footprint" "mainboard:apple-1_D_5W_P10.16mm_Horizontal"
 			(at 97.79 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13006,7 +13006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_VH_B6P-VH_1x06_P3.96mm_Vertical"
+		(property "Footprint" "mainboard:apple-1_JST_VH_B6P-VH_1x06_P3.96mm_Vertical"
 			(at 58.42 55.88 0)
 			(hide yes)
 			(show_name no)

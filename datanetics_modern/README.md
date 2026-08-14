@@ -95,6 +95,9 @@ If you want to connect this keyboard to an Apple 1, you can use the following wi
 | 14 | Extra key 2 | |
 | 15 | Extra key 2 | |
 
+## Notes on the KiCad Files
+The PCB file uses the plug-in library for Cherry MX keyswitches
+
 ## License
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License. See [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).

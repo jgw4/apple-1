@@ -28401,7 +28401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Resonator-2Pin_W10.0mm_H5.0mm"
+		(property "Footprint" "mainboard:apple-1_Crystal_HC49-U_Vertical"
 			(at 72.39 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -33718,7 +33718,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_POT")
-		(at 137.16 251.46 180)
+		(at 137.16 251.46 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33728,7 +33729,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006af04f0d")
 		(property "Reference" "R12"
-			(at 138.938 250.2916 0)
+			(at 138.938 252.6284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33739,7 +33740,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 138.938 252.603 0)
+			(at 138.938 250.317 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33749,7 +33750,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "mainboard:apple-1_Potentiometer_Bourns_3329H_Vertical"
 			(at 137.16 251.46 0)
 			(hide yes)
 			(show_name no)

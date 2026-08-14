@@ -23533,10 +23533,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d434884")
 		(property "Reference" "C8"
 			(at 248.158 253.238 0)
@@ -23625,10 +23625,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d434bc0")
 		(property "Reference" "C9"
 			(at 248.412 237.998 0)
@@ -23717,10 +23717,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d482e0c")
 		(property "Reference" "R21"
 			(at 259.334 240.284 0)
@@ -23795,10 +23795,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d4832df")
 		(property "Reference" "R20"
 			(at 259.334 250.444 0)
@@ -23873,10 +23873,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d484e03")
 		(property "Reference" "R16"
 			(at 247.142 263.144 0)
@@ -23954,10 +23954,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d4860c0")
 		(property "Reference" "R17"
 			(at 247.396 227.838 0)
@@ -27571,10 +27571,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d828a37")
 		(property "Reference" "C12"
 			(at 261.874 233.426 0)
@@ -35907,7 +35907,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d9b078f")
 		(property "Reference" "Q1"
 			(at 256.54 259.08 0)
@@ -35990,7 +35990,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d9b817f")
 		(property "Reference" "Q2"
 			(at 256.54 233.68 0)
@@ -36142,6 +36142,7 @@
 	(symbol
 		(lib_id "Device:C_Small")
 		(at 419.1 142.24 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -36151,7 +36152,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005da3c6a1")
 		(property "Reference" "C19"
-			(at 410.845 140.97 0)
+			(at 410.845 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36162,7 +36163,7 @@
 			)
 		)
 		(property "Value" "47 PF"
-			(at 413.385 142.875 0)
+			(at 413.385 141.605 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38066,10 +38067,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4ad")
 		(property "Reference" "C10"
 			(at 248.158 303.53 0)
@@ -38158,10 +38159,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4b3")
 		(property "Reference" "C11"
 			(at 247.904 288.798 0)
@@ -38250,10 +38251,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4b9")
 		(property "Reference" "R23"
 			(at 259.334 291.338 0)
@@ -38328,10 +38329,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4bf")
 		(property "Reference" "R22"
 			(at 259.334 301.244 0)
@@ -38406,10 +38407,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4c5")
 		(property "Reference" "R18"
 			(at 247.142 313.944 0)
@@ -38487,10 +38488,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4cb")
 		(property "Reference" "R19"
 			(at 247.142 278.892 0)
@@ -38567,10 +38568,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4d1")
 		(property "Reference" "C13"
 			(at 261.874 283.718 0)
@@ -38813,7 +38814,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4e3")
 		(property "Reference" "Q3"
 			(at 256.54 309.88 0)
@@ -38896,7 +38897,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f35b4eb")
 		(property "Reference" "Q4"
 			(at 256.54 284.48 0)
@@ -41006,7 +41007,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 27.94 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41097,7 +41098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 35.56 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41188,7 +41189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 43.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41279,7 +41280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 50.8 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -41370,7 +41371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 27.94 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41461,7 +41462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 35.56 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41552,7 +41553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 43.18 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -41643,7 +41644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P275mils"
 			(at 50.8 116.84 0)
 			(hide yes)
 			(show_name no)
