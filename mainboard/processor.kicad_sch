@@ -3300,6 +3300,172 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "CP1_Small_1"
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Device_CP1_Small"
+				(at 0.254 -2.032 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CP1_Small_1_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.524) (xy -0.762 1.524)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy -1.016 1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.524 -0.762)
+					(mid 0 -0.3734)
+					(end 1.524 -0.762)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CP1_Small_1_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "C_Small_1"
 			(pin_names
 				(offset 0.254)
@@ -10502,9 +10668,9 @@
 		)
 		(uuid "672fe781-4a13-49ac-be73-4c7a7f97844e")
 	)
-	(text "UNIT IS SUPPLIED WITH :\n Y JUMPERED TO CSF\n Z JUMPERED TO CSD\n W JUMPERED TO CS1\n X JUMPERED TO CS0\n\nR, S AND T ARE USER SELECTABLE\nCHIP SELECTS. (4K BLOCKS)"
+	(text "NOTES: (continued from sheet 1/3)\n\n7.	UNIT, AS SUPPLIED, IN-\n	CLUDES A 6502 MICRO-\n	PROCESSOR, AND SOLDER\n	JUMPERS AT BOTH POINTS\n	MARKED \"6502\", AND HAS\n	OMITTED ALL COMPON-\n	ENTS SHOWN WITHIN THE\n	DOTTED BOX. IF A 6800\n	IS SUBSTITUTED FOR THE\n	6502 IT IS NECESSARY TO\n	INSTALL ALL COMPON-\n	ENTS SHOWN, AND TO\n	BREAK BOTH SOLDER\n	BRIDGES NOTED \"6502\".\n\n8.	UNIT IS SUPPLIED WITH :\n		Y JUMPERED TO CSF\n		Z JUMPERED TO CSD\n		W JUMPERED TO CS1\n		X JUMPERED TO CS0\n\n	R, S AND T ARE USER\n	SELECTABLE CHIP\n	SELECTS. (4K BLOCKS)"
 		(exclude_from_sim no)
-		(at 484.505 340.995 0)
+		(at 505.46 263.652 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10637,6 +10803,12 @@
 		(uuid "12f6debd-bad8-4f26-b6f3-d8899bf3ea15")
 	)
 	(junction
+		(at 24.13 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1522bf88-a428-4743-8424-da6165f825cd")
+	)
+	(junction
 		(at 152.4 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10661,10 +10833,22 @@
 		(uuid "1a9450f5-ae15-485d-927f-9fbf54872815")
 	)
 	(junction
+		(at 46.99 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1cd1e1cb-c3f1-4e23-b458-9ba201e5e369")
+	)
+	(junction
 		(at 294.64 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d767748-15f1-40a6-8001-2879960c182d")
+	)
+	(junction
+		(at 31.75 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "220dadbd-5e2c-4bab-8108-151c2319042e")
 	)
 	(junction
 		(at 226.06 53.34)
@@ -10773,6 +10957,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53b1d873-75c1-4c41-b652-1834bbaecffb")
+	)
+	(junction
+		(at 24.13 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "540a60e5-1855-41d7-94c9-6f6d5f37a4da")
 	)
 	(junction
 		(at 421.64 279.4)
@@ -11093,6 +11283,12 @@
 		(uuid "b303c139-0e29-42c3-8dda-604d30985fa1")
 	)
 	(junction
+		(at 16.51 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6f6e606-baed-4089-985a-376c53de02ba")
+	)
+	(junction
 		(at 294.64 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11141,6 +11337,12 @@
 		(uuid "c1fb8dad-18f8-4845-892f-060aae9da45a")
 	)
 	(junction
+		(at 31.75 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c593e842-b607-4418-ac7a-9374774c1af9")
+	)
+	(junction
 		(at 426.72 330.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11157,6 +11359,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cbc9f187-ccc9-4096-8517-eeb8af90b728")
+	)
+	(junction
+		(at 39.37 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc83d7a2-09a4-4658-87c6-26796c280440")
 	)
 	(junction
 		(at 142.24 139.7)
@@ -11205,6 +11413,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc33ceb6-dfe3-4d17-b8f2-e5b2a873fcd9")
+	)
+	(junction
+		(at 46.99 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dca3ee7c-dbcd-4be8-bfb5-9fea1527b507")
 	)
 	(junction
 		(at 106.68 50.8)
@@ -11289,6 +11503,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4704436-08a1-4f45-8a2c-bdf0e33d1dad")
+	)
+	(junction
+		(at 39.37 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f88fbd07-1fe5-49ab-88c3-17760c981203")
 	)
 	(junction
 		(at 454.66 167.64)
@@ -14505,6 +14725,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 154.94) (xy 31.75 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3580e9d2-7fdf-48c1-932a-1349cf1b0c1d")
+	)
+	(wire
+		(pts
 			(xy 477.52 243.84) (xy 477.52 271.78)
 		)
 		(stroke
@@ -14512,6 +14742,16 @@
 			(type default)
 		)
 		(uuid "35fe5e14-a84d-44b7-95f2-c6a1ed9e9408")
+	)
+	(wire
+		(pts
+			(xy 39.37 154.94) (xy 46.99 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3628e026-7df7-4d6d-b90c-492ac99ead97")
 	)
 	(wire
 		(pts
@@ -14572,6 +14812,16 @@
 			(type default)
 		)
 		(uuid "3879055b-a244-494d-b71d-c7a9b1ecb700")
+	)
+	(wire
+		(pts
+			(xy 24.13 154.94) (xy 24.13 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38b9ec04-a077-4cf4-bb88-fd7ef0d7227d")
 	)
 	(wire
 		(pts
@@ -15045,6 +15295,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 157.48) (xy 39.37 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47e178e8-f0c9-45f1-abf6-555299fbd792")
+	)
+	(wire
+		(pts
 			(xy 408.94 330.2) (xy 426.72 330.2)
 		)
 		(stroke
@@ -15275,6 +15535,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 154.94) (xy 39.37 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51478469-4c3b-4d57-b16a-d88ee70390ff")
+	)
+	(wire
+		(pts
 			(xy 302.26 223.52) (xy 309.88 223.52)
 		)
 		(stroke
@@ -15312,6 +15582,16 @@
 			(type default)
 		)
 		(uuid "51e22232-014e-4037-9a16-4611ba75040e")
+	)
+	(wire
+		(pts
+			(xy 54.61 154.94) (xy 54.61 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5208f089-0676-4105-ba2b-65f801301268")
 	)
 	(wire
 		(pts
@@ -15475,6 +15755,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 144.78) (xy 39.37 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56d8a3d4-a02e-45ee-ad5d-8e1427a2caec")
+	)
+	(wire
+		(pts
 			(xy 208.28 317.5) (xy 208.28 314.96)
 		)
 		(stroke
@@ -15605,6 +15895,16 @@
 	)
 	(wire
 		(pts
+			(xy 16.51 144.78) (xy 24.13 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c209be2-34fa-45b6-b198-d82eac4e731f")
+	)
+	(wire
+		(pts
 			(xy 429.26 213.36) (xy 429.26 269.24)
 		)
 		(stroke
@@ -15642,6 +15942,16 @@
 			(type default)
 		)
 		(uuid "5d1136ca-d8a7-4970-b614-51ed5153250a")
+	)
+	(wire
+		(pts
+			(xy 16.51 152.4) (xy 16.51 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d7fb6a6-e12c-429a-a2d1-b4777f4abf6f")
 	)
 	(wire
 		(pts
@@ -15745,6 +16055,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 154.94) (xy 54.61 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "610d34cb-987f-4011-bddc-5604fe59f312")
+	)
+	(wire
+		(pts
 			(xy 68.58 91.44) (xy 81.28 91.44)
 		)
 		(stroke
@@ -15792,6 +16112,16 @@
 			(type default)
 		)
 		(uuid "62428216-f32b-4ff8-b57b-f83d81c8c96a")
+	)
+	(wire
+		(pts
+			(xy 46.99 147.32) (xy 46.99 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62929f47-89ee-474f-b387-2eb135d299c7")
 	)
 	(wire
 		(pts
@@ -16072,6 +16402,16 @@
 			(type default)
 		)
 		(uuid "6b6a5934-67c9-4e5c-b3eb-bd0df8699193")
+	)
+	(wire
+		(pts
+			(xy 24.13 144.78) (xy 31.75 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6be453a1-a622-41fe-b84a-36e99ad39b40")
 	)
 	(wire
 		(pts
@@ -16635,6 +16975,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 147.32) (xy 54.61 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ea6d27f-23cf-49e3-aeb4-d31b45df53d2")
+	)
+	(wire
+		(pts
 			(xy 114.3 81.28) (xy 121.92 81.28)
 		)
 		(stroke
@@ -16762,6 +17112,16 @@
 			(type default)
 		)
 		(uuid "848f90cd-9837-489c-a7a8-2ee3845ad2b1")
+	)
+	(wire
+		(pts
+			(xy 16.51 154.94) (xy 24.13 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84d62bdb-d348-432c-9473-72d4ca78f325")
 	)
 	(wire
 		(pts
@@ -17082,6 +17442,16 @@
 			(type default)
 		)
 		(uuid "8f665c92-75cc-48df-837f-0d33224c5174")
+	)
+	(wire
+		(pts
+			(xy 54.61 144.78) (xy 46.99 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "903b0e7d-43e1-4c24-9783-ec756003e18f")
 	)
 	(wire
 		(pts
@@ -17875,6 +18245,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 144.78) (xy 39.37 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab665bba-7c05-4240-8b7d-f1f6656b9dbb")
+	)
+	(wire
+		(pts
 			(xy 170.18 223.52) (xy 170.18 254)
 		)
 		(stroke
@@ -18082,6 +18462,16 @@
 			(type default)
 		)
 		(uuid "b47d9548-d344-4bed-8bb8-d52f90b1ae85")
+	)
+	(wire
+		(pts
+			(xy 31.75 147.32) (xy 31.75 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b489220a-7eda-408e-ac71-0697ef44fbf4")
 	)
 	(wire
 		(pts
@@ -18312,6 +18702,16 @@
 			(type default)
 		)
 		(uuid "bd64374f-c2e6-4d2b-935c-b8b641b2bfde")
+	)
+	(wire
+		(pts
+			(xy 39.37 154.94) (xy 39.37 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdbf050d-18bf-469d-8415-87a8833b9507")
 	)
 	(bus
 		(pts
@@ -18772,6 +19172,16 @@
 			(type default)
 		)
 		(uuid "cf300b4f-1364-4cea-b754-19c9e4555236")
+	)
+	(wire
+		(pts
+			(xy 24.13 147.32) (xy 24.13 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf9ff5ca-d122-4ea2-a3a2-b04971c459f2")
 	)
 	(wire
 		(pts
@@ -19785,6 +20195,16 @@
 	)
 	(wire
 		(pts
+			(xy 16.51 147.32) (xy 16.51 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f41744d5-c586-4d6e-907e-425ba8aa7fcd")
+	)
+	(wire
+		(pts
 			(xy 147.32 256.54) (xy 167.64 256.54)
 		)
 		(stroke
@@ -19985,6 +20405,26 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 144.78) (xy 39.37 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faacc479-9aa4-4ce2-9c3f-707fc03dabd2")
+	)
+	(wire
+		(pts
+			(xy 46.99 154.94) (xy 46.99 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faaf6dbc-e086-4b4e-868f-de9b1829eb3a")
+	)
+	(wire
+		(pts
 			(xy 317.5 81.28) (xy 325.12 81.28)
 		)
 		(stroke
@@ -20002,6 +20442,16 @@
 			(type default)
 		)
 		(uuid "fb1de231-752e-4e54-be5d-ae17e91c7184")
+	)
+	(wire
+		(pts
+			(xy 31.75 152.4) (xy 31.75 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb92d2c1-dc24-448a-ac4c-0c3d7b883bbf")
 	)
 	(wire
 		(pts
@@ -40492,7 +40942,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_KBD-IRQ"
 			(at 157.48 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -40572,7 +41022,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "mainboard:apple-1_DSP-NMI"
 			(at 157.48 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -42488,6 +42938,706 @@
 			(project "mainboard"
 				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
 					(reference "#PWR0294")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 16.51 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "159b73f3-4e3a-4f02-ba4b-77f19edaf30d")
+		(property "Reference" "#PWR0315"
+			(at 16.51 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 16.891 140.3858 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 16.51 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 16.51 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 16.51 144.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e30a28b2-b4c2-443a-99d6-2a43df75307c")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "#PWR0315")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:CP1_Small")
+		(at 39.37 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1755bcbb-3e19-402a-ae48-b68fa7600bdb")
+		(property "Reference" "C28"
+			(at 39.37 148.336 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.0u"
+			(at 39.878 151.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+			(at 39.37 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 39.37 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ""
+			(at 39.37 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e056169f-be74-469d-9896-d9f385cce65e")
+		)
+		(pin "2"
+			(uuid "cc75ffb6-056c-4604-8398-0df3dd6c12a4")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 39.37 157.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "697dfa82-8ac2-43cf-abcd-19d59ab443c4")
+		(property "Reference" "#PWR0316"
+			(at 39.37 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 39.497 161.8742 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 39.37 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "98072ed8-25c5-4d91-a6c7-3de8849a33e7")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "#PWR0316")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:CP1_Small")
+		(at 54.61 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7afafba3-b400-4da1-b2ac-26556823b6bf")
+		(property "Reference" "C30"
+			(at 54.61 148.336 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.0u"
+			(at 55.118 151.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+			(at 54.61 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 54.61 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ""
+			(at 54.61 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ffd4f2f7-132d-4f0e-a27c-dc19b6665ed5")
+		)
+		(pin "2"
+			(uuid "bcb30cc2-d496-4db7-bcf1-c3ad5564fbcf")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:CP1_Small")
+		(at 16.51 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8b9f93d1-2930-4525-807b-5752297a571a")
+		(property "Reference" "C25"
+			(at 16.51 148.336 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.0u"
+			(at 16.51 151.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+			(at 16.51 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 16.51 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 16.51 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ""
+			(at 16.51 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "937bc483-d2eb-4fba-be4b-4364503bef75")
+		)
+		(pin "2"
+			(uuid "979dedff-d50c-4bf5-bcc8-544722fd0da6")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:CP1_Small")
+		(at 24.13 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a691910d-1f74-4a3d-8355-1be7ac343592")
+		(property "Reference" "C26"
+			(at 24.13 148.336 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.0u"
+			(at 24.13 151.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+			(at 24.13 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ""
+			(at 24.13 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3712cc74-84ea-4b17-84b1-141db3d38a35")
+		)
+		(pin "2"
+			(uuid "91459258-2165-414a-b7f4-5093b39585a6")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:CP1_Small")
+		(at 31.75 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aa3d3705-259c-4b97-a401-07e1358f9465")
+		(property "Reference" "C27"
+			(at 31.75 148.336 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.0u"
+			(at 32.258 151.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+			(at 31.75 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 31.75 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ""
+			(at 31.75 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a5c3d81e-8535-47ae-8109-cd2c7a3d347a")
+		)
+		(pin "2"
+			(uuid "42af5e39-3acf-443a-9901-1f74b8dae7c5")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "CP1_Small_1")
+		(lib_id "Device:CP1_Small")
+		(at 46.99 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e44dcdaa-837d-4d01-9d34-31d0dbf03d92")
+		(property "Reference" "C29"
+			(at 46.99 148.336 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.0u"
+			(at 47.498 151.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mainboard:apple-1_C_Disc_D16.0mm_W5.0mm_P7.50mm"
+			(at 46.99 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 46.99 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Comment" ""
+			(at 46.99 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "97554490-45a8-4911-a7c6-bb76816b8ca5")
+		)
+		(pin "2"
+			(uuid "65cc86ea-7d86-461c-a539-4435020ad531")
+		)
+		(instances
+			(project "mainboard"
+				(path "/b38b6155-24ef-4e7a-9d9a-2cb213939c19/00000000-0000-0000-0000-00005d3a5db0"
+					(reference "C29")
 					(unit 1)
 				)
 			)

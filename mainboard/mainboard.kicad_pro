@@ -555,7 +555,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "apple1.net",
-      "plot": "gerbers/mainboard/",
+      "plot": "../",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -691,7 +691,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "apple1template.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -703,7 +703,7 @@
         "uuid": "b38b6155-24ef-4e7a-9d9a-2cb213939c19"
       }
     ],
-    "used_designators": "F1,J15,SW1,P1,T1-2",
+    "used_designators": "F1,J15,SW1,P1,#PWR315-316,T1-2,C25-30",
     "variants": []
   },
   "sheets": [
