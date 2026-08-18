@@ -1,0 +1,411 @@
+(kicad_wks
+	(version 20231118)
+	(generator "pl_editor")
+	(generator_version "10.0")
+	(setup
+		(textsize 2.54 2.54)
+		(linewidth 0.254)
+		(textlinewidth 0.254)
+		(left_margin 12.7)
+		(right_margin 12.7)
+		(top_margin 12.7)
+		(bottom_margin 12.7)
+	)
+	(rect
+		(name "")
+		(start 228.6 76.2)
+		(end 6.35 6.35)
+		(linewidth 1.27)
+		(comment "rect around the title block")
+	)
+	(rect
+		(name "")
+		(start 6.35 6.35 ltcorner)
+		(end 6.35 6.35)
+		(linewidth 1.27)
+	)
+	(line
+		(name "")
+		(start 13.27 6.35 ltcorner)
+		(end 13.27 0 ltcorner)
+		(repeat 30)
+		(incrx 104.775)
+	)
+	(tbtext "1"
+		(name "")
+		(pos 52.388 0 rtcorner)
+		(font
+			(size 6.35 6.35) bold)
+		(justify center)
+		(repeat 100)
+		(incrx 104.775)
+	)
+	(line
+		(name "")
+		(start 107.95 0)
+		(end 107.95 6.35)
+		(repeat 7)
+		(incrx 104.775)
+	)
+	(tbtext "1"
+		(name "")
+		(pos 52.388 1.27)
+		(font
+			(size 6.35 6.35) bold)
+		(justify center)
+		(repeat 8)
+		(incrx 104.775)
+	)
+	(line
+		(name "")
+		(start 0 133.35 lbcorner)
+		(end 6.35 133.35 lbcorner)
+		(repeat 30)
+		(incry 139.7)
+	)
+	(tbtext "A"
+		(name "")
+		(pos 0 66.675 lbcorner)
+		(font
+			(size 6.35 6.35) bold)
+		(justify center)
+		(repeat 100)
+		(incry 139.7)
+	)
+	(line
+		(name "")
+		(start 6.35 133.35)
+		(end 0 133.35)
+		(repeat 30)
+		(incry 133.35)
+	)
+	(tbtext "A"
+		(name "")
+		(pos 0 66.675)
+		(font
+			(size 6.35 6.35) bold)
+		(justify center)
+		(repeat 100)
+		(incry 139.7)
+	)
+	(line
+		(name "")
+		(start 116.84 12.7)
+		(end 6.35 12.7)
+	)
+	(tbtext "REV"
+		(name "")
+		(pos 14.58 23.64)
+		(font
+			(size 1.524 1.524)
+		)
+		(justify center)
+	)
+	(tbtext "SIZE"
+		(name "")
+		(pos 110.42 23.14)
+		(font
+			(size 1.524 1.524)
+		)
+		(justify center)
+		(comment "Paper format name")
+	)
+	(tbtext "${#}"
+		(name "")
+		(pos 26.54 10.16)
+		(font bold)
+		(comment "Sheet id")
+	)
+	(line
+		(name "")
+		(start 175.26 66.221)
+		(end 116.84 66.221)
+	)
+	(tbtext "${TITLE}"
+		(name "")
+		(pos 84.37 39.06)
+		(font
+			(face "Arial")
+			(size 6.35 6.35) bold italic)
+	)
+	(line
+		(name "")
+		(start 116.84 50.8)
+		(end 6.35 50.8)
+		(linewidth 1.27)
+	)
+	(tbtext "${SHEETNAME}"
+		(name "")
+		(pos 62.83 29.74)
+		(font
+			(face "Arial")
+			(size 2.54 2.54) bold)
+		(justify center)
+	)
+	(tbtext "${COMPANY}"
+		(name "")
+		(pos 87.95 66.93)
+		(font
+			(face "Arial")
+			(size 3.556 3.556) bold)
+		(comment "Company name")
+	)
+	(tbtext "${COMMENT1}"
+		(name "")
+		(pos 63.1 19.23)
+		(font
+			(face "Arial")
+			(size 6.35 6.35) bold)
+		(justify center)
+		(comment "Comment 0")
+	)
+	(tbtext "${COMMENT2}"
+		(name "")
+		(pos 159.35 93.35)
+		(comment "Comment 1")
+	)
+	(tbtext "${COMMENT3}"
+		(name "")
+		(pos 159.35 96.35)
+		(comment "Comment 2")
+	)
+	(tbtext "${COMMENT4}"
+		(name "")
+		(pos 159.35 99.35)
+		(comment "Comment 3")
+	)
+	(line
+		(name "")
+		(start 116.84 76.2)
+		(end 116.84 6.35)
+		(linewidth 1.27)
+	)
+	(tbtext "SCHEMATIC DIAGRAM"
+		(name "")
+		(pos 83.199 46.122)
+		(font
+			(face "Arial")
+		)
+	)
+	(tbtext "DRAWN BY"
+		(name "")
+		(pos 171.45 72.542)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "UNLESS OTHERWISE SPECIFIED\nDIMENSIONS ARE IN INCHES\nTOLERANCES ON:"
+		(name "")
+		(pos 206.459 54.082)
+		(font
+			(size 1.524 1.524)
+		)
+		(justify center)
+	)
+	(tbtext "CHECKED"
+		(name "")
+		(pos 171.45 63.672)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "DESIGN ENGINEER"
+		(name "")
+		(pos 171.45 53.012)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "PROJECT ENGINEER"
+		(name "")
+		(pos 171.45 43.432)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "DOCUMENT CONTROL"
+		(name "")
+		(pos 171.45 33.082)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "APPROVED"
+		(name "")
+		(pos 171.45 23.772)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "INTERPRET THIS DRAWING\nPER USASI Y14.5"
+		(name "")
+		(pos 220.989 67.812)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "MATERIAL:"
+		(name "")
+		(pos 224.859 31.312)
+	)
+	(line
+		(name "")
+		(start 175.26 76.2)
+		(end 175.26 6.35)
+		(linewidth 1.27)
+	)
+	(line
+		(name "")
+		(start 228.6 60.96)
+		(end 175.26 60.96)
+		(linewidth 1.27)
+	)
+	(line
+		(name "")
+		(start 228.6 34.29)
+		(end 175.26 34.29)
+		(linewidth 1.27)
+	)
+	(line
+		(name "")
+		(start 186.69 29.21)
+		(end 219.71 13.97)
+		(linewidth 0.508)
+	)
+	(line
+		(name "")
+		(start 215.9 12.7)
+		(end 185.42 26.67)
+		(linewidth 0.508)
+	)
+	(line
+		(name "")
+		(start 175.26 56.243)
+		(end 116.84 56.243)
+	)
+	(line
+		(name "")
+		(start 175.26 46.264)
+		(end 116.84 46.264)
+	)
+	(line
+		(name "")
+		(start 175.26 36.286)
+		(end 116.84 36.286)
+	)
+	(line
+		(name "")
+		(start 175.26 26.307)
+		(end 116.84 26.307)
+	)
+	(line
+		(name "")
+		(start 175.26 16.329)
+		(end 116.84 16.329)
+	)
+	(tbtext "${PAPER}"
+		(name "")
+		(pos 110.49 17.78)
+		(font
+			(face "Arial")
+			(size 5.08 5.08) bold)
+		(justify center)
+	)
+	(line
+		(name "")
+		(start 101.6 26.67)
+		(end 101.6 12.7)
+	)
+	(line
+		(name "")
+		(start 19.05 26.67)
+		(end 19.05 12.7)
+	)
+	(line
+		(name "")
+		(start 44.45 12.7)
+		(end 44.45 6.35)
+	)
+	(line
+		(name "")
+		(start 81.28 12.7)
+		(end 81.28 6.35)
+	)
+	(tbtext "FRACTIONS=+-1/16 .X=+-.1\nANGLES=+-1()     .XX=+-.03\nSURFACE FINISH"
+		(name "")
+		(pos 226.06 40.64)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "SCALE"
+		(name "")
+		(pos 114.3 10.16)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "DRAWING NO."
+		(name "")
+		(pos 99.06 22.86)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "DATE	"
+		(name "")
+		(pos 128.27 73.66)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(line
+		(name "")
+		(start 116.84 26.67)
+		(end 6.35 26.67)
+	)
+	(tbtext "SHEET	"
+		(name "")
+		(pos 43.18 10.16)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "OF"
+		(name "")
+		(pos 22.86 10.16)
+		(font
+			(size 1.524 1.524)
+		)
+	)
+	(tbtext "{##}"
+		(name "")
+		(pos 19.05 10.16)
+		(font bold)
+	)
+	(tbtext "${REVISION}"
+		(name "")
+		(pos 12.7 17.78)
+		(font
+			(face "Arial")
+			(size 3.556 3.556) bold)
+		(justify center)
+	)
+	(tbtext ""
+		(name "")
+		(pos 153.67 85.09)
+	)
+	(tbtext "A"
+		(name "")
+		(pos 109.22 62.23)
+		(font
+			(face "Segoe UI Black")
+			(size 20.32 15.24) bold italic)
+	)
+	(line
+		(name "")
+		(start 91.44 63.5)
+		(end 12.7 63.5)
+		(linewidth 0.508)
+	)
+)
