@@ -1,5 +1,7 @@
 This repository is a collection of different projects I've found around the internet relating to building a near-exact clone of the Apple-1 computer, as well as the home of the "Doppel-1" replica Apple-1 PCB. My intention is for it to act as a central repository for information that may otherwise be obscure decentralized, or link rot in the future. For aspiring builders, having everything in one place helps with prep work, troubleshooting, and familiarizes with the scope of the project.
 
+For more information on each project, see the README.md within each subdirectory listed below.
+
 ## Contents
 For further information on the projects in questions, read the README.md within each directory:
 

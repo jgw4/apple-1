@@ -3466,6 +3466,172 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "CP1_Small_2"
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Device_CP1_Small"
+				(at 0.254 -2.032 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CP1_Small_2_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.524) (xy -0.762 1.524)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy -1.016 1.778)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.524 -0.762)
+					(mid 0 -0.3734)
+					(end 1.524 -0.762)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CP1_Small_2_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "C_Small_1"
 			(pin_names
 				(offset 0.254)
@@ -5146,6 +5312,691 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "HalfJumper_1"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J12"
+				(at 1.27 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Y"
+				(at 4.0894 0.0762 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "mainboard:YJumper"
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HalfJumper_1_0_1"
+				(polyline
+					(pts
+						(xy 3.302 0.762) (xy 3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 3.302 -0.762)
+					(mid 2.54 0)
+					(end 3.302 0.762)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "HalfJumper_1_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "HalfJumper_2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J9"
+				(at 1.27 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Z"
+				(at 3.429 0.0254 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "mainboard:ZJumper"
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HalfJumper_2_0_1"
+				(polyline
+					(pts
+						(xy 3.302 0.762) (xy 3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 3.302 -0.762)
+					(mid 2.54 0)
+					(end 3.302 0.762)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "HalfJumper_2_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "HalfJumper_3"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J6"
+				(at 1.27 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "S"
+				(at 4.064 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "mainboard:SJumper"
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HalfJumper_3_0_1"
+				(polyline
+					(pts
+						(xy 3.302 0.762) (xy 3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 3.302 -0.762)
+					(mid 2.54 0)
+					(end 3.302 0.762)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "HalfJumper_3_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "HalfJumper_4"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J8"
+				(at 1.27 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "T"
+				(at 3.556 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "mainboard:TJumper"
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HalfJumper_4_0_1"
+				(polyline
+					(pts
+						(xy 3.302 0.762) (xy 3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 3.302 -0.762)
+					(mid 2.54 0)
+					(end 3.302 0.762)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "HalfJumper_4_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "HalfJumper_5"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J4"
+				(at 1.27 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "W"
+				(at 5.0038 0.0762 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "mainboard:WJumper"
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HalfJumper_5_0_1"
+				(polyline
+					(pts
+						(xy 3.302 0.762) (xy 3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 3.302 -0.762)
+					(mid 2.54 0)
+					(end 3.302 0.762)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "HalfJumper_5_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "HalfJumper_6"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J5"
+				(at 1.27 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "X"
+				(at 4.7498 0.1016 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "mainboard:XJumper"
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -1.27 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HalfJumper_6_0_1"
+				(polyline
+					(pts
+						(xy 3.302 0.762) (xy 3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 3.302 -0.762)
+					(mid 2.54 0)
+					(end 3.302 0.762)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "HalfJumper_6_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11337,6 +12188,12 @@
 		(uuid "c1fb8dad-18f8-4845-892f-060aae9da45a")
 	)
 	(junction
+		(at 208.28 322.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5240650-64fb-4ec1-9b44-df4862a9d1fc")
+	)
+	(junction
 		(at 31.75 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11485,12 +12342,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eeac7956-069f-490b-a551-cb9cf24c6a93")
-	)
-	(junction
-		(at 208.28 317.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f0d61c2a-ebf7-452d-9e56-64dd07f27101")
 	)
 	(junction
 		(at 132.08 172.72)
@@ -15765,16 +16616,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 317.5) (xy 208.28 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56f61c26-758c-4143-b07a-e41610984ee6")
-	)
-	(wire
-		(pts
 			(xy 53.34 264.16) (xy 58.42 264.16)
 		)
 		(stroke
@@ -17105,6 +17946,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 322.58) (xy 210.82 322.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8488a465-c7cb-4094-b1e0-2460e36ab110")
+	)
+	(wire
+		(pts
 			(xy 444.5 238.76) (xy 444.5 223.52)
 		)
 		(stroke
@@ -18042,16 +18893,6 @@
 			(type default)
 		)
 		(uuid "a3c5ea45-6470-4a76-8242-ff4cc2c41057")
-	)
-	(wire
-		(pts
-			(xy 157.48 228.6) (xy 157.48 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4026cf5-a4c4-486d-b792-02ab88b24b43")
 	)
 	(wire
 		(pts
@@ -19232,6 +20073,16 @@
 			(type default)
 		)
 		(uuid "d0ddacea-16d3-4402-a1e7-921ce0dc31fc")
+	)
+	(wire
+		(pts
+			(xy 157.48 223.52) (xy 157.48 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0f80d86-febc-43b0-bbf6-1d278960f19a")
 	)
 	(wire
 		(pts
@@ -21573,16 +22424,6 @@
 		)
 		(uuid "6226029a-bdec-46e7-acaf-bb69be206ff1")
 	)
-	(label "-12V"
-		(at 160.02 228.6 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6407a8e2-1024-4135-998a-019ef13076b8")
-	)
 	(label "~{CAS}"
 		(at 81.28 101.6 180)
 		(effects
@@ -22172,16 +23013,6 @@
 			(justify left bottom)
 		)
 		(uuid "9ab3de6a-e30b-493f-8a34-911fbe24e8c9")
-	)
-	(label "+12V"
-		(at 162.56 228.6 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9bf276d1-6124-4623-9294-76e4a032d760")
 	)
 	(label "R~{W}"
 		(at 325.12 96.52 180)
@@ -23625,6 +24456,30 @@
 			)
 		)
 	)
+	(global_label "-12V"
+		(shape input)
+		(at 160.02 228.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4aecd524-3a9f-4449-8944-c93c4037ae3d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.02 236.011 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "H4"
 		(shape input)
 		(at 396.24 210.82 180)
@@ -23754,6 +24609,54 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+	)
+	(global_label "+12V"
+		(shape input)
+		(at 162.56 228.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "84ede332-23f9-4c73-81e6-7c9b3cfb4b5e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 236.011 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "KEYB_CLR"
+		(shape input)
+		(at 157.48 228.6 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8cf08849-0f45-4eb0-afc2-464518cf49fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 240.2443 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -23923,28 +24826,6 @@
 		(uuid "eff3bf3f-c776-4ffc-b386-c6dae9dd78ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 147.32 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-	)
-	(global_label "KEYB_CLR"
-		(shape output)
-		(at 157.48 228.6 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f7907ae2-3c92-491b-89a0-1652291a678e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.48 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25118,6 +25999,7 @@
 		)
 		(property "Description" ".156X.140 2X22 EDGE CONNECTOR"
 			(at 63.5 274.32 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25279,6 +26161,7 @@
 		)
 	)
 	(symbol
+		(lib_name "HalfJumper_2")
 		(lib_id "apple1:HalfJumper")
 		(at 116.84 254 180)
 		(unit 1)
@@ -25343,7 +26226,7 @@
 				)
 			)
 		)
-		(pin "1"
+		(pin "23"
 			(uuid "3094a0d9-667e-469c-97b3-3279a8906aff")
 		)
 		(instances
@@ -27939,6 +28822,7 @@
 		)
 	)
 	(symbol
+		(lib_name "HalfJumper_5")
 		(lib_id "apple1:HalfJumper")
 		(at 58.42 50.8 180)
 		(unit 1)
@@ -28003,7 +28887,7 @@
 				)
 			)
 		)
-		(pin "1"
+		(pin "20"
 			(uuid "50e0060d-10f9-4f66-a65d-5c0abe15d883")
 		)
 		(instances
@@ -31398,6 +32282,7 @@
 		)
 	)
 	(symbol
+		(lib_name "HalfJumper_6")
 		(lib_id "apple1:HalfJumper")
 		(at 58.42 53.34 180)
 		(unit 1)
@@ -31462,7 +32347,7 @@
 				)
 			)
 		)
-		(pin "1"
+		(pin "21"
 			(uuid "7f6e66a7-ec0d-4aa0-b941-5b7fdbeb6677")
 		)
 		(instances
@@ -35053,6 +35938,7 @@
 		)
 	)
 	(symbol
+		(lib_name "HalfJumper_3")
 		(lib_id "apple1:HalfJumper")
 		(at 58.42 274.32 180)
 		(unit 1)
@@ -35116,7 +36002,7 @@
 				)
 			)
 		)
-		(pin "1"
+		(pin "18"
 			(uuid "b343b297-7b1f-4ba9-bcfa-e898975524a8")
 		)
 		(instances
@@ -35129,6 +36015,7 @@
 		)
 	)
 	(symbol
+		(lib_name "HalfJumper_1")
 		(lib_id "apple1:HalfJumper")
 		(at 439.42 116.84 180)
 		(unit 1)
@@ -35192,7 +36079,7 @@
 				)
 			)
 		)
-		(pin "1"
+		(pin "22"
 			(uuid "17538317-8ef5-4a19-b504-bd54f6433f8e")
 		)
 		(instances
@@ -35320,6 +36207,7 @@
 		)
 	)
 	(symbol
+		(lib_name "HalfJumper_4")
 		(lib_id "apple1:HalfJumper")
 		(at 71.12 271.78 0)
 		(unit 1)
@@ -35384,7 +36272,7 @@
 				)
 			)
 		)
-		(pin "1"
+		(pin "19"
 			(uuid "75d14002-1dfd-457d-9c36-f475c27b2852")
 		)
 		(instances
@@ -36909,7 +37797,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ddb4347")
 		(property "Reference" "C20"
-			(at 210.6168 321.2084 0)
+			(at 211.074 320.0654 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36920,7 +37808,7 @@
 			)
 		)
 		(property "Value" ".001"
-			(at 210.6168 318.897 0)
+			(at 211.074 317.754 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40678,7 +41566,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 208.28 312.42 180)
+		(at 213.36 322.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -40688,7 +41576,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fd6e366")
 		(property "Reference" "R29"
-			(at 210.185 311.785 0)
+			(at 213.995 324.485 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40699,7 +41587,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 213.995 313.69 0)
+			(at 212.09 328.295 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40710,7 +41598,7 @@
 			)
 		)
 		(property "Footprint" "mainboard:apple-1_R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 208.28 312.42 0)
+			(at 213.36 322.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40721,7 +41609,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 312.42 0)
+			(at 213.36 322.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40732,7 +41620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 208.28 312.42 0)
+			(at 213.36 322.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40758,7 +41646,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 208.28 309.88 0)
+		(at 215.9 322.58 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -40768,7 +41656,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fd6e373")
 		(property "Reference" "#PWR0202"
-			(at 208.28 313.69 0)
+			(at 212.09 322.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40779,7 +41667,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 208.28 306.07 0)
+			(at 219.71 322.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40789,7 +41677,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 309.88 0)
+			(at 215.9 322.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40800,7 +41688,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 309.88 0)
+			(at 215.9 322.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40811,7 +41699,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 208.28 309.88 0)
+			(at 215.9 322.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43022,6 +43910,7 @@
 	(symbol
 		(lib_id "Device:CP1_Small")
 		(at 39.37 149.86 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -43031,7 +43920,7 @@
 		(dnp no)
 		(uuid "1755bcbb-3e19-402a-ae48-b68fa7600bdb")
 		(property "Reference" "C28"
-			(at 39.37 148.336 0)
+			(at 39.37 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43042,7 +43931,7 @@
 			)
 		)
 		(property "Value" "1.0u"
-			(at 39.878 151.638 0)
+			(at 39.878 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43190,6 +44079,7 @@
 	(symbol
 		(lib_id "Device:CP1_Small")
 		(at 54.61 149.86 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -43199,7 +44089,7 @@
 		(dnp no)
 		(uuid "7afafba3-b400-4da1-b2ac-26556823b6bf")
 		(property "Reference" "C30"
-			(at 54.61 148.336 0)
+			(at 54.61 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43210,7 +44100,7 @@
 			)
 		)
 		(property "Value" "1.0u"
-			(at 55.118 151.638 0)
+			(at 55.118 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43279,8 +44169,10 @@
 		)
 	)
 	(symbol
+		(lib_name "CP1_Small_2")
 		(lib_id "Device:CP1_Small")
 		(at 16.51 149.86 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -43290,7 +44182,7 @@
 		(dnp no)
 		(uuid "8b9f93d1-2930-4525-807b-5752297a571a")
 		(property "Reference" "C25"
-			(at 16.51 148.336 0)
+			(at 16.51 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43301,7 +44193,7 @@
 			)
 		)
 		(property "Value" "1.0u"
-			(at 16.51 151.638 0)
+			(at 16.51 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43372,6 +44264,7 @@
 	(symbol
 		(lib_id "Device:CP1_Small")
 		(at 24.13 149.86 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -43381,7 +44274,7 @@
 		(dnp no)
 		(uuid "a691910d-1f74-4a3d-8355-1be7ac343592")
 		(property "Reference" "C26"
-			(at 24.13 148.336 0)
+			(at 24.13 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43392,7 +44285,7 @@
 			)
 		)
 		(property "Value" "1.0u"
-			(at 24.13 151.638 0)
+			(at 24.13 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43463,6 +44356,7 @@
 	(symbol
 		(lib_id "Device:CP1_Small")
 		(at 31.75 149.86 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -43472,7 +44366,7 @@
 		(dnp no)
 		(uuid "aa3d3705-259c-4b97-a401-07e1358f9465")
 		(property "Reference" "C27"
-			(at 31.75 148.336 0)
+			(at 31.75 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43483,7 +44377,7 @@
 			)
 		)
 		(property "Value" "1.0u"
-			(at 32.258 151.638 0)
+			(at 32.258 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43555,6 +44449,7 @@
 		(lib_name "CP1_Small_1")
 		(lib_id "Device:CP1_Small")
 		(at 46.99 149.86 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -43564,7 +44459,7 @@
 		(dnp no)
 		(uuid "e44dcdaa-837d-4d01-9d34-31d0dbf03d92")
 		(property "Reference" "C29"
-			(at 46.99 148.336 0)
+			(at 46.99 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43575,7 +44470,7 @@
 			)
 		)
 		(property "Value" "1.0u"
-			(at 47.498 151.638 0)
+			(at 47.498 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

@@ -5,7 +5,7 @@
 	(uuid "067a6621-db03-4384-8f55-14de770139e3")
 	(paper "A")
 	(title_block
-		(title "Processor Section")
+		(title "Apple I - Processor Section")
 		(comment 1 "Drawn by Nicolas Robin")
 	)
 	(lib_symbols
